@@ -425,10 +425,11 @@
   "asoliveharvestnearspalestinianfarmersurgentlyneedinternationalprotection": 1791116148.2448747,
   "courtquashesblockonmothersandchildreningazajoiningfamiliesinuk": 1791116148.3867168,
   "jewsonicethesearethejewishnhlstarstowatchthishockeyseason": 1791117219.620083,
-  "prosecutorsays2iranianmenscoutedauksynagogueforachlorinebombplot": 1791117219.6569395
+  "prosecutorsays2iranianmenscoutedauksynagogueforachlorinebombplot": 1791117219.6569395,
+  "yemenleaderannouncesmajormilitaryoperationsagainstiran": 1791118030.650917
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T12:42:41.108063+00:00",
+ "last_run": "2026-10-04T12:47:12.196609+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -756,6 +757,10 @@
   },
   {
    "ts": "2026-10-04T12:42:39+00:00",
+   "esc6": 12
+  },
+  {
+   "ts": "2026-10-04T12:47:10+00:00",
    "esc6": 12
   }
  ]
