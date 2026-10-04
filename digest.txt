@@ -1,33 +1,54 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 10:10:01
+زمان تهران: 2026-10-04 10:15:06
   بازار آزاد (بانبست): فروش 268,900 | خرید 269,000  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,490  (خرید 268,010 / فروش 268,490)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 06:40 UTC
+زمان گزارش: 2026-10-04 06:45 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 72 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
 📈 روند: ℹ️ هنوز داده کافی برای مقایسه روند جمع نشده (چند ساعت دیگه تکمیل می‌شه)
 ⚔️ تشدیدآمیز در ۶ ساعت: 6 | در ۲۴ ساعت: 36
-🎖 عنوان نظامی در ۲۴ ساعت: 30 | خبر جدیدِ این نوبت: 3
+🎖 عنوان نظامی در ۲۴ ساعت: 30 | خبر جدیدِ این نوبت: 0
 
 🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 34 · ⚔️ نظامی 30 · 🤝 دیپلماسی 6 · 🛢️ انرژی/دریا 4 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: GN site:timesofisrael (11)، Jerusalem Post (9)، Al Jazeera (9)، Al-Monitor (9)، GN site:haaretz (7)، Israel National News (6)، Bing News (6)، Iran International (5)
 
-📰 خبرهای جدید:
-📰 Report: Flydubai Suspect Shared al-Qaida Imagery, Israeli Planes on Social Media
-   📌 منبع: GN site:haaretz
-   ⏱ 21.3 ساعت پیش
-📰 From Algeria to flydubai, hijackings have long plagued Israel (and the West)
-   📌 منبع: GN site:haaretz
-   ⏱ 64.9 ساعت پیش
-🛢️ قالیباف: آمریکایی‌ها از طریق میانجی‌ پیشنهاداتی مطرح کرده‌اند
-   📌 منبع: BBC Persian
-   🗞 «محمدباقر قالیباف، رئیس مجلس ایران در جلسه علنی امروز گفت «آمریکایی‌ها که در رسانه‌ها حرف دیگری می‌زنند، اخیراً از طریق میانجی، پیشنهادهایی مطرح کرده‌اند.» او همچنین گفت تا زمانی که هفت شرط ایران محقق نشود، تنگه هرمز باز نخواهد شد. ساعاتی پی»
-   ⏱ زمان نامشخص
+📰 آخرین خبرهای تاریخچه:
+⚔️ Two IDF service members injured in accident in Lebanon over the weekend
+   📌 منبع: Jerusalem Post
+   ⏱ 0.15 ساعت پیش
+📰 Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report
+   📌 منبع: Jerusalem Post
+   ⏱ 0.45 ساعت پیش
+⚔️ Defense Ministry: 1,318 Israeli security personnel killed across all fronts since October 7
+   📌 منبع: Jerusalem Post
+   ⏱ 0.7 ساعت پیش
+📰 EU condemns Israeli passenger for illegally occupying cockpit of plane
+   📌 منبع: Israel National News
+   🗞 «Plane was trying to exercise its right of self-determination by creating facts on the ground. Satire.»
+   ⏱ 0.93 ساعت پیش
+📰 Regev passes buck on probing pilots as Israel said ‘racing’ to ID potential threats - The Times of Israel
+   📌 منبع: GN site:timesofisrael
+   ⏱ 1.52 ساعت پیش
+📰 'Black Arrow': Minute by minute - How terrorists were stopped from reaching central Israel
+   📌 منبع: Israel National News
+   ⏱ 1.59 ساعت پیش
+📰 Emily Damari shares unreleased hostage photos, says surviving Hamas captivity was a miracle
+   📌 منبع: Jerusalem Post
+   ⏱ 1.71 ساعت پیش
+📰 Somalia President: Houthis ‘not in a position’ to bring Yemen peace
+   📌 منبع: Al Jazeera
+   ⏱ 1.74 ساعت پیش
+📰 US carrier George H.W. Bush visits Thailand after Middle East deployment
+   📌 منبع: Al-Monitor
+   ⏱ 1.98 ساعت پیش
+⚔️ Two soldiers seriously and moderately wounded in operational accident in southern Lebanon
+   📌 منبع: Israel National News
+   ⏱ 2.36 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 1252
