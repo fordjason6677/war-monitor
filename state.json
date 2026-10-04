@@ -383,10 +383,11 @@
   "inegyptssinaiagazanrefugeebuildsaschoolforchildrendisplacedbywar": 1791105997.2616847,
   "قالیبافآمریکاییهاازطریقمیانجیپیشنهادهاییمطرحکردهاند": 1791105997.5096712,
   "beyondthehouthiswhytheethiopiaeritreacrisismattersforisrael": 1791106266.56947,
-  "idftwoisraelisoldierswoundedfollowingoperationalaccidentinlebanon": 1791106534.6119628
+  "idftwoisraelisoldierswoundedfollowingoperationalaccidentinlebanon": 1791106534.6119628,
+  "politicalinterferenceforeignbotsattempttoinfluenceisraelspoliticaldiscourse": 1791107338.160389
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T09:44:31.563622+00:00",
+ "last_run": "2026-10-04T09:49:00.056568+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -558,6 +559,10 @@
   },
   {
    "ts": "2026-10-04T09:44:29+00:00",
+   "esc6": 14
+  },
+  {
+   "ts": "2026-10-04T09:48:58+00:00",
    "esc6": 14
   }
  ]
