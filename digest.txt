@@ -1,24 +1,24 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 03:14:50
+زمان تهران: 2026-10-05 03:19:18
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 23:44 UTC
+زمان گزارش: 2026-10-04 23:49 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 227 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +11 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 9 → 20)
 ⚔️ تشدیدآمیز در ۶ ساعت: 20 | در ۲۴ ساعت: 63
-🎖 عنوان نظامی در ۲۴ ساعت: 47 | خبر جدیدِ این نوبت: 3
+🎖 عنوان نظامی در ۲۴ ساعت: 47 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
 🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 115 · ⚔️ نظامی 77 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 27 · ☢️ هسته‌ای 7 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Middle East Eye (42)، Jerusalem Post (39)، Al Jazeera (21)، Israel National News (17)، GN site:timesofisrael (17)، France24 (8)، GN site:israelhayom (8)، Al-Monitor (7)
 
-📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+📰 خبرهای تازه (از جدیدترین):
 ⚔️🤝 US pulls all bombers from RAF Fairford air base threatened by alleged Iranian plot
    📌 منبع: Jerusalem Post
    🗞 «Until recently, 12 B-1B Lancer bombers had been stationed at Fairford, and were also used by the United States during strikes on Iran.»
@@ -27,36 +27,36 @@
 ⚔️ Israeli troops kill man in southern Syria
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria
-   ⏱ 0.02 ساعت پیش
+   ⏱ 0.09 ساعت پیش
 ⚔️🛢️ Video: Houthis Claim Attack on Saudi Oil Site as Yemen Conflict Grows
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUVlMG9WRll2UEktWEpZWG16enBSa0xacFV6eHlOTk91cXgwV0VGbDZzUjVvc2pJWDJfWVFXSGtHdXBMQ0xzWHNNcUhnSklCMTlhOFBmSEpSbWUwc2V0WjZQaDBIV1hxQjBTVmcyTDFTOERrMTVmWnR4N1hSWXlJTWQ3bTIwVi1QZ3E2ZVhhUXlNazdtUUh6OHJOcmVYZjQyazUtRFBaVHlHNUptZXMxSnJ6UjV5eWZBUDZDcg?oc=5
-   ⏱ 0.68 ساعت پیش
+   ⏱ 0.76 ساعت پیش
 ⚔️ Pentagon pulls B-1 bombers from UK base following alleged terror threat
    📌 منبع: The Hill
    🗞 «The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in England. “While operational security precluded»
    🔗 https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/
-   ⏱ 0.9 ساعت پیش
+   ⏱ 0.98 ساعت پیش
 ⚔️ U.S. B-1 bombers evacuated from UK base after attack threats from Iran
    📌 منبع: Axios
    🗞 «The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. Why it matters: A U.S. official said the base was under threat of attack by Iran. Driving the news: British securit»
    🔗 https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran
-   ⏱ 1.13 ساعت پیش
+   ⏱ 1.2 ساعت پیش
 ⚔️ آمریکا بمب‌افکن‌هایش را هم‌زمان با تحقیقات درباره طرح حمله به فرفورد از بریتانیا خارج کرد
    📌 منبع: Iran International
    🗞 «نیروی هوایی آمریکا همه بمب‌افکن‌های مستقر در پایگاه هوایی فرفورد در بریتانیا را که برای حمله به ایران استفاده می‌شد، به آمریکا بازگرداند. این جابه‌جایی در حالی انجام شده که تحقیقات درباره طرح احتمالی حمله تروریستی به این پایگاه ادامه دارد.»
    🔗 https://www.iranintl.com/202610047194
-   ⏱ 1.15 ساعت پیش
+   ⏱ 1.23 ساعت پیش
 ⚔️ US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears
    📌 منبع: Al Jazeera
    🗞 «The abrupt redeployment to the US comes after several 'terrorism-related' arrests were made outside RAF Fairford.»
    🔗 https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss
-   ⏱ 1.36 ساعت پیش
+   ⏱ 1.43 ساعت پیش
 ⚔️🤝🛢️ Iran says no military solution to war as peace talks with US stall
    📌 منبع: France24
    🗞 «Iran's diplomat said on Sunday there was no military solution to the US war against Iran as peace talks appeared stalled. Washington has scaled back attacks in favour of economic pressure, while Iran's attempted Hormuz blockade remains cont»
    🔗 https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks
-   ⏱ 2.05 ساعت پیش
+   ⏱ 2.13 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
