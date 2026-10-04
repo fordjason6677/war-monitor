@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 01:04:03
+زمان تهران: 2026-10-05 01:08:35
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 21:33 UTC
+زمان گزارش: 2026-10-04 21:38 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 214 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+1) (مقایسه با قرائت 6.0 ساعت پیش: 13 → 14)
-⚔️ تشدیدآمیز در ۶ ساعت: 14 | در ۲۴ ساعت: 55
+🎯 وضعیت (بر اساس 213 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+0) (مقایسه با قرائت 6.0 ساعت پیش: 13 → 13)
+⚔️ تشدیدآمیز در ۶ ساعت: 13 | در ۲۴ ساعت: 54
 🎖 عنوان نظامی در ۲۴ ساعت: 40 | خبر جدیدِ این نوبت: 1
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 15
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 107 · ⚔️ نظامی 70 · 🤝 دیپلماسی 32 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 6 · ⛔️ تحریم 4
-📡 منابع ۲۴ ساعت: Middle East Eye (42)، Jerusalem Post (39)، Al Jazeera (21)، Israel National News (17)، GN site:timesofisrael (15)، Bing News (8)، Al-Monitor (7)، GN site:haaretz (7)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 107 · ⚔️ نظامی 70 · 🤝 دیپلماسی 32 · 🛢️ انرژی/دریا 25 · ☢️ هسته‌ای 5 · ⛔️ تحریم 4
+📡 منابع ۲۴ ساعت: Middle East Eye (42)، Jerusalem Post (39)، Al Jazeera (21)، Israel National News (17)، GN site:timesofisrael (15)، Al-Monitor (7)، GN site:haaretz (7)، France24 (7)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🤝 US pulls all bombers from RAF Fairford air base threatened by alleged Iranian plot
@@ -27,35 +27,35 @@
 ⚔️ Israel says it killed head of Turkish NGO, Hamas commander in separate Gaza strikes
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-head-turkish-ngo-hamas-commander-separate-gaza
-   ⏱ 0.63 ساعت پیش
+   ⏱ 0.7 ساعت پیش
 ☢️ Democratic rep says administration ‘has failed to present a strategy’ in Iran war
    📌 منبع: The Hill
    🗞 «Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain to the American people what the goals a»
    🔗 https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/
-   ⏱ 0.68 ساعت پیش
+   ⏱ 0.75 ساعت پیش
 ⚔️ Israel wear black armbands in Ireland tie over Hamas attack
    📌 منبع: Al-Monitor
    🗞 «Israel's national football team wore black armbands in their Nations League clash against Ireland on Sunday to commemorate the victims of Hamas' October 7, 2023 attack, after Irish players wore them to protest the war in Gaza. The simple bl»
    🔗 https://www.al-monitor.com/originals/2026/10/israel-wear-black-armbands-ireland-tie-over-hamas-attack
-   ⏱ 1.06 ساعت پیش
+   ⏱ 1.14 ساعت پیش
 ⚔️ یمن آغاز عملیات نظامی برای بازپس‌گیری مناطق تحت کنترل حوثی‌ها را اعلام کرد
    📌 منبع: Iran International
    🗞 «دولت یمن آغاز ضدحمله برای بازپس‌گیری مناطق تحت کنترل حوثی‌های مورد حمایت جمهوری اسلامی را اعلام کرد. اکسیوس نیز به نقل از مقام‌های آمریکایی گزارش داد واشینگتن با ارائه اطلاعات و کمک به تعیین اهداف حملات، از عملیات نیروهای یمنی و عربستان سعو»
    🔗 https://www.iranintl.com/202610049148
-   ⏱ 1.66 ساعت پیش
+   ⏱ 1.74 ساعت پیش
 ⚔️ Live - Explosion heard near Iran’s Qeshm, Sirik Islands
    📌 منبع: Google News (US-Iran)
    🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc?oc=5
-   ⏱ 1.84 ساعت پیش
+   ⏱ 1.91 ساعت پیش
 🤝 Iran says no military solution to conflict with US as talks remain at dead end
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0U3dWJMYzFfd3pYNHU3UWpIZjBZT21lVGk1V0VCazEwcTRoQ0w4MWpnZC01VHNSMXkwMWw4X05RRFdmd2ZzcmRpVlBvX2s3Q05TMnUtVGs5YnhrdDdaTHpvRGxIVWhsOXhtNVlXMEp5U29aUTVSOW1WdU1WU193c3dYYkViZkJ2SVNWT0dWQ1NhTHBnYjF2OEoxdHIyYlZGS1kwa3pIa0RwanVMZXfSAbMBQVVfeXFMTjRhTEFRc3FncGx4bGdXeEk4bmhRZ1JEc0FZbURDMEEwOUQydlBIaEJLTHZhOEN0NlZpeW1nR0xGc19xWTVidnB6LUE4NTFJaU9OUGtQQ0phNEp6M1p1aF9FMXgzUS1jTXg0QUtRTXE4THI2UHNIUXlYV3lSbEppQUF5VFQyeGpQdnpmVHlMWE96cFc1UXpFMU9KdWU2SEQ4eDRyMlhuQU1GNkFHQVpVZWxqNTQ?oc=5
-   ⏱ 3.43 ساعت پیش
+   ⏱ 3.51 ساعت پیش
 ⚔️ Report: UAE gave Israel FlyDubai crew details before attempted attack
    📌 منبع: Israel National News
    🗞 «The UAE reportedly shared the flight’s passenger and crew information with Israel before takeoff, raising fresh questions over how the alleged cockpit attacker was allowed to board.»
    🔗 https://www.israelnationalnews.com/news/434094
-   ⏱ 3.87 ساعت پیش
+   ⏱ 3.94 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
