@@ -1,25 +1,25 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 09:13:11
+زمان تهران: 2026-10-04 09:24:16
   بازار آزاد (بانبست): فروش 268,900 | خرید 269,000  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 266,999  (خرید 266,857 / فروش 266,999)
+  تتر/تومان زنده (والکس): 268,000  (خرید 268,001 / فروش 268,020)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 05:43 UTC
-📥 آخرین اجرا 0.3 ساعت پیش
+زمان گزارش: 2026-10-04 05:54 UTC
+📥 آخرین اجرا 0.2 ساعت پیش
 
-وضعیت (بر اساس 64 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-خبر اصطلاحاً «تشدیع‌آمیز» در ۶ ساعت اخیر: 8
-خبر اصطلاحاً «تشدیع‌آمیز» در ۲۴ ساعت اخیر: 32
+وضعیت (بر اساس 67 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
+خبر اصطلاحاً «تشدیع‌آمیز» در ۶ ساعت اخیر: 7
+خبر اصطلاحاً «تشدیع‌آمیز» در ۲۴ ساعت اخیر: 34
 عنوان با مضمون نظامی در ۲۴ ساعت: 28
-خبر جدید از اجرای این لحظه: 9
+خبر جدید از اجرای این لحظه: 8
 
 — دسته‌بندی (۲۴ ساعت اخیر) —
-  عمومی     : 30
+  عمومی     : 31
   نظامی     : 28
-  دیپلماسی  : 5
-  انرژی/دریا: 3
+  دیپلماسی  : 6
+  انرژی/دریا: 4
   هسته‌ای   : 2
   تحریم     : 2
 
@@ -28,10 +28,10 @@
   Al Jazeera              : 9
   Al-Monitor              : 9
   Jerusalem Post          : 6
+  Bing News               : 6
+  Israel National News    : 5
   Iran International      : 5
   GN site:haaretz         : 5
-  Israel National News    : 4
-  Bing News               : 4
   JNS                     : 4
   BBC Persian             : 2
   GN site:israelhayom     : 1
@@ -40,42 +40,38 @@
   France24                : 1
 
 — ۱۵ عنوان جدید —
-  [0.0h] 2026-10-04 08:29 | Jerusalem Post
-    IDF to equip combat engineering vehicles with Iron Fist active protection against anti-tank threats
-    https://www.jpost.com/defense-and-tech/article-910497
+  [0.7h] 2026-10-04 05:09 | Israel National News
+    'Black Arrow': Minute by minute - How terrorists were stopped from reaching central Israel
+    https://www.israelnationalnews.com/news/434052
     دسته: other
-  [0.7h] 2026-10-04 05:00 | Al Jazeera
-    Somalia President: Houthis ‘not in a position’ to bring Yemen peace
-    https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss
-    دسته: other
-  [2.2h] 2026-10-04 03:33 | Al Jazeera
-    Houthis claim strike on Aramco site as Yemen fighting intensifies
-    https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss
-    دسته: military/diplomacy
-  [8.1h] 2026-10-03 21:36 | Bing News
-    US-Iran War LIVE Updates: Yemeni Forces Seize Samaa Fort In Taiz; Oil Tankers Struck in Strait of Hormuz
-    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1e7575ffa4d46bee3082036cba672&url=https%3a%2f%2fwww.timesnownews.com%2fworld%2fmiddle-east%2firan-war-live-updates-trump-hints-us-could-strike-iran-israel-iran-today-latest-conflict-strait-of-hormuz-tensions-and-middle-east-news-liveblog-156257889&c=3929727741276541661&mkt=en-ww
-    دسته: nuclear/energy
-  [13.4h] 2026-10-03 16:19 | Bing News
-    US-Iran War Live Updates: Trump says Iran faces ‘easy way or hard way’ amid stalled peace talks
-    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1e7575ffa4d46bee3082036cba672&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fworld%2fmiddle-east%2fus-iran-war-live-updates-trump-iran-strikes-hormuz-middle-east-ceasefire-talks-crude-oil-price-hike-latest-news%2fliveblog%2f134645747.cms&c=16943888161500177207&mkt=en-ww
+  [13.3h] 2026-10-03 16:36 | Bing News
+    Trump says US has lost 18 'incredible' service members during war with Iran
+    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1ea049fac48e7b50edc48fcdd0c53&url=https%3a%2f%2fwww.foxnews.com%2flive-news%2fus-iran-war-trump-talks-strait-hormuz-oil-prices-10-03-26&c=3346232576856338880&mkt=en-us
+    دسته: energy
+  [22.3h] 2026-10-03 07:35 | Bing News
+    US-Israel-Iran war latest live news: Iran security chief rejects Trump's 'surrender' claim, says US president's statements don't match reality
+    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1ea049fac48e7b50edc48fcdd0c53&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fus-israel-iran-war-latest-live-news-iran-security-chief-rejects-trumps-surrender-claim-says-us-presidents-statements-dont-match-reality%2far-AA2dtTcT&c=1982789782530419487&mkt=en-us
     دسته: diplomacy
-  [18.1h] 2026-10-03 11:39 | GN site:haaretz
-    Saudi Arabia Planning Assault on Houthis to Break Red Sea Chokehold - Haaretz
-    https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbUVZaFNyUEZ0WG41bnBnMUlKZ25Ya3k2V3FXY2Z2SWxGOURaSEZJUU4yUHlMUnpYcFU1V3pVV2RMcVlBRHRfSzV0dHJ0Vm1tMTRXSkZXeEV3T0RyTEtUNkZxSlc0Y2xyTVZSWmpPMV9NejlCOG5QaDFYcDRzbDMzTVRrTTV2bEZwZ2s0eXprUUZWb29DMWt0QWpNUGF1djNLM1labVlvWGtlVmpkZEE2Njl4MHFva3p6b0ZoYXh6TzBPUHNuNTVQU0tmSW01M2IzckxqQi1md2MxVS03Y2w0NjhfSllfMEZLUGROS1F5Y2J3RC1sYmJmWVA3RQ?oc=5
+  [30.4h] 2026-10-02 23:33 | GN site:haaretz
+    IDF Holds Palestinian Activist Seven Hours for Being 'Too Close to a Settlement' - Haaretz
+    https://news.google.com/rss/articles/CBMijAJBVV95cUxOZFN4MmlXdkt0bmNXV25kYXNNSk5XVVRyX1pwaGZpRExnRnpFV2FuU0NsbXV1VEhNb3VIeUdjVFljb3FiVklQa1BOOFFhLTkzWnRZM1B5cGtkcUNVanZiWGxpN29Rc3E2bkQ5ZTJpWFBEbGdBNlQtNWZ6eVdIMUotVXMwUmFjMktjczdYU0piQkFMSUNXZlAzSnFnOFVRMWl4Ty1UN0ZSUEF6VlNscEV3NjZXal9nOVF4WEdQNGFsd1lMZ0Z5bEVWSVZvRm1KYkdqZHlVZGRYM25wblNTUTRZWWRxY3hfRF9xTHhtYkhsZkpMZ0c3Wko1UUhzRk5oazQ2eHEwUWwya2pGQlBk?oc=5
     دسته: other
-  [37.0h] 2026-10-02 16:42 | Bing News
-    Live Updates: Senior Trump administration officials met to discuss Iran war at Camp David
-    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1e7575ffa4d46bee3082036cba672&url=https%3a%2f%2fwww.cbsnews.com%2flive-updates%2ftrump-iran-war-us-midterm-elections-troops-deployment%2f&c=13681440832976529096&mkt=en-ww
+  [33.0h] 2026-10-02 20:56 | GN site:timesofisrael
+    Suspected arson shuts Negev sewage plant, sending raw wastewater into streams - The Times of Israel
+    https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjdiMFBHdUwtOVVQTWFsVVJzR0pCVkQwZ1EyMDU1Q2loMmdYQXRVVWZ3Wks0Yy1taG1VcDhudEdVUDRNN2doNzhkQVpaZFhuS0JlVlRyR3pUWUwtazAxaUhNRzlKUmdVTzZwaVNXdEloaW1YYU1XV2xKUW9YV295QkZwY1NfcFU1Z05reWUzZTRQZzBiUDdFRGZEajFad2NhRVM4amhWR25IQ03SAbABQVVfeXFMTmNJa0l1dS1TcUhidXhGWTluZnJucGFKMkJMcTFtSl9qNlhOTk91cWVxVTFFcVZ4RUtreEkzQlU5dWxrRldZME4wOWtpZXpUdXp5OE9IUW9qdElhZ2NWRGpibkVoenNzejViM3JEVEVyTURpenI0X3p0OUtoLVVXTXpLVWF1X0JJOWZzV0Q5RGs2emtxcklXRzY4WXN0U0FwcXhxZVhHNXhFS205akpXSmY?oc=5
     دسته: other
-  [48.4h] 2026-10-02 05:19 | GN site:timesofisrael
-    Planting roots: At Jerusalem fair, foreign buyers show strong interest in Israeli homes - The Times of Israel
-    https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0M2MFVoUDh4MDhWbDI2Wmc4TEQ0N2pkOEFnUUYwR3otVE9kTHFSb2V5N1hlWGgzODM3OGFLZmFtRVpWMEpwQjNKZmpyLVhRS1FOajJmY2NxejN0YVp3NTh3TGxFak9fRG9zbFdfejk1QnA4UFd5OW9UZl9IMmtacEZPVng4bko4VFBMNm9TdnpNaUVtRFB6Z050TnJwVkRjajdSMDJ1cGQ0RHJfeTRDdVpBZTBXb2fSAbwBQVVfeXFMUGNwQmpBSUhOaHhzVGM1dGFKckRBTnpIcWxFRFlacC1GTVRKSWlENWxuWG95WFF0NUtCb3NzS1lGT3IxNjl3WmFYclZwV1J5Q0xjS0VfXzlvR05vcF9YYlBjNmxPejFHdzZ3aHhWdG8zQjZVdG91ZE0zdFpDMVFPajUycXRyRlYwWXFabERjU1Vqbkw1OGxJZ2wzeG1MellPbUJHWFhfT1RCeTlPTVpEMEZrS1pqc1UtcmdUUEk?oc=5
+  [37.6h] 2026-10-02 16:16 | GN site:haaretz
+    Gaza Health Ministry report shows excess 2025 deaths lower than experts expected - Haaretz
+    https://news.google.com/rss/articles/CBMiiAJBVV95cUxObHNXdjdRaHZtcHhicVlKekV1a0xOYXQ4c0x0TlRUOFVTeXhhVEdGMDZyUlhsM3pOcTh1V1JxWThrX0NuNG11Y051VnVNWGF3MGdpZ1B6U0F1LXktcnlpVnlmX3V1M09ubUpYQ1h0dEFkaVZ6ajRpaUxKUDJ1NFVNMTFEZzZhQ0lrTk1TRnJUQ2wySWFsS2xLMXBteXNlQ1E0d0xpSVJOcEZSdkpaSW8zTGdwY3Y5bEpRbjljbmNKTkx1VXZKU3Q2dmlDT0VKeU1CV2pEbThWSGhxbTJhX1JldFA0b2kzQzJ6b0lMNEkwNzRWRjlYV0ZXel9HVjZDX0dtclRYWW90ZUY?oc=5
     دسته: other
-  [52.6h] 2026-10-02 01:06 | Bing News
-    US-Israel-Iran war latest news: Yemeni army strikes Houthi positions in Taiz region; IRGC adviser claims US was 'forced to withdraw' from Iraq
-    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1e7575ffa4d46bee3082036cba672&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fus-israel-iran-war-latest-news-yemeni-army-strikes-houthi-positions-in-taiz-region-irgc-adviser-claims-us-was-forced-to-withdraw-from-iraq%2far-AA2do9Z4&c=1513082356775604477&mkt=en-ww
-    دسته: military
+  [60.3h] 2026-10-01 17:38 | GN site:timesofisrael
+    Netanyahu says Omani copilot who tried to bring down flight ‘underwent Islamist radical indoctrination’ - The Times of Israel
+    https://news.google.com/rss/articles/CBMizAFBVV95cUxOYi1aSDg3R1pZT1NqV2lFX2lrUGhTSFpTZDFzWGNLNVRldHNJUjBIQW01S244LTlNN1JIVVlhdGlteEt2WXE5ckhZOFRYOHM4WGRDNU5RODFYaFpoLTR0RG9iVlNkMzkyRG83NlNZaDg1QkpFVWI0X1ZUaHlGRWZpTERVa2dFWVltZmxuTEdkZkdFVW42RjY0aVdlVlh1VkI0ZXBPMGRLZEF3SXlmQjVhQmJLS1ZPZjUxOGlzY2d1c0VyOW9QVjZDWC1VWHjSAdIBQVVfeXFMTm8wV1Y0WkdLUVk0RVlWWi1IcGo0Z3pHNk0tTkIwUmFKamdzUVR6NjZxWmFzWW03OXVGWTN0T3owN3pEYUtqRUROelhHT2kzMU53UENad25zekMxaXM5RXBDa0ctdDVDT3RzM0VVVk9LMndKM1YtTzhvSEt3NVFDZU05SnpwVmIzVmFZX0ZrZmtUdzdKVWVuZ29INzFSM0tKMDRLX1VwVEdwLWRxbHlyVTFXaVh4ZnJBOWZpbEZFMHhZRUJKeW5qeWFGSUR6UHB0NkRB?oc=5
+    دسته: other
+  [63.5h] 2026-10-01 14:26 | Bing News
+    Trump leans into Iran war, admits it could cost Republicans the midterms
+    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1ea049fac48e7b50edc48fcdd0c53&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fpolitics%2farticles%2ftrump-leans-iran-war-admits-212600981.html&c=11898796360710378542&mkt=en-us
+    دسته: other
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 1252
