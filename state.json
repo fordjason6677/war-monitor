@@ -518,7 +518,7 @@
   "yemensgovernmentdeclaresamajoroperationagainstthehouthisandothermideastnews": 1791139596.454173
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T18:46:40.074094+00:00",
+ "last_run": "2026-10-04T18:51:23.637854+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1170,6 +1170,10 @@
   },
   {
    "ts": "2026-10-04T18:46:36+00:00",
+   "esc6": 11
+  },
+  {
+   "ts": "2026-10-04T18:51:22+00:00",
    "esc6": 11
   }
  ]
