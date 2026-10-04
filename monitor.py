@@ -143,6 +143,7 @@ NOISE = re.compile(
     r"\b(football|soccer|coach|tournament|olympic|athlet|rugby|cricket|"
     r"baseball|basketball|tennis|sports?|elections?\b|polls?\b|opinion|"
     r"editorial|column|premier league|nba|formula|grand prix|weather|"
+    r"nations league|league clash|world cup|qualifier|derby|playoff|"
     r"blockbuster)\b|"
     r"(فوتبال|بیسبال|بسکتبال|انتخابات|نظرسنجی|لیگ برتر|قهرمانی|ورزشگاه|"
     r"یادداشت|سرمقاله)",
@@ -185,6 +186,56 @@ ESCALATION = re.compile(
     r"strike|airstrike|attack|missile|rocket|drone|bomb|killed|wounded|"
     r"explosion|intercept|clash|invasion|war|"
     r"حمله|موشک|پهپاد|بمب|انفجار|کشته|زخمی|درگیری|جنگ|صابت", re.I)
+
+# --- فقط جنگ ایران / اسرائیل / آمریکا (خبر محلی و فوتبال نباید شاخص رو جابه‌جا کنه) ---
+WAR_ACTORS = re.compile(
+    r"iran|israeli|\bisrael\b|tehran|netanyahu|hezbollah|hizbullah|hamas|gaza|"
+    r"pentagon|white house|u\.s\.|\busa\b|america|palestini|leban|yemen|houthi|"
+    r"west bank|\bidf\b|zionist|axis of resistance|nuclear|ceasefire|"
+    r"ایران|اسرائیل|تل\s*آویو|نتانیاهو|حماس|غزه|حزب\s*الله|حوثی|پنتاگون|"
+    r"آمریکا|امریکا|لبنان|یمن|کرانه\s*باتری|هسته\s*ای|آتش\s*بس", re.I)
+
+WAR_ACTION = re.compile(
+    r"strike|airstrike|air strike|attack|missile|rocket|drone|uav|bomb|"
+    r"explosion|invasion|\bwar\b|clash|intercept|shelling|deploy|carrier|"
+    r"military|troops?|naval|offensive|raid|struck|fired|weapon|"
+    r"sanction|negotiat|talks|cease-?fire|summit|enrich|iaea|embargo|"
+    r"حمله|موشک|پهپاد|بمب|انفجار|جنگ|درگیری|بمباران|شلیک|ناو|نظامی|"
+    r"تحریم|مذاکره|آتش\s*بس|هسته\s*ای|غنی\s*سازی", re.I)
+
+
+OPS_STRICT = re.compile(
+    r"strike|airstrike|air strike|missile|rocket|drone|uav|bomb|"
+    r"explosion|invasion|\bwar\b|clash|intercept|shelling|deploy|carrier|"
+    r"military|troops?|naval|offensive|raid|struck|targeted|army|forces|"
+    r"\bnuclear\b|warhead|ballistic|"
+    r"sanction|negotiat|talks|cease-?fire|summit|enrich|iaea|embargo|"
+    r"حمله|موشک|پهپاد|بمب|انفجار|جنگ|درگیری|بمباران|شلیک|ناو|نظامی|"
+    r"تحریم|مذاکره|آتش\s*بس|هسته\s*ای|غنی\s*سازی", re.I)
+
+OPS_LOOSE = re.compile(r"attack|mobil", re.I)
+
+CASUALTY_CTX = re.compile(
+    r"mourn|killed|wounded|injured|died|victim|casualt|dead|funeral|"
+    r"کشته|زخمی|قربانی|تشییع", re.I)
+
+
+def is_war_item(title):
+    """خبر باید طرفِ جنگ (ایران/اسرائیل/آمریکا و محور) داشته باشه و رویداد جنگی.
+
+    خبرهای صرفاً تلفات غیرنظامی (مادر و دختر، کودک کشته‌شده و...) تشدید حساب
+    نمی‌شن مگر عملیات نظامی مشخصی هم در عنوان باشه.
+    """
+    t = title or ""
+    if NOISE.search(t):
+        return False                     # ورزش/انتخابات/یادداشت هرگز تشدید نیست
+    if not WAR_ACTORS.search(t):
+        return False
+    if OPS_STRICT.search(t):
+        return True
+    if CASUALTY_CTX.search(t):
+        return False                     # فقط خبر تلفات/قربانی
+    return bool(OPS_LOOSE.search(t))
 
 
 # ----------------------------------------------------------------- helpers
@@ -411,19 +462,23 @@ def load_history(now, hours=24.0):
 
 
 def status_level(items):
-    h6 = [i for i in items if i["age_h"] is not None and i["age_h"] <= 6 and i["esc"]]
-    h24 = [i for i in items if i["age_h"] is not None and i["age_h"] <= 24 and i["esc"]]
-    mil24 = [i for i in items if i["age_h"] is not None and i["age_h"] <= 24
+    war = [i for i in items if is_war_item(i.get("title", ""))]
+    h6 = [i for i in war if i["age_h"] is not None and i["age_h"] <= 6 and i["esc"]]
+    h24 = [i for i in war if i["age_h"] is not None and i["age_h"] <= 24 and i["esc"]]
+    mil24 = [i for i in war if i["age_h"] is not None and i["age_h"] <= 24
              and "military" in i["cats"]]
+    # خبرهایی که قبلاً تشدید حساب می‌شدند ولی به جنگ ایران/اسرائیل/آمریکا ربط ندارن
+    skipped = [i for i in items
+               if i.get("esc") and not is_war_item(i.get("title", ""))]
     if len(h6) >= 8:
-        return "🔴 تشدید فعال", h6, h24, mil24
+        return "🔴 تشدید فعال", h6, h24, mil24, skipped
     if len(h6) >= 3:
-        return "🟠 تنش بالا", h6, h24, mil24
+        return "🟠 تنش بالا", h6, h24, mil24, skipped
     if len(h6) >= 1:
-        return "🟡 درگیری پراکنده / تنش", h6, h24, mil24
+        return "🟡 درگیری پراکنده / تنش", h6, h24, mil24, skipped
     if len(h24) >= 3 or len(mil24) >= 3:
-        return "🟡 آرام‌نسبی (خبر نظامی در ۲۴ ساعت هست)", h6, h24, mil24
-    return "🟢 سکوت نسبی (خبر نظامی جدید در ۲۴ ساعت نیومده)", h6, h24, mil24
+        return "🟡 آرام‌نسبی (خبر نظامی در ۲۴ ساعت هست)", h6, h24, mil24, skipped
+    return "🟢 سکوت نسبی (خبر نظامی جدید در ۲۴ ساعت نیومده)", h6, h24, mil24, skipped
 
 
 def trend_verdict(st, now, esc6):
@@ -464,7 +519,7 @@ def trend_verdict(st, now, esc6):
 def build_digest(items, problems, all_count, st):
     now = datetime.now(timezone.utc)
     hist = load_history(now, 24.0)          # وضعیت از تاریخچه ۲۴ ساعته
-    lvl, h6, h24, mil24 = status_level(hist)
+    lvl, h6, h24, mil24, skipped = status_level(hist)
     cats, srcs = {}, {}
     for i in hist:
         for c in i["cats"]:
@@ -476,7 +531,10 @@ def build_digest(items, problems, all_count, st):
     REL_CATS = {"military", "diplomacy", "nuclear", "sanctions", "energy"}
     rel = [i for i in headlines if REL_CATS & set(i.get("cats") or [])]
     rest = [i for i in headlines if i not in rel]
-    headlines = rel + rest[:4]
+    # اول خبرهای واقعاً مربوط به جنگ ایران/اسرائیل/آمریکا، بعد بقیه
+    rel_war = [i for i in rel if is_war_item(i.get("title", ""))]
+    rel_other = [i for i in rel if not is_war_item(i.get("title", ""))]
+    headlines = rel_war + rel_other + rest[:4]
     # تنوع منابع: نوبتی از هر منبع تا خروجی فقط اسرائیلی نمونه
     pools = {}
     for h in headlines:
@@ -535,6 +593,7 @@ def build_digest(items, problems, all_count, st):
     L.append(f"📈 روند: {trend}")
     L.append(f"⚔️ تشدیدآمیز در ۶ ساعت: {len(h6)} | در ۲۴ ساعت: {len(h24)}")
     L.append(f"🎖 عنوان نظامی در ۲۴ ساعت: {len(mil24)} | خبر جدیدِ این نوبت: {len(items)}")
+    L.append(f"⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): {len(skipped)}")
     L.append("")
     L.append("🗂 دسته‌بندی ۲۴ ساعت: " + " · ".join(
         f"{CAT_EMOJI.get(c, '📰')} {fa.get(c, c)} {n}"
