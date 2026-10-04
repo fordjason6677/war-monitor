@@ -483,10 +483,11 @@
   "idfchiefwhoeverthreatensuswewillstrikewithadecisiveblow": 1791130427.7406716,
   "israeltoopenembassyincongo": 1791130427.7407901,
   "newquestionsoveregyptianintelligencechiefsisraelvisitbeforeoct7": 1791130427.768443,
-  "jerusalemdailyisraeliforcesarrestschoolchildrenduringraid": 1791130427.9202085
+  "jerusalemdailyisraeliforcesarrestschoolchildrenduringraid": 1791130427.9202085,
+  "iransaysstraitofhormuzwillstaycloseduntilusmeetstheirconditions": 1791131239.66628
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T16:22:48.138299+00:00",
+ "last_run": "2026-10-04T16:27:21.224563+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1010,6 +1011,10 @@
   },
   {
    "ts": "2026-10-04T16:22:46+00:00",
+   "esc6": 13
+  },
+  {
+   "ts": "2026-10-04T16:27:19+00:00",
    "esc6": 13
   }
  ]
