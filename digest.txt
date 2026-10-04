@@ -1,77 +1,54 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 09:24:16
+زمان تهران: 2026-10-04 10:05:27
   بازار آزاد (بانبست): فروش 268,900 | خرید 269,000  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,000  (خرید 268,001 / فروش 268,020)
+  تتر/تومان زنده (والکس): 268,691  (خرید 268,690 / فروش 268,691)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 05:54 UTC
-📥 آخرین اجرا 0.2 ساعت پیش
+زمان گزارش: 2026-10-04 06:35 UTC
+📥 آخرین اجرا 0.7 ساعت پیش
 
-وضعیت (بر اساس 67 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
-خبر اصطلاحاً «تشدیع‌آمیز» در ۶ ساعت اخیر: 7
-خبر اصطلاحاً «تشدیع‌آمیز» در ۲۴ ساعت اخیر: 34
-عنوان با مضمون نظامی در ۲۴ ساعت: 28
-خبر جدید از اجرای این لحظه: 8
+🎯 وضعیت (بر اساس 70 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
+📈 روند: ℹ️ هنوز داده کافی برای مقایسه روند جمع نشده (چند ساعت دیگه تکمیل می‌شه)
+⚔️ تشدیدآمیز در ۶ ساعت: 6 | در ۲۴ ساعت: 36
+🎖 عنوان نظامی در ۲۴ ساعت: 29 | خبر جدیدِ این نوبت: 14
 
-— دسته‌بندی (۲۴ ساعت اخیر) —
-  عمومی     : 31
-  نظامی     : 28
-  دیپلماسی  : 6
-  انرژی/دریا: 4
-  هسته‌ای   : 2
-  تحریم     : 2
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 33 · ⚔️ نظامی 29 · 🤝 دیپلماسی 6 · 🛢️ انرژی/دریا 4 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
+📡 منابع ۲۴ ساعت: GN site:timesofisrael (11)، Al Jazeera (9)، Al-Monitor (9)، Jerusalem Post (8)، Israel National News (6)، Bing News (6)، GN site:haaretz (6)، Iran International (5)
 
-— منابع (۲۴ ساعت اخیر) —
-  GN site:timesofisrael   : 12
-  Al Jazeera              : 9
-  Al-Monitor              : 9
-  Jerusalem Post          : 6
-  Bing News               : 6
-  Israel National News    : 5
-  Iran International      : 5
-  GN site:haaretz         : 5
-  JNS                     : 4
-  BBC Persian             : 2
-  GN site:israelhayom     : 1
-  Fox News (world)        : 1
-  GN site:ynetnews        : 1
-  France24                : 1
-
-— ۱۵ عنوان جدید —
-  [0.7h] 2026-10-04 05:09 | Israel National News
-    'Black Arrow': Minute by minute - How terrorists were stopped from reaching central Israel
-    https://www.israelnationalnews.com/news/434052
-    دسته: other
-  [13.3h] 2026-10-03 16:36 | Bing News
-    Trump says US has lost 18 'incredible' service members during war with Iran
-    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1ea049fac48e7b50edc48fcdd0c53&url=https%3a%2f%2fwww.foxnews.com%2flive-news%2fus-iran-war-trump-talks-strait-hormuz-oil-prices-10-03-26&c=3346232576856338880&mkt=en-us
-    دسته: energy
-  [22.3h] 2026-10-03 07:35 | Bing News
-    US-Israel-Iran war latest live news: Iran security chief rejects Trump's 'surrender' claim, says US president's statements don't match reality
-    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1ea049fac48e7b50edc48fcdd0c53&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fus-israel-iran-war-latest-live-news-iran-security-chief-rejects-trumps-surrender-claim-says-us-presidents-statements-dont-match-reality%2far-AA2dtTcT&c=1982789782530419487&mkt=en-us
-    دسته: diplomacy
-  [30.4h] 2026-10-02 23:33 | GN site:haaretz
-    IDF Holds Palestinian Activist Seven Hours for Being 'Too Close to a Settlement' - Haaretz
-    https://news.google.com/rss/articles/CBMijAJBVV95cUxOZFN4MmlXdkt0bmNXV25kYXNNSk5XVVRyX1pwaGZpRExnRnpFV2FuU0NsbXV1VEhNb3VIeUdjVFljb3FiVklQa1BOOFFhLTkzWnRZM1B5cGtkcUNVanZiWGxpN29Rc3E2bkQ5ZTJpWFBEbGdBNlQtNWZ6eVdIMUotVXMwUmFjMktjczdYU0piQkFMSUNXZlAzSnFnOFVRMWl4Ty1UN0ZSUEF6VlNscEV3NjZXal9nOVF4WEdQNGFsd1lMZ0Z5bEVWSVZvRm1KYkdqZHlVZGRYM25wblNTUTRZWWRxY3hfRF9xTHhtYkhsZkpMZ0c3Wko1UUhzRk5oazQ2eHEwUWwya2pGQlBk?oc=5
-    دسته: other
-  [33.0h] 2026-10-02 20:56 | GN site:timesofisrael
-    Suspected arson shuts Negev sewage plant, sending raw wastewater into streams - The Times of Israel
-    https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjdiMFBHdUwtOVVQTWFsVVJzR0pCVkQwZ1EyMDU1Q2loMmdYQXRVVWZ3Wks0Yy1taG1VcDhudEdVUDRNN2doNzhkQVpaZFhuS0JlVlRyR3pUWUwtazAxaUhNRzlKUmdVTzZwaVNXdEloaW1YYU1XV2xKUW9YV295QkZwY1NfcFU1Z05reWUzZTRQZzBiUDdFRGZEajFad2NhRVM4amhWR25IQ03SAbABQVVfeXFMTmNJa0l1dS1TcUhidXhGWTluZnJucGFKMkJMcTFtSl9qNlhOTk91cWVxVTFFcVZ4RUtreEkzQlU5dWxrRldZME4wOWtpZXpUdXp5OE9IUW9qdElhZ2NWRGpibkVoenNzejViM3JEVEVyTURpenI0X3p0OUtoLVVXTXpLVWF1X0JJOWZzV0Q5RGs2emtxcklXRzY4WXN0U0FwcXhxZVhHNXhFS205akpXSmY?oc=5
-    دسته: other
-  [37.6h] 2026-10-02 16:16 | GN site:haaretz
-    Gaza Health Ministry report shows excess 2025 deaths lower than experts expected - Haaretz
-    https://news.google.com/rss/articles/CBMiiAJBVV95cUxObHNXdjdRaHZtcHhicVlKekV1a0xOYXQ4c0x0TlRUOFVTeXhhVEdGMDZyUlhsM3pOcTh1V1JxWThrX0NuNG11Y051VnVNWGF3MGdpZ1B6U0F1LXktcnlpVnlmX3V1M09ubUpYQ1h0dEFkaVZ6ajRpaUxKUDJ1NFVNMTFEZzZhQ0lrTk1TRnJUQ2wySWFsS2xLMXBteXNlQ1E0d0xpSVJOcEZSdkpaSW8zTGdwY3Y5bEpRbjljbmNKTkx1VXZKU3Q2dmlDT0VKeU1CV2pEbThWSGhxbTJhX1JldFA0b2kzQzJ6b0lMNEkwNzRWRjlYV0ZXel9HVjZDX0dtclRYWW90ZUY?oc=5
-    دسته: other
-  [60.3h] 2026-10-01 17:38 | GN site:timesofisrael
-    Netanyahu says Omani copilot who tried to bring down flight ‘underwent Islamist radical indoctrination’ - The Times of Israel
-    https://news.google.com/rss/articles/CBMizAFBVV95cUxOYi1aSDg3R1pZT1NqV2lFX2lrUGhTSFpTZDFzWGNLNVRldHNJUjBIQW01S244LTlNN1JIVVlhdGlteEt2WXE5ckhZOFRYOHM4WGRDNU5RODFYaFpoLTR0RG9iVlNkMzkyRG83NlNZaDg1QkpFVWI0X1ZUaHlGRWZpTERVa2dFWVltZmxuTEdkZkdFVW42RjY0aVdlVlh1VkI0ZXBPMGRLZEF3SXlmQjVhQmJLS1ZPZjUxOGlzY2d1c0VyOW9QVjZDWC1VWHjSAdIBQVVfeXFMTm8wV1Y0WkdLUVk0RVlWWi1IcGo0Z3pHNk0tTkIwUmFKamdzUVR6NjZxWmFzWW03OXVGWTN0T3owN3pEYUtqRUROelhHT2kzMU53UENad25zekMxaXM5RXBDa0ctdDVDT3RzM0VVVk9LMndKM1YtTzhvSEt3NVFDZU05SnpwVmIzVmFZX0ZrZmtUdzdKVWVuZ29INzFSM0tKMDRLX1VwVEdwLWRxbHlyVTFXaVh4ZnJBOWZpbEZFMHhZRUJKeW5qeWFGSUR6UHB0NkRB?oc=5
-    دسته: other
-  [63.5h] 2026-10-01 14:26 | Bing News
-    Trump leans into Iran war, admits it could cost Republicans the midterms
-    http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1ea049fac48e7b50edc48fcdd0c53&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fpolitics%2farticles%2ftrump-leans-iran-war-admits-212600981.html&c=11898796360710378542&mkt=en-us
-    دسته: other
+📰 خبرهای جدید:
+📰 EU condemns Israeli passenger for illegally occupying cockpit of plane
+   📌 منبع: Israel National News
+   🗞 «Plane was trying to exercise its right of self-determination by creating facts on the ground. Satire.»
+   ⏱ 0.8 ساعت پیش
+📰 'The Gaza War Has Permanently Changed Israeli Society. Solidarity Is Unraveling'
+   📌 منبع: GN site:haaretz
+   ⏱ 21.4 ساعت پیش
+📰 British nurses' union cuts ties with Israeli pharma giant Teva citing IDF links
+   📌 منبع: GN site:haaretz
+   ⏱ 27.8 ساعت پیش
+⚔️ IDF says it targeted Hamas official in Gaza strike that killed six Palestinians
+   📌 منبع: GN site:haaretz
+   ⏱ 30.8 ساعت پیش
+⛔️ U.S. Weighing Sanctions on Israel Over West Bank Settler Violence, Sources Say
+   📌 منبع: GN site:haaretz
+   ⏱ 35.1 ساعت پیش
+⚔️ Settlers Kill Palestinian, 19, Wound Another in West Bank Attack
+   📌 منبع: GN site:haaretz
+   ⏱ 35.3 ساعت پیش
+🤝 Israeli-American Ynon Kreiz, a cost-cutter, tapped as co-CEO of Paramount-Warner Bros Discovery
+   📌 منبع: GN site:timesofisrael
+   ⏱ 48.0 ساعت پیش
+📰 Ancient Negev wine was a global hit. Can Israeli winemakers bring it back?
+   📌 منبع: GN site:haaretz
+   ⏱ 48.5 ساعت پیش
+📰 'I was born in a Paraguay, in a Japanese community. I came to Israel for love'
+   📌 منبع: GN site:haaretz
+   ⏱ 49.9 ساعت پیش
+📰 Zara pulls Halloween costume likened to uniform for inmates at concentration camps
+   📌 منبع: GN site:timesofisrael
+   ⏱ 52.9 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 1252
