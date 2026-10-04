@@ -433,7 +433,13 @@ def build_digest(items, problems, all_count, st):
         for c in i["cats"]:
             cats[c] = cats.get(c, 0) + 1
         srcs[i["src"]] = srcs.get(i["src"], 0) + 1
-    headlines = items if items else hist[:10]
+    # اول جدیدترین‌ها، بعد اولویت با مرتبط‌های جنگی/دیپلماتیک
+    headlines = sorted(hist, key=lambda x: x.get("age_h")
+                       if x.get("age_h") is not None else 999)
+    REL_CATS = {"military", "diplomacy", "nuclear", "sanctions", "energy"}
+    rel = [i for i in headlines if REL_CATS & set(i.get("cats") or [])]
+    rest = [i for i in headlines if i not in rel]
+    headlines = rel + rest[:4]
     fresh = bool(items)
 
     # ---- جمع‌آوری در غیاب کاربر ----
@@ -486,8 +492,9 @@ def build_digest(items, problems, all_count, st):
     top_srcs = sorted(srcs.items(), key=lambda x: -x[1])[:8]
     L.append("📡 منابع ۲۴ ساعت: " + "، ".join(f"{s} ({n})" for s, n in top_srcs))
     L.append("")
-    L.append("📰 خبرهای جدید:" if fresh else "📰 آخرین خبرهای تاریخچه:")
-    for i in headlines[:10]:
+    L.append("📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):" if fresh
+             else "📰 خبرهای تازه (از جدیدترین):")
+    for i in headlines[:8]:
         em = "".join(CAT_EMOJI.get(c, "📰") for c in (i.get("cats") or ["other"]))
         age = i.get("age_h")
         when = f"{age} ساعت پیش" if age is not None else "زمان نامشخص"
@@ -496,6 +503,8 @@ def build_digest(items, problems, all_count, st):
         d = clean_desc(i.get("desc"), i.get("title"))
         if d:
             L.append(f"   🗞 «{d}»")
+        if i.get("link"):
+            L.append(f"   🔗 {i['link']}")
         L.append(f"   ⏱ {when}")
     if problems:
         L.append("")
