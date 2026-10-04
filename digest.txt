@@ -1,37 +1,57 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 10:19:34
+زمان تهران: 2026-10-04 10:24:06
   بازار آزاد (بانبست): فروش 268,900 | خرید 269,000  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,305  (خرید 268,258 / فروش 268,305)
+  تتر/تومان زنده (والکس): 268,796  (خرید 268,746 / فروش 268,795)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 06:49 UTC
+زمان گزارش: 2026-10-04 06:54 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 74 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
 📈 روند: ℹ️ هنوز داده کافی برای مقایسه روند جمع نشده (چند ساعت دیگه تکمیل می‌شه)
 ⚔️ تشدیدآمیز در ۶ ساعت: 6 | در ۲۴ ساعت: 36
-🎖 عنوان نظامی در ۲۴ ساعت: 32 | خبر جدیدِ این نوبت: 4
+🎖 عنوان نظامی در ۲۴ ساعت: 32 | خبر جدیدِ این نوبت: 1
 
 🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 34 · ⚔️ نظامی 32 · 🤝 دیپلماسی 6 · 🛢️ انرژی/دریا 5 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: GN site:timesofisrael (11)، Al-Monitor (10)، Jerusalem Post (9)، Al Jazeera (9)، GN site:haaretz (7)، Israel National News (6)، Bing News (6)، JNS (5)
 
-📰 خبرهای جدید:
+📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🛢️ Netanyahu invites flydubai pilot to Independence Day ceremony
    📌 منبع: JNS
    🗞 «The Israeli premier praised Smit Machchhar during a call after the wounded aviator helped passengers and crew foil a violent midair hijacking.»
-   ⏱ 0.1 ساعت پیش
+   🔗 https://www.jns.org/news/israel-news/netanyahu-invites-flydubai-pilot-to-independence-day-ceremony
+   ⏱ 0.13 ساعت پیش
+⚔️ Two IDF service members injured in accident in Lebanon over the weekend
+   📌 منبع: Jerusalem Post
+   🔗 https://www.jpost.com/israel-news/defense-news/article-910493
+   ⏱ 0.3 ساعت پیش
+⚔️ Defense Ministry: 1,318 Israeli security personnel killed across all fronts since October 7
+   📌 منبع: Jerusalem Post
+   🔗 https://www.jpost.com/israel-news/defense-news/article-910490
+   ⏱ 0.85 ساعت پیش
 ⚔️ US carrier George H.W. Bush visits Thailand after six-month Middle East deployment
    📌 منبع: Al-Monitor
    🗞 «PHUKET, Thailand, Oct 4 (Reuters) - The US aircraft carrier GeorgeH.W. Bush arrived in Thailand's resort island ofPhuket on Sunday with about 4,800 personnel aboard for a rest-and-recreation break after six months supporting US operations i»
-   ⏱ 2.1 ساعت پیش
-⚔️ 2 Iranians accused of chlorine bomb plot against same Manchester synagogue attacked last year
-   📌 منبع: GN site:timesofisrael
-   ⏱ 29.0 ساعت پیش
-📰 Alleged Hamas fundraiser to undercover agent: I have a network in New York
-   📌 منبع: GN site:timesofisrael
-   ⏱ 53.6 ساعت پیش
+   🔗 https://www.al-monitor.com/originals/2026/10/us-carrier-george-hw-bush-visits-thailand-after-six-month-middle-east-deployment
+   ⏱ 2.13 ساعت پیش
+⚔️ Two soldiers seriously and moderately wounded in operational accident in southern Lebanon
+   📌 منبع: Israel National News
+   🔗 https://www.israelnationalnews.com/news/434050
+   ⏱ 2.51 ساعت پیش
+⚔️ Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
+   📌 منبع: Al Jazeera
+   🔗 https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss
+   ⏱ 2.75 ساعت پیش
+⚔️ Houthis claim strike on Saudi energy facility as Yemen fighting intensifies
+   📌 منبع: Al Jazeera
+   🔗 https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss
+   ⏱ 3.34 ساعت پیش
+⚔️🤝 Houthis claim strike on Aramco site as Yemen fighting intensifies
+   📌 منبع: Al Jazeera
+   🔗 https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss
+   ⏱ 3.34 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 1252
