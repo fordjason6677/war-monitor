@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 17:19:57
+زمان تهران: 2026-10-04 17:24:24
   بازار آزاد (بانبست): فروش 268,400 | خرید 268,500  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 267,451  (خرید 267,429 / فروش 267,451)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 13:49 UTC
+زمان گزارش: 2026-10-04 13:54 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 161 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+🎯 وضعیت (بر اساس 163 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+0) (مقایسه با قرائت 6.0 ساعت پیش: 11 → 11)
 ⚔️ تشدیدآمیز در ۶ ساعت: 11 | در ۲۴ ساعت: 52
 🎖 عنوان نظامی در ۲۴ ساعت: 37 | خبر جدیدِ این نوبت: 2
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 10
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 66 · ⚔️ نظامی 63 · 🤝 دیپلماسی 27 · 🛢️ انرژی/دریا 24 · ⛔️ تحریم 4 · ☢️ هسته‌ای 4
-📡 منابع ۲۴ ساعت: Jerusalem Post (29)، Middle East Eye (29)، Al Jazeera (17)، Israel National News (14)، GN site:timesofisrael (10)، JNS (9)، Al-Monitor (8)، Bing News (8)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 68 · ⚔️ نظامی 63 · 🤝 دیپلماسی 27 · 🛢️ انرژی/دریا 24 · ⛔️ تحریم 4 · ☢️ هسته‌ای 4
+📡 منابع ۲۴ ساعت: Jerusalem Post (29)، Middle East Eye (29)، Al Jazeera (18)، Israel National News (14)، GN site:timesofisrael (11)، JNS (9)، Al-Monitor (8)، Bing News (8)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🤝 Israel warned Germany of increased risk to US military bases, senior US official says - report
@@ -28,34 +28,34 @@
    📌 منبع: France24
    🗞 «Palestinians and activists report an increased use of drones in the occupied West Bank, particularly by the army and settlers, to whom the government supplies the drones directly. The drones are used to intimidate, monitor, demolish and mak»
    🔗 https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones
-   ⏱ 1.81 ساعت پیش
+   ⏱ 1.88 ساعت پیش
 ⚔️ Iran: 'We'll extend our missile range'
    📌 منبع: Israel National News
    🗞 «Iranian military spokesman Mohammad Akramnia announces that Tehran has begun working to increase the range of its missiles following the war with the US.»
    🔗 https://www.israelnationalnews.com/news/434073
-   ⏱ 2.23 ساعت پیش
+   ⏱ 2.3 ساعت پیش
 ⚔️ Israeli air strikes target southern Lebanon
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-target-southern-lebanon-4
-   ⏱ 2.51 ساعت پیش
+   ⏱ 2.58 ساعت پیش
 ⚔️🤝 Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks
    📌 منبع: Fox News (latest)
    🗞 «Two suspected plots near RAF Fairford and aboard a FlyDubai flight raise questions about Iran's covert attacks against the United States and Israel.»
    🔗 https://www.foxnews.com/politics/iran-move-shadow-war-dangerous-direction-experts-warn-back-two-possible-terror-attacks
-   ⏱ 2.83 ساعت پیش
+   ⏱ 2.91 ساعت پیش
 ⚔️ Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
    📌 منبع: Al Jazeera
    🗞 «The Saudi-led coalition spokesman says the Yemeni armed group is 'attempting to divert attention' from its losses.»
    🔗 https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss
-   ⏱ 6.18 ساعت پیش
+   ⏱ 6.26 ساعت پیش
 ⚔️ After flydubai attack, Israel admits it doesn't independently vet foreign pilots
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPNkphYjJ0djQtaFQyWWticF9NYmFoUXhzc0hIN0U4SlJIakl5WkZHb2NEUDJjdm1KWmllckZXYURqQVVxZXUyaGJtNXIyVkVZOEFMVXRYS0FkSUhaLVJ6R1dyaWI4UTZiczd0MW1pOGhMUTRLUW9yMEp1YWUzdmttcFlXQTY1TWI0dlRzdlcwY0FzZEZVMl81NEc3Ui1ObERuLUVGa3ZNS0lHVkpJTUJCTWNPVnQ5TGlNNjdWeUJncnZYXzMwNnFuMkJSeDQ1UWx1U245NnR5LUk3amZUd01sa3ZaTS1MQTJBaERNaTBVdElNQTV2M3A4Qm5tZVd4LVB3UjZYTVAyVV93WnYtZWdkcUVnRVcxR0ZGWklYNUZLLTUtSFdm?oc=5
-   ⏱ 6.6 ساعت پیش
+   ⏱ 6.67 ساعت پیش
 ⚔️ IDF says it targeted senior Hamas official Ali al-Amoudi in Gaza City strike that killed 5 people
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPal8wM3NOY0VhSkhlYXN2VF9rWUFQVzNpaEhJOC1nRmdUbkFfZXQtam15SWhLR2gyWjVVSTV4ZDAyX2hJdkh2WkhJV3dXbUJ0YUR3eG9NNF84U09JY2ZKeXEzS0V1YlhxaDVZRVZOVDlFMDdnTWNDS3BraXZMc2xHTmVraFNwZGlLVUtIN1hCSmI3eHpXRFY2Qk9PSXFIY3VSeEpvbmFnTzgzelFSQ2F3b1M4bnB6LUpBZ19YcVctWHg3UDFIX0tRWGczMXBPRVFnVHpEclF4dHV0dzQ?oc=5
-   ⏱ 6.71 ساعت پیش
+   ⏱ 6.78 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
