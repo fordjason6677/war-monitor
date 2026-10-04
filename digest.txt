@@ -1,24 +1,24 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 01:45:02
+زمان تهران: 2026-10-05 01:49:33
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 22:14 UTC
+زمان گزارش: 2026-10-04 22:19 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 215 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+0) (مقایسه با قرائت 6.0 ساعت پیش: 15 → 15)
-⚔️ تشدیدآمیز در ۶ ساعت: 15 | در ۲۴ ساعت: 57
-🎖 عنوان نظامی در ۲۴ ساعت: 41 | خبر جدیدِ این نوبت: 0
+🎯 وضعیت (بر اساس 216 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟠 تنش داره بالا می‌ره — +2 (مقایسه با قرائت 6.0 ساعت پیش: 13 → 15)
+⚔️ تشدیدآمیز در ۶ ساعت: 15 | در ۲۴ ساعت: 58
+🎖 عنوان نظامی در ۲۴ ساعت: 42 | خبر جدیدِ این نوبت: 1
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 108 · ⚔️ نظامی 71 · 🤝 دیپلماسی 32 · 🛢️ انرژی/دریا 25 · ☢️ هسته‌ای 6 · ⛔️ تحریم 3
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 108 · ⚔️ نظامی 72 · 🤝 دیپلماسی 32 · 🛢️ انرژی/دریا 25 · ☢️ هسته‌ای 7 · ⛔️ تحریم 3
 📡 منابع ۲۴ ساعت: Middle East Eye (43)، Jerusalem Post (39)، Al Jazeera (21)، Israel National News (17)، GN site:timesofisrael (15)، France24 (8)، Al-Monitor (7)، GN site:haaretz (7)
 
-📰 خبرهای تازه (از جدیدترین):
+📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🤝 US pulls all bombers from RAF Fairford air base threatened by alleged Iranian plot
    📌 منبع: Jerusalem Post
    🗞 «Until recently, 12 B-1B Lancer bombers had been stationed at Fairford, and were also used by the United States during strikes on Iran.»
@@ -27,35 +27,35 @@
 🤝 No military solution to US-Iran war, Iranian foreign minister says
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/no-military-solution-us-iran-war-iranian-foreign-minister-says
-   ⏱ 0.1 ساعت پیش
+   ⏱ 0.17 ساعت پیش
 ⚔️🤝🛢️ Iran says no military solution to war as peace talks with US stall
    📌 منبع: France24
    🗞 «Iran's diplomat said on Sunday there was no military solution to the US war against Iran as peace talks appeared stalled. Washington has scaled back attacks in favour of economic pressure, while Iran's attempted Hormuz blockade remains cont»
    🔗 https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks
-   ⏱ 0.55 ساعت پیش
+   ⏱ 0.63 ساعت پیش
 ☢️ Democratic rep says administration ‘has failed to present a strategy’ in Iran war
    📌 منبع: The Hill
    🗞 «Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain to the American people what the goals a»
    🔗 https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/
-   ⏱ 1.36 ساعت پیش
+   ⏱ 1.44 ساعت پیش
 ⚔️ Israel wear black armbands in Ireland tie over Hamas attack
    📌 منبع: Al-Monitor
    🗞 «Israel's national football team wore black armbands in their Nations League clash against Ireland on Sunday to commemorate the victims of Hamas' October 7, 2023 attack, after Irish players wore them to protest the war in Gaza. The simple bl»
    🔗 https://www.al-monitor.com/originals/2026/10/israel-wear-black-armbands-ireland-tie-over-hamas-attack
-   ⏱ 1.74 ساعت پیش
+   ⏱ 1.82 ساعت پیش
 ⚔️ یمن آغاز عملیات نظامی برای بازپس‌گیری مناطق تحت کنترل حوثی‌ها را اعلام کرد
    📌 منبع: Iran International
    🗞 «دولت یمن آغاز ضدحمله برای بازپس‌گیری مناطق تحت کنترل حوثی‌های مورد حمایت جمهوری اسلامی را اعلام کرد. اکسیوس نیز به نقل از مقام‌های آمریکایی گزارش داد واشینگتن با ارائه اطلاعات و کمک به تعیین اهداف حملات، از عملیات نیروهای یمنی و عربستان سعو»
    🔗 https://www.iranintl.com/202610049148
-   ⏱ 2.34 ساعت پیش
+   ⏱ 2.42 ساعت پیش
 ⚔️ Live - Explosion heard near Iran’s Qeshm, Sirik Islands
    📌 منبع: Google News (US-Iran)
    🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc?oc=5
-   ⏱ 2.52 ساعت پیش
+   ⏱ 2.59 ساعت پیش
 🤝 Iran says no military solution to conflict with US as talks remain at dead end
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0U3dWJMYzFfd3pYNHU3UWpIZjBZT21lVGk1V0VCazEwcTRoQ0w4MWpnZC01VHNSMXkwMWw4X05RRFdmd2ZzcmRpVlBvX2s3Q05TMnUtVGs5YnhrdDdaTHpvRGxIVWhsOXhtNVlXMEp5U29aUTVSOW1WdU1WU193c3dYYkViZkJ2SVNWT0dWQ1NhTHBnYjF2OEoxdHIyYlZGS1kwa3pIa0RwanVMZXfSAbMBQVVfeXFMTjRhTEFRc3FncGx4bGdXeEk4bmhRZ1JEc0FZbURDMEEwOUQydlBIaEJLTHZhOEN0NlZpeW1nR0xGc19xWTVidnB6LUE4NTFJaU9OUGtQQ0phNEp6M1p1aF9FMXgzUS1jTXg0QUtRTXE4THI2UHNIUXlYV3lSbEppQUF5VFQyeGpQdnpmVHlMWE96cFc1UXpFMU9KdWU2SEQ4eDRyMlhuQU1GNkFHQVpVZWxqNTQ?oc=5
-   ⏱ 4.12 ساعت پیش
+   ⏱ 4.19 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
