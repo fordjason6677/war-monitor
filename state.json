@@ -457,10 +457,12 @@
   "israeltolowergaspricesbyhalfashekelperliterfromoctober5": 1791123132.9814441,
   "copilotaccusedoftryingtohijackflydubaiplaneprobablyactedaloneisraelisourcessay": 1791123133.1169434,
   "passengersfoilbidtocrashdubaitelavivflightisraelsaysaftercopilotstabspilot": 1791123672.5448225,
-  "iraqshiftsoilstrategybyarrangingtankertomovepasthormuz": 1791124484.6363437
+  "iraqshiftsoilstrategybyarrangingtankertomovepasthormuz": 1791124484.6363437,
+  "gypsyroseblanchardspartnerkenurkerfounddeadat34": 1791124755.7479303,
+  "anuclearbombislaunchedfromiranisraelimusicalfacestheapocalypse": 1791124755.7585287
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T14:34:46.167796+00:00",
+ "last_run": "2026-10-04T14:39:17.596980+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -889,6 +891,10 @@
   {
    "ts": "2026-10-04T14:34:44+00:00",
    "esc6": 12
+  },
+  {
+   "ts": "2026-10-04T14:39:16+00:00",
+   "esc6": 13
   }
  ]
 }
