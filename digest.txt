@@ -1,54 +1,33 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 10:05:27
+زمان تهران: 2026-10-04 10:10:01
   بازار آزاد (بانبست): فروش 268,900 | خرید 269,000  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,691  (خرید 268,690 / فروش 268,691)
+  تتر/تومان زنده (والکس): 268,490  (خرید 268,010 / فروش 268,490)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 06:35 UTC
-📥 آخرین اجرا 0.7 ساعت پیش
+زمان گزارش: 2026-10-04 06:40 UTC
+📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 70 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
+🎯 وضعیت (بر اساس 72 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
 📈 روند: ℹ️ هنوز داده کافی برای مقایسه روند جمع نشده (چند ساعت دیگه تکمیل می‌شه)
 ⚔️ تشدیدآمیز در ۶ ساعت: 6 | در ۲۴ ساعت: 36
-🎖 عنوان نظامی در ۲۴ ساعت: 29 | خبر جدیدِ این نوبت: 14
+🎖 عنوان نظامی در ۲۴ ساعت: 30 | خبر جدیدِ این نوبت: 3
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 33 · ⚔️ نظامی 29 · 🤝 دیپلماسی 6 · 🛢️ انرژی/دریا 4 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
-📡 منابع ۲۴ ساعت: GN site:timesofisrael (11)، Al Jazeera (9)، Al-Monitor (9)، Jerusalem Post (8)، Israel National News (6)، Bing News (6)، GN site:haaretz (6)، Iran International (5)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 34 · ⚔️ نظامی 30 · 🤝 دیپلماسی 6 · 🛢️ انرژی/دریا 4 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
+📡 منابع ۲۴ ساعت: GN site:timesofisrael (11)، Jerusalem Post (9)، Al Jazeera (9)، Al-Monitor (9)، GN site:haaretz (7)، Israel National News (6)، Bing News (6)، Iran International (5)
 
 📰 خبرهای جدید:
-📰 EU condemns Israeli passenger for illegally occupying cockpit of plane
-   📌 منبع: Israel National News
-   🗞 «Plane was trying to exercise its right of self-determination by creating facts on the ground. Satire.»
-   ⏱ 0.8 ساعت پیش
-📰 'The Gaza War Has Permanently Changed Israeli Society. Solidarity Is Unraveling'
+📰 Report: Flydubai Suspect Shared al-Qaida Imagery, Israeli Planes on Social Media
    📌 منبع: GN site:haaretz
-   ⏱ 21.4 ساعت پیش
-📰 British nurses' union cuts ties with Israeli pharma giant Teva citing IDF links
+   ⏱ 21.3 ساعت پیش
+📰 From Algeria to flydubai, hijackings have long plagued Israel (and the West)
    📌 منبع: GN site:haaretz
-   ⏱ 27.8 ساعت پیش
-⚔️ IDF says it targeted Hamas official in Gaza strike that killed six Palestinians
-   📌 منبع: GN site:haaretz
-   ⏱ 30.8 ساعت پیش
-⛔️ U.S. Weighing Sanctions on Israel Over West Bank Settler Violence, Sources Say
-   📌 منبع: GN site:haaretz
-   ⏱ 35.1 ساعت پیش
-⚔️ Settlers Kill Palestinian, 19, Wound Another in West Bank Attack
-   📌 منبع: GN site:haaretz
-   ⏱ 35.3 ساعت پیش
-🤝 Israeli-American Ynon Kreiz, a cost-cutter, tapped as co-CEO of Paramount-Warner Bros Discovery
-   📌 منبع: GN site:timesofisrael
-   ⏱ 48.0 ساعت پیش
-📰 Ancient Negev wine was a global hit. Can Israeli winemakers bring it back?
-   📌 منبع: GN site:haaretz
-   ⏱ 48.5 ساعت پیش
-📰 'I was born in a Paraguay, in a Japanese community. I came to Israel for love'
-   📌 منبع: GN site:haaretz
-   ⏱ 49.9 ساعت پیش
-📰 Zara pulls Halloween costume likened to uniform for inmates at concentration camps
-   📌 منبع: GN site:timesofisrael
-   ⏱ 52.9 ساعت پیش
+   ⏱ 64.9 ساعت پیش
+🛢️ قالیباف: آمریکایی‌ها از طریق میانجی‌ پیشنهاداتی مطرح کرده‌اند
+   📌 منبع: BBC Persian
+   🗞 «محمدباقر قالیباف، رئیس مجلس ایران در جلسه علنی امروز گفت «آمریکایی‌ها که در رسانه‌ها حرف دیگری می‌زنند، اخیراً از طریق میانجی، پیشنهادهایی مطرح کرده‌اند.» او همچنین گفت تا زمانی که هفت شرط ایران محقق نشود، تنگه هرمز باز نخواهد شد. ساعاتی پی»
+   ⏱ زمان نامشخص
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 1252
