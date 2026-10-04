@@ -446,7 +446,7 @@
   "uscarriergeorgehwbushvisitsthailandaftersixmonthmiddleeastdeployment": 1791121261.1269822
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T13:41:02.607829+00:00",
+ "last_run": "2026-10-04T13:45:30.312864+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -826,6 +826,10 @@
   },
   {
    "ts": "2026-10-04T13:41:01+00:00",
+   "esc6": 11
+  },
+  {
+   "ts": "2026-10-04T13:45:29+00:00",
    "esc6": 11
   }
  ]
