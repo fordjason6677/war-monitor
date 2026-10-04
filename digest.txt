@@ -1,61 +1,59 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 14:26:43
-  بازار آزاد (بانبست): فروش 266,800 | خرید 266,900  ← October 04, 2026 00:01
-  ▼ -200 تومان نسبت به آخرین نوبت (-0.07%)
-  تتر/تومان زنده (والکس): 267,262  (خرید 267,216 / فروش 267,262)
+زمان تهران: 2026-10-04 14:31:11
+  بازار آزاد (بانبست): فروش 267,500 | خرید 267,600  ← October 04, 2026 00:01
+  ▲ +700 تومان نسبت به آخرین نوبت (+0.26%)
+  تتر/تومان زنده (والکس): 266,717  (خرید 266,650 / فروش 266,717)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 10:56 UTC
+زمان گزارش: 2026-10-04 11:01 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 132 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +8 تیتر تشدیدآمیز (مقایسه با قرائت 4.4 ساعت پیش: 6 → 14)
-⚔️ تشدیدآمیز در ۶ ساعت: 14 | در ۲۴ ساعت: 59
-🎖 عنوان نظامی در ۲۴ ساعت: 58 | خبر جدیدِ این نوبت: 1
+🎯 وضعیت (بر اساس 133 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟠 تنش داره بالا می‌ره — +2 (مقایسه با قرائت 4.4 ساعت پیش: 6 → 8)
+⚔️ تشدیدآمیز در ۶ ساعت: 8 | در ۲۴ ساعت: 50
+🎖 عنوان نظامی در ۲۴ ساعت: 35 | خبر جدیدِ این نوبت: 1
+⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 9
 
-🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 58 · 📰 عمومی 52 · 🤝 دیپلماسی 18 · 🛢️ انرژی/دریا 18 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
-📡 منابع ۲۴ ساعت: Middle East Eye (22)، Jerusalem Post (20)، Al Jazeera (15)، Al-Monitor (10)، Israel National News (9)، GN site:timesofisrael (9)، JNS (8)، Bing News (7)
+🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 58 · 📰 عمومی 52 · 🤝 دیپلماسی 19 · 🛢️ انرژی/دریا 18 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
+📡 منابع ۲۴ ساعت: Middle East Eye (22)، Jerusalem Post (21)، Al Jazeera (15)، Al-Monitor (10)، Israel National News (9)، GN site:timesofisrael (9)، JNS (8)، Bing News (7)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
-⚔️🤝 Woman arrested in northern Israel over alleged false terror report, husband arrested over threats
-   📌 منبع: Jerusalem Post
-   🗞 «Police said extensive checks ruled out any security-related intent on the husband’s part and raised a “clear suspicion” that the woman’s warning about an impending attack was entirely false.»
-   🔗 https://www.jpost.com/israel-news/article-910508
-   ⏱ 0.08 ساعت پیش
-⚔️ More on death of Palestinian man at Tulkarm checkpoint
-   📌 منبع: Middle East Eye
-   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/more-death-palestinian-man-tulkarm-checkpoint
-   ⏱ 0.4 ساعت پیش
-🤝 Palestinian Arab State: Western policy making vs. Middle East reality
-   📌 منبع: Israel National News
-   🗞 «Western policy makers’ infatuation with the proposed Palestinian Arab state has been driven by Western preoccupation with the moderate Palestinian Arab talk, which is aimed at Western target audiences. Middle East Arab rulers are not impres»
-   🔗 https://www.israelnationalnews.com/news/434056
-   ⏱ 1.01 ساعت پیش
-⚔️ Israel marks 1,318 slain security personnel since Oct. 7
-   📌 منبع: JNS
-   🗞 «Terror attacks have also claimed 1,029 civilian lives alongside tens of thousands wounded over three years, the National Insurance Institute reported.»
-   🔗 https://www.jns.org/news/israel-news/israel-marks-1-318-slain-security-personnel-since-oct-7
-   ⏱ 1.7 ساعت پیش
-⚔️ Ireland–Israel nations League clash overshadowed by political tensions
+⚔️🤝🛢️ Yemen’s Houthis claim attacks on Aramco facilities in Riyadh
    📌 منبع: France24
-   🗞 «Ireland and Israel are set to face off in the second leg of their Nations League matchup, with political tensions overshadowing the football. During last week’s first game in Bulgaria, Irish players wore black armbands in support of Gaza an»
-   🔗 https://www.france24.com/en/video/20261004-ireland%E2%80%93israel-nations-league-clash-overshadowed-by-political-tensions
-   ⏱ 2.49 ساعت پیش
-⚔️ Gaza’s Christians mourn mother and daughter killed in Israeli attack
+   🗞 «Yemen’s Houthi rebels have claimed responsibility for attacks in Riyadh, including on facilities belonging to Aramco, the world’s largest oil company. This follows reports from residents of flames and smoke rising from an oil facility on th»
+   🔗 https://www.france24.com/en/yemen-s-houthis-claim-attacks-on-aramco-facilities-in-riyadh
+   ⏱ 2.66 ساعت پیش
+⚔️ Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
    📌 منبع: Al Jazeera
-   🗞 «Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.»
-   🔗 https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss
-   ⏱ 2.9 ساعت پیش
-⚔️ Haunted by grief, Gaza's displaced still wait overseas for return
-   📌 منبع: Al-Monitor
-   🗞 «By Nidal al-MughrabiCAIRO, Oct 4 (Reuters) - Omar al-Hassayna fled Gaza for Cairo after an Israeli airstrike wiped out much of his large family. Three years on, he remains there waiting for enough stability, security and reconstruction in h»
-   🔗 https://www.al-monitor.com/originals/2026/10/haunted-grief-gazas-displaced-still-wait-overseas-return
-   ⏱ 3.17 ساعت پیش
+   🗞 «The Saudi-led coalition spokesman says the Yemeni armed group is 'attempting to divert attention' from its losses.»
+   🔗 https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss
+   ⏱ 3.37 ساعت پیش
 ⚔️ After flydubai attack, Israel admits it doesn't independently vet foreign pilots
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPNkphYjJ0djQtaFQyWWticF9NYmFoUXhzc0hIN0U4SlJIakl5WkZHb2NEUDJjdm1KWmllckZXYURqQVVxZXUyaGJtNXIyVkVZOEFMVXRYS0FkSUhaLVJ6R1dyaWI4UTZiczd0MW1pOGhMUTRLUW9yMEp1YWUzdmttcFlXQTY1TWI0dlRzdlcwY0FzZEZVMl81NEc3Ui1ObERuLUVGa3ZNS0lHVkpJTUJCTWNPVnQ5TGlNNjdWeUJncnZYXzMwNnFuMkJSeDQ1UWx1U245NnR5LUk3amZUd01sa3ZaTS1MQTJBaERNaTBVdElNQTV2M3A4Qm5tZVd4LVB3UjZYTVAyVV93WnYtZWdkcUVnRVcxR0ZGWklYNUZLLTUtSFdm?oc=5
-   ⏱ 3.71 ساعت پیش
+   ⏱ 3.79 ساعت پیش
+⚔️ IDF says it targeted senior Hamas official Ali al-Amoudi in Gaza City strike that killed 5 people
+   📌 منبع: GN site:timesofisrael
+   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPal8wM3NOY0VhSkhlYXN2VF9rWUFQVzNpaEhJOC1nRmdUbkFfZXQtam15SWhLR2gyWjVVSTV4ZDAyX2hJdkh2WkhJV3dXbUJ0YUR3eG9NNF84U09JY2ZKeXEzS0V1YlhxaDVZRVZOVDlFMDdnTWNDS3BraXZMc2xHTmVraFNwZGlLVUtIN1hCSmI3eHpXRFY2Qk9PSXFIY3VSeEpvbmFnTzgzelFSQ2F3b1M4bnB6LUpBZ19YcVctWHg3UDFIX0tRWGczMXBPRVFnVHpEclF4dHV0dzQ?oc=5
+   ⏱ 3.89 ساعت پیش
+⚔️ Saudi-led coalition dismisses Houthi claim of attack on Riyadh
+   📌 منبع: Middle East Eye
+   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-dismisses-houthi-claim-attack-riyadh
+   ⏱ 4.79 ساعت پیش
+🤝 Iran tells US there is no military solution to Middle East war
+   📌 منبع: Bing News
+   🗞 «Iran's top diplomat insisted on Sunday that there would be no military solution to the United States' war against the Islamic republic, with talks on ending the conflict apparently at an impasse.»
+   🔗 https://www.msn.com/en-us/news/world/iran-tells-us-there-is-no-military-solution-to-middle-east-war/ar-AA2dwHNR
+   ⏱ 8.24 ساعت پیش
+☢️ US remains 'hell-bent' on preventing Iran from acquiring nuclear weapons, says Hegseth
+   📌 منبع: Jerusalem Post
+   🔗 https://www.jpost.com/middle-east/iran-news/article-910482
+   ⏱ 10.36 ساعت پیش
+⚔️ نیروهای دولت یمن به مواضع حوثی‌ها حمله کردند؛ هزاران نفر از مناطق درگیری گریختند
+   📌 منبع: Iran International
+   🔗 https://www.iranintl.com/202610036891
+   ⏱ 11.19 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2579
