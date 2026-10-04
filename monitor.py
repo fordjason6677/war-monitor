@@ -121,6 +121,9 @@ def is_relevant(title):
         return True
     return bool(GENERIC_IR.search(title) and CONFLICT.search(title))
 
+CAT_EMOJI = {"military": "⚔️", "diplomacy": "🤝", "nuclear": "☢️",
+             "sanctions": "⛔️", "energy": "🛢️", "other": "📰"}
+
 CATS = [
     ("military", re.compile(
         r"strike|airstrike|air strike|attack|missile|rocket|drone|uav|bomb|"
@@ -165,8 +168,27 @@ TAG = lambda t: re.compile(rf"<{t}[^>]*>(.*?)</{t}>", re.I | re.S)
 
 def strip_tags(s):
     s = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", s, flags=re.S)
+    s = html.unescape(s)                 # اول escape باز بشه تا تگ‌ها دیده بشن
     s = re.sub(r"<[^>]+>", "", s)
-    return html.unescape(s).strip()
+    s = html.unescape(s)                 # موجودیت‌های داخل متن
+    s = re.sub(r"\s+", " ", s)
+    return s.strip()
+
+
+def clean_desc(desc, title):
+    """متن خبر رو برای نقل‌قول تمیز می‌کنه؛ اگه بی‌ارزشه برمی‌گردونه None"""
+    d = (desc or "").strip()
+    if not d or len(d) < 40:
+        return None
+    if d.lower().startswith(("http://", "https://")):
+        return None
+    if "<a href" in d.lower() or d.count("news.google.com"):
+        return None
+    nt = re.sub(r"[^\w\u0600-\u06FF]+", "", d).lower()
+    tt = re.sub(r"[^\w\u0600-\u06FF]+", "", title or "").lower()
+    if tt and (nt == tt or (len(nt) > 20 and nt.startswith(tt))):
+        return None                     # عین تیتره، ارزش نقل‌قول نداره
+    return d[:240]
 
 
 def unwrap_link(link):
@@ -303,8 +325,12 @@ def collect():
                 continue
             seen.add(key)
             st["seen"][key] = time.time()
+            title = it["title"]
+            if feed["name"].startswith(("GN site:", "Google News", "Bing News")):
+                title = re.sub(r"\s*[-–|]\s*[^-–|]{2,40}$", "", title).strip()
             items.append({
-                "title": it["title"], "link": unwrap_link(it["link"]), "src": feed["name"],
+                "title": title, "link": unwrap_link(it["link"]), "src": feed["name"],
+                "desc": (it.get("desc") or "")[:320],
                 "lang": feed["lang"], "time": dt.isoformat() if dt else None,
                 "age_h": round(age_h, 1) if age_h is not None else None,
                 "cats": classify(it["title"], it["desc"]),
@@ -363,6 +389,41 @@ def status_level(items):
     return "🟢 سکوت نسبی (خبر نظامی جدید در ۲۴ ساعت نیومده)", h6, h24, mil24
 
 
+def trend_verdict(st, now, esc6):
+    """روند تنش رو با قرائت‌های قبلی مقایسه می‌کنه (مرجع: حدود ۶ ساعت پیش)"""
+    hist_t = st.get("trend") or []
+    hist_t.append({"ts": now.isoformat(timespec="seconds"), "esc6": int(esc6)})
+    st["trend"] = hist_t[-800:]
+
+    prev = [r for r in hist_t[:-1]
+            if now.timestamp() - datetime.fromisoformat(r["ts"]).timestamp() >= 3600
+            and r.get("esc6") is not None]
+    if not prev:
+        return "ℹ️ هنوز داده کافی برای مقایسه روند جمع نشده (چند ساعت دیگه تکمیل می‌شه)"
+
+    target = now.timestamp() - 6 * 3600
+    best, bd = prev[-1], 1e18
+    for r in prev:
+        t = datetime.fromisoformat(r["ts"]).timestamp()
+        d = abs(t - target)
+        if d < bd:
+            bd, best = d, r
+    bt = datetime.fromisoformat(best["ts"])
+    ago = (now - bt).total_seconds() / 3600
+    delta = esc6 - best["esc6"]
+    ctx = f"(مقایسه با قرائت {ago:.1f} ساعت پیش: {best['esc6']} → {esc6})"
+
+    if delta >= 4:
+        return f"🔴 شدیداً به جنگ نزدیک‌تر شدیم — {delta:+d} تیتر تشدیدآمیز {ctx}"
+    if delta >= 2:
+        return f"🟠 تنش داره بالا می‌ره — {delta:+d} {ctx}"
+    if delta <= -4:
+        return f"🟢 کاهش چشمگیر تنش — فاصله گرفتیم {delta:+d} {ctx}"
+    if delta <= -2:
+        return f"🟢 تنش داره می‌خوابه — {delta:+d} {ctx}"
+    return f"🟡 تقریباً ثابت — تغییر محسوسی نیست ({delta:+d}) {ctx}"
+
+
 def build_digest(items, problems, all_count, st):
     now = datetime.now(timezone.utc)
     hist = load_history(now, 24.0)          # وضعیت از تاریخچه ۲۴ ساعته
@@ -403,9 +464,9 @@ def build_digest(items, problems, all_count, st):
                 bucket = groups[hr]
                 L.append(f"  ▸ {hr}:00 — {len(bucket)} خبر")
                 for i in bucket[:4]:
-                    L.append(f"      • {i['title'][:110]}")
-                    if i.get("link"):
-                        L.append(f"        {i['link'][:120]}")
+                    em = "".join(CAT_EMOJI.get(c, "📰") for c in (i.get("cats") or ["other"]))
+                    L.append(f"      {em} {i['title'][:110]}")
+                    L.append(f"         📌 {i.get('src', '؟')}")
                 if len(bucket) > 4:
                     L.append(f"      … و {len(bucket) - 4} خبر دیگر (در items.jsonl)")
         else:
@@ -413,30 +474,29 @@ def build_digest(items, problems, all_count, st):
     else:
         L.append("📥 اولین اجرا (ایجاد تاریخچه)")
     L.append("")
-    L.append(f"وضعیت (بر اساس {len(hist)} عنوان در ۲۴ ساعت اخیر): {lvl}")
-    L.append(f"خبر اصطلاحاً «تشدیع‌آمیز» در ۶ ساعت اخیر: {len(h6)}")
-    L.append(f"خبر اصطلاحاً «تشدیع‌آمیز» در ۲۴ ساعت اخیر: {len(h24)}")
-    L.append(f"عنوان با مضمون نظامی در ۲۴ ساعت: {len(mil24)}")
-    L.append(f"خبر جدید از اجرای این لحظه: {len(items)}")
+    trend = trend_verdict(st, now, len(h6))
+    L.append(f"🎯 وضعیت (بر اساس {len(hist)} عنوان در ۲۴ ساعت اخیر): {lvl}")
+    L.append(f"📈 روند: {trend}")
+    L.append(f"⚔️ تشدیدآمیز در ۶ ساعت: {len(h6)} | در ۲۴ ساعت: {len(h24)}")
+    L.append(f"🎖 عنوان نظامی در ۲۴ ساعت: {len(mil24)} | خبر جدیدِ این نوبت: {len(items)}")
     L.append("")
-    L.append("— دسته‌بندی (۲۴ ساعت اخیر) —")
-    for c, n in sorted(cats.items(), key=lambda x: -x[1]):
-        L.append(f"  {fa.get(c, c):10s}: {n}")
+    L.append("🗂 دسته‌بندی ۲۴ ساعت: " + " · ".join(
+        f"{CAT_EMOJI.get(c, '📰')} {fa.get(c, c)} {n}"
+        for c, n in sorted(cats.items(), key=lambda x: -x[1])))
+    top_srcs = sorted(srcs.items(), key=lambda x: -x[1])[:8]
+    L.append("📡 منابع ۲۴ ساعت: " + "، ".join(f"{s} ({n})" for s, n in top_srcs))
     L.append("")
-    L.append("— منابع (۲۴ ساعت اخیر) —")
-    for s, n in sorted(srcs.items(), key=lambda x: -x[1]):
-        L.append(f"  {s:24s}: {n}")
-    L.append("")
-    L.append("— ۱۵ عنوان جدید —" if fresh else "— ۱۰ عنوان اخیر تاریخچه —")
-    for i in headlines[:15]:
-        t = i["time"][:16].replace("T", " ") if i.get("time") else "؟"
-        tag = "/".join(i.get("cats") or [])
+    L.append("📰 خبرهای جدید:" if fresh else "📰 آخرین خبرهای تاریخچه:")
+    for i in headlines[:10]:
+        em = "".join(CAT_EMOJI.get(c, "📰") for c in (i.get("cats") or ["other"]))
         age = i.get("age_h")
-        L.append(f"  [{age if age is not None else '?'}h] {t} | {i.get('src','')}")
-        L.append(f"    {i.get('title','')}")
-        if i.get("link"):
-            L.append(f"    {i['link']}")
-        L.append(f"    دسته: {tag}")
+        when = f"{age} ساعت پیش" if age is not None else "زمان نامشخص"
+        L.append(f"{em} {i.get('title', '')}")
+        L.append(f"   📌 منبع: {i.get('src', '؟')}")
+        d = clean_desc(i.get("desc"), i.get("title"))
+        if d:
+            L.append(f"   🗞 «{d}»")
+        L.append(f"   ⏱ {when}")
     if problems:
         L.append("")
         L.append("— خطای پوشش (نباید به‌عنوان «خبر نیست» تفسیر شود) —")

@@ -38,10 +38,17 @@ jobs:
         run: |
           git config user.name "war-monitor-bot"
           git config user.email "actions@users.noreply.github.com"
+          # جلوگیری از شکستن push وقتی همزمان commit دیگه‌ای رفته
+          git pull --rebase --autostash origin "$GITHUB_REF_NAME" || true
           git add -A items.jsonl state.json fx.jsonl digest.txt
           if git diff --cached --quiet; then
             echo "no changes"
           else
             git commit -m "update: $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+            for i in 1 2 3; do
+              git push && exit 0
+              git pull --rebase --autostash origin "$GITHUB_REF_NAME"
+              sleep 5
+            done
             git push
           fi
