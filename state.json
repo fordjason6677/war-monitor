@@ -417,10 +417,13 @@
   "explainedthepoliticalbackdroptoirelandvsisraelandfalloutfromthefirstgame": 1791113858.7798908,
   "howordinaryisraelishelpedsaveaflydubaiflight": 1791114257.3152046,
   "ramadanlosesitsspiritacrossisraelsarabcommunitiesasiranwaremptiesmosquesandmarkets": 1791114797.8341656,
-  "بقاییپیشنهادآمریکادربارهپروندههستهایوتمرکزمارویتنگههرمزاست": 1791115066.034599
+  "بقاییپیشنهادآمریکادربارهپروندههستهایوتمرکزمارویتنگههرمزاست": 1791115066.034599,
+  "iranwellextendourmissilerange": 1791115336.1542249,
+  "palestinianarabstatewesternpolicy": 1791115336.154509,
+  "westbankpalestiniansharassedbysettlersincreasinguseofdrones": 1791115336.4255934
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T11:57:47.973296+00:00",
+ "last_run": "2026-10-04T12:02:17.813517+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -709,6 +712,10 @@
   {
    "ts": "2026-10-04T11:57:46+00:00",
    "esc6": 11
+  },
+  {
+   "ts": "2026-10-04T12:02:16+00:00",
+   "esc6": 13
   }
  ]
 }
