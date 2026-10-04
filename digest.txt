@@ -1,20 +1,20 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 10:37:44
+زمان تهران: 2026-10-04 10:42:11
   بازار آزاد (بانبست): فروش 268,900 | خرید 269,000  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,803  (خرید 268,802 / فروش 268,803)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 07:07 UTC
+زمان گزارش: 2026-10-04 07:12 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 97 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+🎯 وضعیت (بر اساس 106 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: ℹ️ هنوز داده کافی برای مقایسه روند جمع نشده (چند ساعت دیگه تکمیل می‌شه)
-⚔️ تشدیدآمیز در ۶ ساعت: 9 | در ۲۴ ساعت: 43
-🎖 عنوان نظامی در ۲۴ ساعت: 44 | خبر جدیدِ این نوبت: 12
+⚔️ تشدیدآمیز در ۶ ساعت: 9 | در ۲۴ ساعت: 49
+🎖 عنوان نظامی در ۲۴ ساعت: 48 | خبر جدیدِ این نوبت: 73
 
-🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 44 · 📰 عمومی 41 · 🤝 دیپلماسی 10 · 🛢️ انرژی/دریا 9 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
+🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 48 · 📰 عمومی 46 · 🤝 دیپلماسی 11 · 🛢️ انرژی/دریا 9 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Middle East Eye (14)، Jerusalem Post (13)، GN site:timesofisrael (10)، Al-Monitor (10)، Al Jazeera (9)، GN site:haaretz (7)، JNS (6)، Israel National News (6)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
@@ -27,33 +27,33 @@
    📌 منبع: JNS
    🗞 «The Israeli premier praised Smit Machchhar during a call after the wounded aviator helped passengers and crew foil a violent midair hijacking.»
    🔗 https://www.jns.org/news/israel-news/netanyahu-invites-flydubai-pilot-to-independence-day-ceremony
-   ⏱ 0.35 ساعت پیش
-⚔️ 2 Iranians charged with terror plot targeting UK Jews
-   📌 منبع: JNS
-   🗞 «The suspects allegedly prepared a chlorine bomb while scoping Manchester's Heaton Park synagogue for a second attack.»
-   🔗 https://www.jns.org/news/world/2-iranians-charged-with-terror-plot-targeting-uk-jews
-   ⏱ 0.48 ساعت پیش
-⚔️ Two IDF service members injured in accident in Lebanon over the weekend
-   📌 منبع: Jerusalem Post
-   🔗 https://www.jpost.com/israel-news/defense-news/article-910493
-   ⏱ 0.53 ساعت پیش
+   ⏱ 0.43 ساعت پیش
 ⚔️ Israeli embassies in UK, US promote copycat NAZA weeks after original's Venice triumph
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/israeli-embassies-uk-us-promote-copycat-naza-weeks-after-originals-venice-triumph
-   ⏱ 0.79 ساعت پیش
-⚔️ Saudi-led coalition dismisses Houthi claim of attack on Riyadh
-   📌 منبع: Middle East Eye
-   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-dismisses-houthi-claim-attack-riyadh
-   ⏱ 0.9 ساعت پیش
-⚔️ Defense Ministry: 1,318 Israeli security personnel killed across all fronts since October 7
-   📌 منبع: Jerusalem Post
-   🔗 https://www.jpost.com/israel-news/defense-news/article-910490
-   ⏱ 1.08 ساعت پیش
-⚔️ Israel says 1, 318 personnel killed since 7 Oct Hamas attack
-   📌 منبع: Middle East Eye
-   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-1-318-personnel-killed-7-oct-hamas-attack
-   ⏱ 1.77 ساعت پیش
+   ⏱ 0.86 ساعت پیش
+⚔️ US carrier George H.W. Bush visits Thailand after six-month Middle East deployment
+   📌 منبع: Al-Monitor
+   🗞 «PHUKET, Thailand, Oct 4 (Reuters) - The US aircraft carrier GeorgeH.W. Bush arrived in Thailand's resort island ofPhuket on Sunday with about 4,800 personnel aboard for a rest-and-recreation break after six months supporting US operations i»
+   🔗 https://www.al-monitor.com/originals/2026/10/us-carrier-george-hw-bush-visits-thailand-after-six-month-middle-east-deployment
+   ⏱ 2.43 ساعت پیش
+⚔️ Two soldiers seriously and moderately wounded in operational accident in southern Lebanon
+   📌 منبع: Israel National News
+   🔗 https://www.israelnationalnews.com/news/434050
+   ⏱ 2.81 ساعت پیش
+⚔️ Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
+   📌 منبع: Al Jazeera
+   🔗 https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss
+   ⏱ 3.05 ساعت پیش
+⚔️ نیروهای دولت یمن به مواضع حوثی‌ها حمله کردند؛ هزاران نفر از مناطق درگیری گریختند
+   📌 منبع: Iran International
+   🔗 https://www.iranintl.com/202610036891
+   ⏱ 7.37 ساعت پیش
+⛔️ Iran war news LIVE updates: Pezeshkian says Tehran adopted a new arrangement to counter US sanctions
+   📌 منبع: Bing News
+   🔗 http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1e3c10f5e4f8b898df2fd4c245d5c&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2firan-war-news-live-updates-pezeshkian-says-tehran-adopted-a-new-arrangement-to-counter-us-sanctions%2far-AA2dvxAp&c=9276641136393180234&mkt=en-ww
+   ⏱ 9.0 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 1799
+تعداد کل آیتم خوانده‌شده از فیدها: 2599
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
