@@ -1,60 +1,60 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 12:43:04
+زمان تهران: 2026-10-04 12:47:39
   بازار آزاد (بانبست): فروش 271,700 | خرید 271,800  ← October 04, 2026 00:01
-  ▼ -600 تومان نسبت به آخرین نوبت (-0.22%)
-  تتر/تومان زنده (والکس): 269,646  (خرید 269,645 / فروش 269,646)
+  = 0 تومان نسبت به آخرین نوبت (0.00%)
+  تتر/تومان زنده (والکس): 269,886  (خرید 269,888 / فروش 269,889)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 09:13 UTC
+زمان گزارش: 2026-10-04 09:17 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 119 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +9 تیتر تشدیدآمیز (مقایسه با قرائت 2.6 ساعت پیش: 6 → 15)
-⚔️ تشدیدآمیز در ۶ ساعت: 15 | در ۲۴ ساعت: 53
-🎖 عنوان نظامی در ۲۴ ساعت: 53 | خبر جدیدِ این نوبت: 0
+🎯 وضعیت (بر اساس 122 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +9 تیتر تشدیدآمیز (مقایسه با قرائت 2.7 ساعت پیش: 6 → 15)
+⚔️ تشدیدآمیز در ۶ ساعت: 15 | در ۲۴ ساعت: 54
+🎖 عنوان نظامی در ۲۴ ساعت: 55 | خبر جدیدِ این نوبت: 3
 
-🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 53 · 📰 عمومی 47 · 🛢️ انرژی/دریا 17 · 🤝 دیپلماسی 15 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
-📡 منابع ۲۴ ساعت: Middle East Eye (20)، Jerusalem Post (17)، Al Jazeera (14)، Al-Monitor (11)، GN site:timesofisrael (9)، JNS (6)، Israel National News (6)، GN site:haaretz (6)
+🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 55 · 📰 عمومی 48 · 🛢️ انرژی/دریا 17 · 🤝 دیپلماسی 15 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
+📡 منابع ۲۴ ساعت: Middle East Eye (20)، Jerusalem Post (18)، Al Jazeera (14)، Al-Monitor (11)، GN site:timesofisrael (9)، JNS (7)، Israel National News (6)، GN site:haaretz (6)
 
-📰 خبرهای تازه (از جدیدترین):
+📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 🤝 Halevi: Netanyahu rejected firing reservists who stopped reporting amid judicial reform - report
    📌 منبع: Jerusalem Post
    🗞 «According to N12, after the Knesset approved the law eliminating the reasonableness standard, Halevi met with the prime minister and warned him that Israel was entering a dangerous situation.»
    🔗 https://www.jpost.com/israel-news/defense-news/article-910500
    ⏱ 0.0 ساعت پیش
+⚔️ Israel marks 1,318 slain security personnel since Oct. 7
+   📌 منبع: JNS
+   🗞 «Terror attacks have also claimed 1,029 civilian lives alongside tens of thousands wounded over three years, the National Insurance Institute reported.»
+   🔗 https://www.jns.org/news/israel-news/israel-marks-1-318-slain-security-personnel-since-oct-7
+   ⏱ 0.05 ساعت پیش
 🛢️ Tanker hit by unknown projectile in Strait of Hormuz, UKMTO says
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unknown-projectile-strait-hormuz-ukmto-says
-   ⏱ 0.09 ساعت پیش
+   ⏱ 0.17 ساعت پیش
 ⚔️ Ireland–Israel nations League clash overshadowed by political tensions
    📌 منبع: France24
    🗞 «Ireland and Israel are set to face off in the second leg of their Nations League matchup, with political tensions overshadowing the football. During last week’s first game in Bulgaria, Irish players wore black armbands in support of Gaza an»
    🔗 https://www.france24.com/en/video/20261004-ireland%E2%80%93israel-nations-league-clash-overshadowed-by-political-tensions
-   ⏱ 0.77 ساعت پیش
+   ⏱ 0.84 ساعت پیش
 ⚔️ Gaza’s Christians mourn mother and daughter killed in Israeli attack
    📌 منبع: Al Jazeera
    🗞 «Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.»
    🔗 https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss
-   ⏱ 1.17 ساعت پیش
+   ⏱ 1.25 ساعت پیش
 ⚔️ Haunted by grief, Gaza's displaced still wait overseas for return
    📌 منبع: Al-Monitor
    🗞 «By Nidal al-MughrabiCAIRO, Oct 4 (Reuters) - Omar al-Hassayna fled Gaza for Cairo after an Israeli airstrike wiped out much of his large family. Three years on, he remains there waiting for enough stability, security and reconstruction in h»
    🔗 https://www.al-monitor.com/originals/2026/10/haunted-grief-gazas-displaced-still-wait-overseas-return
-   ⏱ 1.44 ساعت پیش
+   ⏱ 1.52 ساعت پیش
 ⚔️ IDF says it targeted senior Hamas official Ali al-Amoudi in Gaza City strike that killed 5 people
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPal8wM3NOY0VhSkhlYXN2VF9rWUFQVzNpaEhJOC1nRmdUbkFfZXQtam15SWhLR2gyWjVVSTV4ZDAyX2hJdkh2WkhJV3dXbUJ0YUR3eG9NNF84U09JY2ZKeXEzS0V1YlhxaDVZRVZOVDlFMDdnTWNDS3BraXZMc2xHTmVraFNwZGlLVUtIN1hCSmI3eHpXRFY2Qk9PSXFIY3VSeEpvbmFnTzgzelFSQ2F3b1M4bnB6LUpBZ19YcVctWHg3UDFIX0tRWGczMXBPRVFnVHpEclF4dHV0dzQ?oc=5
-   ⏱ 2.09 ساعت پیش
-⚔️🛢️ Netanyahu invites flydubai pilot to Independence Day ceremony
-   📌 منبع: JNS
-   🗞 «The Israeli premier praised Smit Machchhar during a call after the wounded aviator helped passengers and crew foil a violent midair hijacking.»
-   🔗 https://www.jns.org/news/israel-news/netanyahu-invites-flydubai-pilot-to-independence-day-ceremony
-   ⏱ 2.44 ساعت پیش
+   ⏱ 2.17 ساعت پیش
 ⚔️ Two soldiers seriously and moderately wounded in operational accident in southern Lebanon
    📌 منبع: Israel National News
    🔗 https://www.israelnationalnews.com/news/434050
-   ⏱ 4.82 ساعت پیش
+   ⏱ 4.9 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2579
