@@ -1,21 +1,21 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 02:16:31
+زمان تهران: 2026-10-05 02:20:58
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 22:46 UTC
+زمان گزارش: 2026-10-04 22:50 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 216 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟠 تنش داره بالا می‌ره — +3 (مقایسه با قرائت 6.0 ساعت پیش: 13 → 16)
-⚔️ تشدیدآمیز در ۶ ساعت: 16 | در ۲۴ ساعت: 58
-🎖 عنوان نظامی در ۲۴ ساعت: 42 | خبر جدیدِ این نوبت: 1
+🎯 وضعیت (بر اساس 218 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +5 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 12 → 17)
+⚔️ تشدیدآمیز در ۶ ساعت: 17 | در ۲۴ ساعت: 59
+🎖 عنوان نظامی در ۲۴ ساعت: 43 | خبر جدیدِ این نوبت: 2
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 109 · ⚔️ نظامی 72 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 7 · ⛔️ تحریم 2
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 110 · ⚔️ نظامی 73 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 7 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Middle East Eye (41)، Jerusalem Post (39)، Al Jazeera (20)، Israel National News (17)، GN site:timesofisrael (16)، France24 (8)، Al-Monitor (7)، GN site:haaretz (7)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
@@ -28,35 +28,35 @@
    📌 منبع: Axios
    🗞 «The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. Why it matters: A U.S. official said the base was under threat of attack by Iran. Driving the news: British securit»
    🔗 https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran
-   ⏱ 0.16 ساعت پیش
+   ⏱ 0.23 ساعت پیش
+⚔️ آمریکا بمب‌افکن‌هایش را هم‌زمان با تحقیقات درباره طرح حمله به فرفورد از بریتانیا خارج کرد
+   📌 منبع: Iran International
+   🗞 «نیروی هوایی آمریکا همه بمب‌افکن‌های مستقر در پایگاه هوایی فرفورد در بریتانیا را که برای حمله به ایران استفاده می‌شد، به آمریکا بازگرداند. این جابه‌جایی در حالی انجام شده که تحقیقات درباره طرح احتمالی حمله تروریستی به این پایگاه ادامه دارد.»
+   🔗 https://www.iranintl.com/202610047194
+   ⏱ 0.25 ساعت پیش
 🤝 No military solution to US-Iran war, Iranian foreign minister says
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/no-military-solution-us-iran-war-iranian-foreign-minister-says
-   ⏱ 0.62 ساعت پیش
+   ⏱ 0.7 ساعت پیش
 ⚔️🤝🛢️ Iran says no military solution to war as peace talks with US stall
    📌 منبع: France24
    🗞 «Iran's diplomat said on Sunday there was no military solution to the US war against Iran as peace talks appeared stalled. Washington has scaled back attacks in favour of economic pressure, while Iran's attempted Hormuz blockade remains cont»
    🔗 https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks
-   ⏱ 1.08 ساعت پیش
+   ⏱ 1.15 ساعت پیش
 ☢️ Democratic rep says administration ‘has failed to present a strategy’ in Iran war
    📌 منبع: The Hill
    🗞 «Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain to the American people what the goals a»
    🔗 https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/
-   ⏱ 1.89 ساعت پیش
+   ⏱ 1.96 ساعت پیش
 ⚔️ Israel wear black armbands in Ireland tie over Hamas attack
    📌 منبع: Al-Monitor
    🗞 «Israel's national football team wore black armbands in their Nations League clash against Ireland on Sunday to commemorate the victims of Hamas' October 7, 2023 attack, after Irish players wore them to protest the war in Gaza. The simple bl»
    🔗 https://www.al-monitor.com/originals/2026/10/israel-wear-black-armbands-ireland-tie-over-hamas-attack
-   ⏱ 2.27 ساعت پیش
-⚔️ یمن آغاز عملیات نظامی برای بازپس‌گیری مناطق تحت کنترل حوثی‌ها را اعلام کرد
-   📌 منبع: Iran International
-   🗞 «دولت یمن آغاز ضدحمله برای بازپس‌گیری مناطق تحت کنترل حوثی‌های مورد حمایت جمهوری اسلامی را اعلام کرد. اکسیوس نیز به نقل از مقام‌های آمریکایی گزارش داد واشینگتن با ارائه اطلاعات و کمک به تعیین اهداف حملات، از عملیات نیروهای یمنی و عربستان سعو»
-   🔗 https://www.iranintl.com/202610049148
-   ⏱ 2.87 ساعت پیش
+   ⏱ 2.34 ساعت پیش
 ⚔️ Live - Explosion heard near Iran’s Qeshm, Sirik Islands
    📌 منبع: Google News (US-Iran)
    🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc?oc=5
-   ⏱ 3.04 ساعت پیش
+   ⏱ 3.12 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
