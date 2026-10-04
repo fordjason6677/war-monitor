@@ -59,6 +59,17 @@ FEEDS = [
      "url": "https://news.google.com/rss/search?q=site%3Ahaaretz.com+iran+israel+war&hl=en&gl=US&ceid=US:en"},
     {"name": "GN site:i24news", "lang": "en",
      "url": "https://news.google.com/rss/search?q=site%3Ai24news.tv+iran+israel+war&hl=en&gl=US&ceid=US:en"},
+    # ---- سیم‌خبری‌های درجه‌یک (دسترسی مستقیم مسدوده، از راه گوگل‌نیوز) ----
+    {"name": "GN site:reuters", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Areuters.com+iran+OR+israel+OR+hezbollah+OR+ceasefire&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:apnews", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+iran+OR+israel+OR+hezbollah+OR+ceasefire&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:ft.com", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Aft.com+iran+OR+israel+war&hl=en&gl=US&ceid=US:en"},
+    # ---- تحلیل/سیاست آمریکا و خاورمیانه ----
+    {"name": "Middle East Eye", "lang": "en", "url": "https://www.middleeasteye.net/rss"},
+    {"name": "Axios", "lang": "en", "url": "https://api.axios.com/feed/"},
+    {"name": "Defense One", "lang": "en", "url": "https://www.defenseone.com/rss/all/"},
     # ---- بین‌المللی ----
     {"name": "BBC Persian", "lang": "fa", "url": "https://feeds.bbci.co.uk/persian/rss.xml"},
     {"name": "BBC World", "lang": "en", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
@@ -366,7 +377,9 @@ def load_history(now, hours=24.0):
             except Exception:
                 continue
             age = (now - t).total_seconds() / 3600
-            if 0 <= age <= hours:
+            if age < 0:
+                age = 0.0            # ساعت فید جلوتر از UTC: به‌جای حذف، صفر کن
+            if age <= hours:
                 it["age_h"] = round(age, 2)
                 hist.append(it)
     hist.sort(key=lambda x: x["age_h"])
