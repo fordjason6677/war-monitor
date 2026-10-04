@@ -558,10 +558,12 @@
   "usb1bombersevacuatedfromukbaseafterattackthreatsfromiran": 1791153720.6599312,
   "flydubaiterroristsaidtotellinvestigatorsheintendedtocrashplaneintobengurionairport": 1791153990.1028225,
   "آمریکابمبافکنهایشراهمزمانباتحقیقاتدربارهطرححملهبهفرفوردازبریتانیاخارجکرد": 1791154257.1528845,
-  "cleesedefiesukpreventcomplaintoverislamposts": 1791154257.2148707
+  "cleesedefiesukpreventcomplaintoverislamposts": 1791154257.2148707,
+  "pentagonpullsb1bombersfromukbasefollowingallegedterrorthreat": 1791154526.2278922,
+  "uswithdrawsb1bomberaircraftfromuksfairfordbaseamidiranfears": 1791154526.2377596
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T22:50:58.624223+00:00",
+ "last_run": "2026-10-04T22:55:27.576050+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1430,6 +1432,10 @@
   {
    "ts": "2026-10-04T22:50:57+00:00",
    "esc6": 17
+  },
+  {
+   "ts": "2026-10-04T22:55:26+00:00",
+   "esc6": 18
   }
  ]
 }
