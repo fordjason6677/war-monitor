@@ -1,12 +1,12 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 22:52:37
+زمان تهران: 2026-10-04 22:57:06
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 19:22 UTC
+زمان گزارش: 2026-10-04 19:27 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 201 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
@@ -27,35 +27,35 @@
 ⚔️ Israeli strikes and detonations hit several towns in southern Lebanon
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-and-detonations-hit-several-towns-southern-lebanon
-   ⏱ 0.15 ساعت پیش
+   ⏱ 0.22 ساعت پیش
 🤝 Iran says no military solution to conflict with US as talks remain at dead end
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0U3dWJMYzFfd3pYNHU3UWpIZjBZT21lVGk1V0VCazEwcTRoQ0w4MWpnZC01VHNSMXkwMWw4X05RRFdmd2ZzcmRpVlBvX2s3Q05TMnUtVGs5YnhrdDdaTHpvRGxIVWhsOXhtNVlXMEp5U29aUTVSOW1WdU1WU193c3dYYkViZkJ2SVNWT0dWQ1NhTHBnYjF2OEoxdHIyYlZGS1kwa3pIa0RwanVMZXfSAbMBQVVfeXFMTjRhTEFRc3FncGx4bGdXeEk4bmhRZ1JEc0FZbURDMEEwOUQydlBIaEJLTHZhOEN0NlZpeW1nR0xGc19xWTVidnB6LUE4NTFJaU9OUGtQQ0phNEp6M1p1aF9FMXgzUS1jTXg0QUtRTXE4THI2UHNIUXlYV3lSbEppQUF5VFQyeGpQdnpmVHlMWE96cFc1UXpFMU9KdWU2SEQ4eDRyMlhuQU1GNkFHQVpVZWxqNTQ?oc=5
-   ⏱ 1.25 ساعت پیش
+   ⏱ 1.32 ساعت پیش
 ⚔️ Report: UAE gave Israel FlyDubai crew details before attempted attack
    📌 منبع: Israel National News
    🗞 «The UAE reportedly shared the flight’s passenger and crew information with Israel before takeoff, raising fresh questions over how the alleged cockpit attacker was allowed to board.»
    🔗 https://www.israelnationalnews.com/news/434094
-   ⏱ 1.68 ساعت پیش
+   ⏱ 1.75 ساعت پیش
 ⚔️ Yemen's government announces all-out war to reclaim land from Houthis
    📌 منبع: BBC World
    🗞 «The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.»
    🔗 https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss
-   ⏱ 2.52 ساعت پیش
+   ⏱ 2.59 ساعت پیش
 ⚔️ FlyDubai captain reveals new details of attack in Netanyahu phone call
    📌 منبع: GN site:euronews
    🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFpPT0ozbjR4NktORGNPRm1WZ1Z6c1QtTGJ1enIxVkZvSjQzMVdHSk1qeUI0S2lPU05QTlVWVmtWaGpVUjFvc2YzUlRvcXFGejlvU3dEanVYVGRZT0hTbXFGb09oVEY2SVJJc2pQUm5wdV9yVkVQeUFSOFBBejNxSEdFZEhaWl9KcTU5c0w4T0hXT2RTQjRDaTF1LVJFMjh3VEdjZzc2Q2xKVW1OMWp5MEltWFA?oc=5
-   ⏱ 3.81 ساعت پیش
+   ⏱ 3.89 ساعت پیش
 ⚔️ Yemeni government launches offensive to seize all areas from Iran-backed Houthis
    📌 منبع: Al-Monitor
    🗞 «By Mohammed Ghobari, Timour Azhari and Eman AbouhassiraADEN, Oct 4 (Reuters) - Yemen’s Saudi-backed, internationally recognised government said on Sunday it was launching a major military campaign to recapture all areas of the country contr»
    🔗 https://www.al-monitor.com/originals/2026/10/yemeni-government-launches-offensive-seize-all-areas-iran-backed-houthis
-   ⏱ 6.6 ساعت پیش
+   ⏱ 6.68 ساعت پیش
 ⚔️ West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones
    📌 منبع: France24
    🗞 «Palestinians and activists report an increased use of drones in the occupied West Bank, particularly by the army and settlers, to whom the government supplies the drones directly. The drones are used to intimidate, monitor, demolish and mak»
    🔗 https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones
-   ⏱ 7.35 ساعت پیش
+   ⏱ 7.43 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2578
