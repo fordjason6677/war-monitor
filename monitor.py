@@ -66,6 +66,24 @@ FEEDS = [
      "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+iran+OR+israel+OR+hezbollah+OR+ceasefire&hl=en&gl=US&ceid=US:en"},
     {"name": "GN site:ft.com", "lang": "en",
      "url": "https://news.google.com/rss/search?q=site%3Aft.com+iran+OR+israel+war&hl=en&gl=US&ceid=US:en"},
+    # ---- آمریکایی‌ها (برای اینکه خبر فقط اسرائیلی نمونه) ----
+    {"name": "GN site:nytimes", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Anytimes.com+iran+OR+israel+OR+hezbollah+OR+ceasefire&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:washingtonpost", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Awashingtonpost.com+iran+OR+israel+OR+hezbollah&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:cnn", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Acnn.com+iran+OR+israel+OR+middle+east&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:politico", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Apolitico.com+iran+OR+israel+OR+middle+east&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:bloomberg", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com+iran+OR+israel+OR+oil&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:nbcnews", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Anbcnews.com+iran+OR+israel+OR+hezbollah&hl=en&gl=US&ceid=US:en"},
+    # ---- اروپایی/جهانی ----
+    {"name": "GN site:independent", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Aindependent.co.uk+iran+OR+israel+OR+gaza&hl=en&gl=US&ceid=US:en"},
+    {"name": "GN site:euronews", "lang": "en",
+     "url": "https://news.google.com/rss/search?q=site%3Aeuronews.com+iran+OR+israel+OR+middle+east&hl=en&gl=US&ceid=US:en"},
     # ---- تحلیل/سیاست آمریکا و خاورمیانه ----
     {"name": "Middle East Eye", "lang": "en", "url": "https://www.middleeasteye.net/rss"},
     {"name": "Axios", "lang": "en", "url": "https://api.axios.com/feed/"},
@@ -459,6 +477,19 @@ def build_digest(items, problems, all_count, st):
     rel = [i for i in headlines if REL_CATS & set(i.get("cats") or [])]
     rest = [i for i in headlines if i not in rel]
     headlines = rel + rest[:4]
+    # تنوع منابع: نوبتی از هر منبع تا خروجی فقط اسرائیلی نمونه
+    pools = {}
+    for h in headlines:
+        pools.setdefault(h.get("src", "?"), []).append(h)
+    picked = []
+    while len(picked) < 8 and any(pools.values()):
+        for s in list(pools):
+            if not pools[s]:
+                continue
+            picked.append(pools[s].pop(0))
+            if len(picked) >= 8:
+                break
+    headlines = picked
     fresh = bool(items)
 
     # ---- جمع‌آوری در غیاب کاربر ----
