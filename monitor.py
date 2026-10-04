@@ -169,6 +169,20 @@ def strip_tags(s):
     return html.unescape(s).strip()
 
 
+def unwrap_link(link):
+    """لینک‌های ریدایرکتی بینگ/MSN رو به آدرس اصلی تبدیل می‌کنه"""
+    if not link:
+        return link
+    if "bing.com/news/apiclick" in link or "msn.com" in link:
+        m = re.search(r"[?&]url=([^&]+)", link)
+        if m:
+            from urllib.parse import unquote
+            real = unquote(m.group(1))
+            if real.startswith("http"):
+                return real
+    return link
+
+
 def parse_feed(text):
     """RSS <item> و Atom <entry> رو با regex می‌خونه (فیدهای خراب رو هم رد می‌کنه)"""
     out = []
@@ -290,7 +304,7 @@ def collect():
             seen.add(key)
             st["seen"][key] = time.time()
             items.append({
-                "title": it["title"], "link": it["link"], "src": feed["name"],
+                "title": it["title"], "link": unwrap_link(it["link"]), "src": feed["name"],
                 "lang": feed["lang"], "time": dt.isoformat() if dt else None,
                 "age_h": round(age_h, 1) if age_h is not None else None,
                 "cats": classify(it["title"], it["desc"]),
