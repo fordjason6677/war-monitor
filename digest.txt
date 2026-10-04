@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 23:51:35
+زمان تهران: 2026-10-04 23:56:39
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 20:21 UTC
+زمان گزارش: 2026-10-04 20:26 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 210 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (-1) (مقایسه با قرائت 6.0 ساعت پیش: 13 → 12)
+🎯 وضعیت (بر اساس 211 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+0) (مقایسه با قرائت 6.0 ساعت پیش: 12 → 12)
 ⚔️ تشدیدآمیز در ۶ ساعت: 12 | در ۲۴ ساعت: 53
-🎖 عنوان نظامی در ۲۴ ساعت: 39 | خبر جدیدِ این نوبت: 1
-⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
+🎖 عنوان نظامی در ۲۴ ساعت: 39 | خبر جدیدِ این نوبت: 2
+⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 15
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 105 · ⚔️ نظامی 68 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 27 · ☢️ هسته‌ای 5 · ⛔️ تحریم 4
-📡 منابع ۲۴ ساعت: Middle East Eye (40)، Jerusalem Post (39)، Al Jazeera (21)، Israel National News (18)، GN site:timesofisrael (15)، Bing News (8)، GN site:reuters (7)، France24 (7)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 106 · ⚔️ نظامی 69 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 5 · ⛔️ تحریم 4
+📡 منابع ۲۴ ساعت: Middle East Eye (40)، Jerusalem Post (39)، Al Jazeera (21)، Israel National News (18)، GN site:timesofisrael (16)، Bing News (8)، GN site:haaretz (7)، France24 (7)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️ ‘There was nobody in the cockpit’: Israeli passenger reconstructs flydubai attack
@@ -28,33 +28,33 @@
    📌 منبع: Iran International
    🗞 «دولت یمن آغاز ضدحمله برای بازپس‌گیری مناطق تحت کنترل حوثی‌های مورد حمایت جمهوری اسلامی را اعلام کرد. اکسیوس نیز به نقل از مقام‌های آمریکایی گزارش داد واشینگتن با ارائه اطلاعات و کمک به تعیین اهداف حملات، از عملیات نیروهای یمنی و عربستان سعو»
    🔗 https://www.iranintl.com/202610049148
-   ⏱ 0.45 ساعت پیش
+   ⏱ 0.54 ساعت پیش
 ⚔️🛢️ Explosions reported near tanker off southern Yemen: UKMTO
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-near-tanker-southern-yemen-ukmto
-   ⏱ 0.6 ساعت پیش
+   ⏱ 0.69 ساعت پیش
 ⚔️ Live - Explosion heard near Iran’s Qeshm, Sirik Islands
    📌 منبع: Google News (US-Iran)
    🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc?oc=5
-   ⏱ 0.63 ساعت پیش
+   ⏱ 0.71 ساعت پیش
 🤝 Iran says no military solution to conflict with US as talks remain at dead end
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0U3dWJMYzFfd3pYNHU3UWpIZjBZT21lVGk1V0VCazEwcTRoQ0w4MWpnZC01VHNSMXkwMWw4X05RRFdmd2ZzcmRpVlBvX2s3Q05TMnUtVGs5YnhrdDdaTHpvRGxIVWhsOXhtNVlXMEp5U29aUTVSOW1WdU1WU193c3dYYkViZkJ2SVNWT0dWQ1NhTHBnYjF2OEoxdHIyYlZGS1kwa3pIa0RwanVMZXfSAbMBQVVfeXFMTjRhTEFRc3FncGx4bGdXeEk4bmhRZ1JEc0FZbURDMEEwOUQydlBIaEJLTHZhOEN0NlZpeW1nR0xGc19xWTVidnB6LUE4NTFJaU9OUGtQQ0phNEp6M1p1aF9FMXgzUS1jTXg0QUtRTXE4THI2UHNIUXlYV3lSbEppQUF5VFQyeGpQdnpmVHlMWE96cFc1UXpFMU9KdWU2SEQ4eDRyMlhuQU1GNkFHQVpVZWxqNTQ?oc=5
-   ⏱ 2.23 ساعت پیش
+   ⏱ 2.31 ساعت پیش
 ⚔️ Report: UAE gave Israel FlyDubai crew details before attempted attack
    📌 منبع: Israel National News
    🗞 «The UAE reportedly shared the flight’s passenger and crew information with Israel before takeoff, raising fresh questions over how the alleged cockpit attacker was allowed to board.»
    🔗 https://www.israelnationalnews.com/news/434094
-   ⏱ 2.66 ساعت پیش
+   ⏱ 2.74 ساعت پیش
 ⚔️ Yemen's government announces all-out war to reclaim land from Houthis
    📌 منبع: BBC World
    🗞 «The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.»
    🔗 https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss
-   ⏱ 3.5 ساعت پیش
+   ⏱ 3.59 ساعت پیش
 ⚔️ FlyDubai captain reveals new details of attack in Netanyahu phone call
    📌 منبع: GN site:euronews
    🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFpPT0ozbjR4NktORGNPRm1WZ1Z6c1QtTGJ1enIxVkZvSjQzMVdHSk1qeUI0S2lPU05QTlVWVmtWaGpVUjFvc2YzUlRvcXFGejlvU3dEanVYVGRZT0hTbXFGb09oVEY2SVJJc2pQUm5wdV9yVkVQeUFSOFBBejNxSEdFZEhaWl9KcTU5c0w4T0hXT2RTQjRDaTF1LVJFMjh3VEdjZzc2Q2xKVW1OMWp5MEltWFA?oc=5
-   ⏱ 4.8 ساعت پیش
+   ⏱ 4.88 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2579
