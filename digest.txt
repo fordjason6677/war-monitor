@@ -1,16 +1,16 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 19:34:50
+زمان تهران: 2026-10-04 19:39:20
   بازار آزاد (بانبست): فروش 268,500 | خرید 268,600  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,455  (خرید 268,460 / فروش 268,464)
+  تتر/تومان زنده (والکس): 268,628  (خرید 268,629 / فروش 268,800)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 16:04 UTC
+زمان گزارش: 2026-10-04 16:09 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 180 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+0) (مقایسه با قرائت 6.0 ساعت پیش: 14 → 14)
+📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+1) (مقایسه با قرائت 6.0 ساعت پیش: 13 → 14)
 ⚔️ تشدیدآمیز در ۶ ساعت: 14 | در ۲۴ ساعت: 51
 🎖 عنوان نظامی در ۲۴ ساعت: 35 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 12
@@ -22,40 +22,40 @@
 ⚔️ FlyDubai captain reveals new details of attack in Netanyahu phone call
    📌 منبع: GN site:euronews
    🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFpPT0ozbjR4NktORGNPRm1WZ1Z6c1QtTGJ1enIxVkZvSjQzMVdHSk1qeUI0S2lPU05QTlVWVmtWaGpVUjFvc2YzUlRvcXFGejlvU3dEanVYVGRZT0hTbXFGb09oVEY2SVJJc2pQUm5wdV9yVkVQeUFSOFBBejNxSEdFZEhaWl9KcTU5c0w4T0hXT2RTQjRDaTF1LVJFMjh3VEdjZzc2Q2xKVW1OMWp5MEltWFA?oc=5
-   ⏱ 0.52 ساعت پیش
+   ⏱ 0.59 ساعت پیش
 ⚔️🤝 Israel warned Germany of increased risk to US military bases, senior US official says - report
    📌 منبع: Jerusalem Post
    🗞 «Israeli intelligence reportedly warned of possible Iranian-backed attacks on US facilities in Europe, including Ramstein, Spangdahlem and RAF Fairford, amid concerns over potential drone strikes.»
    🔗 https://www.jpost.com/international/article-910519
-   ⏱ 0.63 ساعت پیش
+   ⏱ 0.7 ساعت پیش
 ⚔️ Yemen announces military campaign to reclaim land from Iran-backed Houthis
    📌 منبع: BBC World
    🗞 «The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.»
    🔗 https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss
-   ⏱ 1.66 ساعت پیش
+   ⏱ 1.74 ساعت پیش
 ⚔️🤝 Houthis claim attacks on Aramco sites in Saudi Arabia
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-aramco-sites-saudi-arabia
-   ⏱ 2.14 ساعت پیش
+   ⏱ 2.21 ساعت پیش
 ⚔️ West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones
    📌 منبع: France24
    🗞 «Palestinians and activists report an increased use of drones in the occupied West Bank, particularly by the army and settlers, to whom the government supplies the drones directly. The drones are used to intimidate, monitor, demolish and mak»
    🔗 https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones
-   ⏱ 4.06 ساعت پیش
+   ⏱ 4.13 ساعت پیش
 ⚔️ Iran: 'We'll extend our missile range'
    📌 منبع: Israel National News
    🗞 «Iranian military spokesman Mohammad Akramnia announces that Tehran has begun working to increase the range of its missiles following the war with the US.»
    🔗 https://www.israelnationalnews.com/news/434073
-   ⏱ 4.47 ساعت پیش
+   ⏱ 4.55 ساعت پیش
 ⚔️☢️ A nuclear bomb is launched from Iran: Israeli musical faces the apocalypse
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMXpWc3dnYVpfQ1RYLTVoTy1YZWZTVEt6dkhBUXk1MkxzWlB1QThFaVNuZ2dPSjFQTEhjbWl5RjJVUTFxNnpOUFpYRmlQZjJoeTBKdFNhSDdzcmhWelUyZFhqdl9kQ2RJNnRoaHM3Q2ZGczRZWTdydE5Pc0xWWDFnVE1KUnhNck5BOUU1NzRBYy1yNUNIV0NTNk1BblUtNjQ0Q1lnMzdlSXpsY2c3a0JFbVVfdHR0NTNKRFJlNFo5R09oN2ZKQTdzWmVMbmdocHBQRDNhRmpvSEpWQkdiVFhiTVlQWEt6eGtwVElheHBoMjhOQTB1MV9pQTBSdkxwRjJsMjNoV1piUEM3Y28?oc=5
-   ⏱ 4.61 ساعت پیش
+   ⏱ 4.69 ساعت پیش
 ⚔️🤝 Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks
    📌 منبع: Fox News (latest)
    🗞 «Two suspected plots near RAF Fairford and aboard a FlyDubai flight raise questions about Iran's covert attacks against the United States and Israel.»
    🔗 https://www.foxnews.com/politics/iran-move-shadow-war-dangerous-direction-experts-warn-back-two-possible-terror-attacks
-   ⏱ 5.08 ساعت پیش
+   ⏱ 5.15 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2578
