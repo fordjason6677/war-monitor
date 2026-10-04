@@ -540,10 +540,11 @@
   "whenoct7traumaobjectsbecomewitnessestoisraelshistory": 1791146402.953676,
   "israellashesoutasuksgreenpartyformallydefineszionismasracism": 1791147217.1811473,
   "israelsaysitkilledheadofturkishngohamascommanderinseparategazastrikes": 1791147486.4017293,
-  "democraticrepsaysadministrationhasfailedtopresentastrategyiniranwar": 1791147486.4535317
+  "democraticrepsaysadministrationhasfailedtopresentastrategyiniranwar": 1791147486.4535317,
+  "scoopwhitehousemonitorssuspectedplagueoutbreakinrussia": 1791148556.9193292
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T21:11:32.007082+00:00",
+ "last_run": "2026-10-04T21:15:58.201547+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1323,6 +1324,10 @@
   },
   {
    "ts": "2026-10-04T21:11:30+00:00",
+   "esc6": 14
+  },
+  {
+   "ts": "2026-10-04T21:15:56+00:00",
    "esc6": 14
   }
  ]
