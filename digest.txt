@@ -1,12 +1,12 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 10:55:37
+زمان تهران: 2026-10-04 11:00:06
   بازار آزاد (بانبست): فروش 270,000 | خرید 270,100  ← October 04, 2026 00:01
-  ▲ +1,100 تومان نسبت به آخرین نوبت (+0.41%)
-  تتر/تومان زنده (والکس): 269,448  (خرید 269,401 / فروش 269,448)
+  = 0 تومان نسبت به آخرین نوبت (0.00%)
+  تتر/تومان زنده (والکس): 269,511  (خرید 269,508 / فروش 269,511)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 07:25 UTC
+زمان گزارش: 2026-10-04 07:30 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 104 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
@@ -26,33 +26,33 @@
 ⚔️ IDF says it targeted senior Hamas official Ali al-Amoudi in Gaza City strike that killed 5 people
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPal8wM3NOY0VhSkhlYXN2VF9rWUFQVzNpaEhJOC1nRmdUbkFfZXQtam15SWhLR2gyWjVVSTV4ZDAyX2hJdkh2WkhJV3dXbUJ0YUR3eG9NNF84U09JY2ZKeXEzS0V1YlhxaDVZRVZOVDlFMDdnTWNDS3BraXZMc2xHTmVraFNwZGlLVUtIN1hCSmI3eHpXRFY2Qk9PSXFIY3VSeEpvbmFnTzgzelFSQ2F3b1M4bnB6LUpBZ19YcVctWHg3UDFIX0tRWGczMXBPRVFnVHpEclF4dHV0dzQ?oc=5
-   ⏱ 0.3 ساعت پیش
+   ⏱ 0.38 ساعت پیش
 ⚔️🛢️ Netanyahu invites flydubai pilot to Independence Day ceremony
    📌 منبع: JNS
    🗞 «The Israeli premier praised Smit Machchhar during a call after the wounded aviator helped passengers and crew foil a violent midair hijacking.»
    🔗 https://www.jns.org/news/israel-news/netanyahu-invites-flydubai-pilot-to-independence-day-ceremony
-   ⏱ 0.65 ساعت پیش
+   ⏱ 0.73 ساعت پیش
 ⚔️ Israeli embassies in UK, US promote copycat NAZA weeks after original's Venice triumph
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/israeli-embassies-uk-us-promote-copycat-naza-weeks-after-originals-venice-triumph
-   ⏱ 1.09 ساعت پیش
+   ⏱ 1.16 ساعت پیش
 ⚔️ US carrier George H.W. Bush visits Thailand after six-month Middle East deployment
    📌 منبع: Al-Monitor
    🗞 «PHUKET, Thailand, Oct 4 (Reuters) - The US aircraft carrier GeorgeH.W. Bush arrived in Thailand's resort island ofPhuket on Sunday with about 4,800 personnel aboard for a rest-and-recreation break after six months supporting US operations i»
    🔗 https://www.al-monitor.com/originals/2026/10/us-carrier-george-hw-bush-visits-thailand-after-six-month-middle-east-deployment
-   ⏱ 2.65 ساعت پیش
+   ⏱ 2.73 ساعت پیش
 ⚔️ Two soldiers seriously and moderately wounded in operational accident in southern Lebanon
    📌 منبع: Israel National News
    🔗 https://www.israelnationalnews.com/news/434050
-   ⏱ 3.03 ساعت پیش
+   ⏱ 3.11 ساعت پیش
 ⚔️ Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
    📌 منبع: Al Jazeera
    🔗 https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss
-   ⏱ 3.27 ساعت پیش
+   ⏱ 3.35 ساعت پیش
 ⚔️ نیروهای دولت یمن به مواضع حوثی‌ها حمله کردند؛ هزاران نفر از مناطق درگیری گریختند
    📌 منبع: Iran International
    🔗 https://www.iranintl.com/202610036891
-   ⏱ 7.6 ساعت پیش
+   ⏱ 7.67 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2599
