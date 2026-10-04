@@ -484,10 +484,11 @@
   "israeltoopenembassyincongo": 1791130427.7407901,
   "newquestionsoveregyptianintelligencechiefsisraelvisitbeforeoct7": 1791130427.768443,
   "jerusalemdailyisraeliforcesarrestschoolchildrenduringraid": 1791130427.9202085,
-  "iransaysstraitofhormuzwillstaycloseduntilusmeetstheirconditions": 1791131239.66628
+  "iransaysstraitofhormuzwillstaycloseduntilusmeetstheirconditions": 1791131239.66628,
+  "threeyearsofgenocideingazathroughonemanscamera": 1791131784.8494332
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T16:31:54.229964+00:00",
+ "last_run": "2026-10-04T16:36:26.416581+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1019,6 +1020,10 @@
   },
   {
    "ts": "2026-10-04T16:31:52+00:00",
+   "esc6": 13
+  },
+  {
+   "ts": "2026-10-04T16:36:24+00:00",
    "esc6": 13
   }
  ]
