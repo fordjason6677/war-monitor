@@ -572,10 +572,14 @@
   "joliesviralgazaphotosaremonthsold": 1791157222.0120296,
   "israelitroopskillmaninsouthernsyria": 1791157489.0647433,
   "رازبقایکهنترینتمدنآمریکا؛سازگاریبهجایجنگ": 1791157489.0984674,
-  "whitehousedefendsnewpressaidewhoposedwithrifleinfuckjoebidenshirt": 1791157489.1262667
+  "whitehousedefendsnewpressaidewhoposedwithrifleinfuckjoebidenshirt": 1791157489.1262667,
+  "zamiridftooverhaulintelligenceforcereadinessafteroctober7investigations": 1791158297.7168584,
+  "idfshootssuspectattemptingtobreakintomilitarypostinsouthernsyria": 1791158297.717098,
+  "howthedubaiflightbecameafrontinthestruggleagainstiran": 1791158297.7623093,
+  "thealliancetestedisraelhayomsummitreturnstonewyork": 1791158297.7625535
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T23:53:48.347165+00:00",
+ "last_run": "2026-10-04T23:58:19.470164+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1499,6 +1503,10 @@
   },
   {
    "ts": "2026-10-04T23:53:46+00:00",
+   "esc6": 20
+  },
+  {
+   "ts": "2026-10-04T23:58:18+00:00",
    "esc6": 20
   }
  ]
