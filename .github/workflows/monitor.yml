@@ -1,9 +1,10 @@
 name: war-monitor
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"   # هر ۵ دقیقه (UTC)
   workflow_dispatch: {}
+
+# نکته: از schedule استفاده نمی‌کنیم چون زمان‌بند گیت‌هاب برای این ریپو شلیک نکرد.
+# به‌جاش هر اجرا، بعد از ۴ دقیقه خودش اجرای بعدی رو می‌سازه (زنجیره ۲۴/۷).
 
 concurrency:
   group: war-monitor
@@ -11,6 +12,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   collect:
@@ -46,9 +48,23 @@ jobs:
           else
             git commit -m "update: $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
             for i in 1 2 3; do
-              git push && exit 0
+              git push && break
               git pull --rebase --autostash origin "$GITHUB_REF_NAME"
               sleep 5
             done
-            git push
+          fi
+
+      - name: Self-schedule next run (24/7 chain)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # ۲۵۰ ثانیه صبر = فاصله تقریبی ۵ دقیقه بین اجراها
+          sleep 250
+          ACTIVE=$(gh run list --workflow="war-monitor" --json databaseId,status \
+            --jq '[.[] | select(.status=="in_progress" or .status=="queued")] | length')
+          echo "active runs (incl. this one): $ACTIVE"
+          if [ "$ACTIVE" -le 1 ]; then
+            gh workflow run "war-monitor" && echo "NEXT RUN TRIGGERED"
+          else
+            echo "another run is active - chain already alive"
           fi
