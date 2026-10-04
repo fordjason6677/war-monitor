@@ -1,24 +1,24 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 02:25:27
+زمان تهران: 2026-10-05 02:29:56
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 22:55 UTC
+زمان گزارش: 2026-10-04 22:59 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 220 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +5 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 13 → 18)
 ⚔️ تشدیدآمیز در ۶ ساعت: 18 | در ۲۴ ساعت: 61
-🎖 عنوان نظامی در ۲۴ ساعت: 45 | خبر جدیدِ این نوبت: 2
+🎖 عنوان نظامی در ۲۴ ساعت: 45 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
 🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 110 · ⚔️ نظامی 75 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 7 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Middle East Eye (41)، Jerusalem Post (39)، Al Jazeera (21)، Israel National News (17)، GN site:timesofisrael (16)، France24 (8)، Al-Monitor (7)، GN site:haaretz (7)
 
-📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+📰 خبرهای تازه (از جدیدترین):
 ⚔️🤝 US pulls all bombers from RAF Fairford air base threatened by alleged Iranian plot
    📌 منبع: Jerusalem Post
    🗞 «Until recently, 12 B-1B Lancer bombers had been stationed at Fairford, and were also used by the United States during strikes on Iran.»
@@ -28,36 +28,36 @@
    📌 منبع: The Hill
    🗞 «The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in England. “While operational security precluded»
    🔗 https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/
-   ⏱ 0.08 ساعت پیش
+   ⏱ 0.15 ساعت پیش
 ⚔️ U.S. B-1 bombers evacuated from UK base after attack threats from Iran
    📌 منبع: Axios
    🗞 «The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. Why it matters: A U.S. official said the base was under threat of attack by Iran. Driving the news: British securit»
    🔗 https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran
-   ⏱ 0.31 ساعت پیش
+   ⏱ 0.38 ساعت پیش
 ⚔️ آمریکا بمب‌افکن‌هایش را هم‌زمان با تحقیقات درباره طرح حمله به فرفورد از بریتانیا خارج کرد
    📌 منبع: Iran International
    🗞 «نیروی هوایی آمریکا همه بمب‌افکن‌های مستقر در پایگاه هوایی فرفورد در بریتانیا را که برای حمله به ایران استفاده می‌شد، به آمریکا بازگرداند. این جابه‌جایی در حالی انجام شده که تحقیقات درباره طرح احتمالی حمله تروریستی به این پایگاه ادامه دارد.»
    🔗 https://www.iranintl.com/202610047194
-   ⏱ 0.33 ساعت پیش
+   ⏱ 0.4 ساعت پیش
 ⚔️ US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears
    📌 منبع: Al Jazeera
    🗞 «The abrupt redeployment to the US comes after several 'terrorism-related' arrests were made outside RAF Fairford.»
    🔗 https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss
-   ⏱ 0.53 ساعت پیش
+   ⏱ 0.61 ساعت پیش
 🤝 No military solution to US-Iran war, Iranian foreign minister says
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/no-military-solution-us-iran-war-iranian-foreign-minister-says
-   ⏱ 0.77 ساعت پیش
+   ⏱ 0.85 ساعت پیش
 ⚔️🤝🛢️ Iran says no military solution to war as peace talks with US stall
    📌 منبع: France24
    🗞 «Iran's diplomat said on Sunday there was no military solution to the US war against Iran as peace talks appeared stalled. Washington has scaled back attacks in favour of economic pressure, while Iran's attempted Hormuz blockade remains cont»
    🔗 https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks
-   ⏱ 1.23 ساعت پیش
+   ⏱ 1.3 ساعت پیش
 ⚔️ Israel wear black armbands in Ireland tie over Hamas attack
    📌 منبع: Al-Monitor
    🗞 «Israel's national football team wore black armbands in their Nations League clash against Ireland on Sunday to commemorate the victims of Hamas' October 7, 2023 attack, after Irish players wore them to protest the war in Gaza. The simple bl»
    🔗 https://www.al-monitor.com/originals/2026/10/israel-wear-black-armbands-ireland-tie-over-hamas-attack
-   ⏱ 2.42 ساعت پیش
+   ⏱ 2.49 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
