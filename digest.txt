@@ -1,21 +1,21 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 11:31:35
+زمان تهران: 2026-10-04 11:36:01
   بازار آزاد (بانبست): فروش 269,000 | خرید 269,100  ← October 04, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 269,551  (خرید 269,513 / فروش 269,551)
+  تتر/تومان زنده (والکس): 269,551  (خرید 269,531 / فروش 269,551)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 08:01 UTC
+زمان گزارش: 2026-10-04 08:06 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 106 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +6 تیتر تشدیدآمیز (مقایسه با قرائت 1.4 ساعت پیش: 6 → 12)
+🎯 وضعیت (بر اساس 107 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +6 تیتر تشدیدآمیز (مقایسه با قرائت 1.5 ساعت پیش: 6 → 12)
 ⚔️ تشدیدآمیز در ۶ ساعت: 12 | در ۲۴ ساعت: 51
 🎖 عنوان نظامی در ۲۴ ساعت: 49 | خبر جدیدِ این نوبت: 1
 
-🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 49 · 📰 عمومی 44 · 🤝 دیپلماسی 11 · 🛢️ انرژی/دریا 11 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
-📡 منابع ۲۴ ساعت: Jerusalem Post (14)، Middle East Eye (14)، Al Jazeera (12)، Al-Monitor (11)، GN site:timesofisrael (9)، GN site:haaretz (7)، JNS (6)، Israel National News (6)
+🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 49 · 📰 عمومی 45 · 🤝 دیپلماسی 11 · 🛢️ انرژی/دریا 11 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
+📡 منابع ۲۴ ساعت: Jerusalem Post (14)، Middle East Eye (14)، Al Jazeera (12)، Al-Monitor (11)، GN site:timesofisrael (10)، GN site:haaretz (7)، JNS (6)، Israel National News (6)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 🤝 Halevi: Netanyahu rejected firing reservists who stopped reporting amid judicial reform - report
@@ -27,54 +27,34 @@
    📌 منبع: Al-Monitor
    🗞 «By Nidal al-MughrabiCAIRO, Oct 4 (Reuters) - Omar al-Hassayna fled Gaza for Cairo after an Israeli airstrike wiped out much of his large family. Three years on, he remains there waiting for enough stability, security and reconstruction in h»
    🔗 https://www.al-monitor.com/originals/2026/10/haunted-grief-gazas-displaced-still-wait-overseas-return
-   ⏱ 0.25 ساعت پیش
+   ⏱ 0.33 ساعت پیش
 ⚔️ Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
    📌 منبع: Al Jazeera
    🗞 «The Saudi-led coalition spokesman says the Yemeni armed group is 'attempting to divert attention' from its losses.»
    🔗 https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss
-   ⏱ 0.37 ساعت پیش
+   ⏱ 0.45 ساعت پیش
 ⚔️ IDF says it targeted senior Hamas official Ali al-Amoudi in Gaza City strike that killed 5 people
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPal8wM3NOY0VhSkhlYXN2VF9rWUFQVzNpaEhJOC1nRmdUbkFfZXQtam15SWhLR2gyWjVVSTV4ZDAyX2hJdkh2WkhJV3dXbUJ0YUR3eG9NNF84U09JY2ZKeXEzS0V1YlhxaDVZRVZOVDlFMDdnTWNDS3BraXZMc2xHTmVraFNwZGlLVUtIN1hCSmI3eHpXRFY2Qk9PSXFIY3VSeEpvbmFnTzgzelFSQ2F3b1M4bnB6LUpBZ19YcVctWHg3UDFIX0tRWGczMXBPRVFnVHpEclF4dHV0dzQ?oc=5
-   ⏱ 0.9 ساعت پیش
+   ⏱ 0.98 ساعت پیش
 ⚔️🛢️ Netanyahu invites flydubai pilot to Independence Day ceremony
    📌 منبع: JNS
    🗞 «The Israeli premier praised Smit Machchhar during a call after the wounded aviator helped passengers and crew foil a violent midair hijacking.»
    🔗 https://www.jns.org/news/israel-news/netanyahu-invites-flydubai-pilot-to-independence-day-ceremony
-   ⏱ 1.25 ساعت پیش
+   ⏱ 1.33 ساعت پیش
 ⚔️ Israeli embassies in UK, US promote copycat NAZA weeks after original's Venice triumph
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/israeli-embassies-uk-us-promote-copycat-naza-weeks-after-originals-venice-triumph
-   ⏱ 1.69 ساعت پیش
+   ⏱ 1.76 ساعت پیش
 ⚔️ Two soldiers seriously and moderately wounded in operational accident in southern Lebanon
    📌 منبع: Israel National News
    🔗 https://www.israelnationalnews.com/news/434050
-   ⏱ 3.63 ساعت پیش
+   ⏱ 3.71 ساعت پیش
 ⚔️ نیروهای دولت یمن به مواضع حوثی‌ها حمله کردند؛ هزاران نفر از مناطق درگیری گریختند
    📌 منبع: Iran International
    🔗 https://www.iranintl.com/202610036891
-   ⏱ 8.19 ساعت پیش
-
-— خطای پوشش (نباید به‌عنوان «خبر نیست» تفسیر شود) —
-  ⚠ Google News (EN): HTTP 503 (1103B)
-  ⚠ Google News (US-Iran): HTTP 503 (1103B)
-  ⚠ GN site:timesofisrael: HTTP 503 (1103B)
-  ⚠ GN site:ynetnews: HTTP 503 (1103B)
-  ⚠ GN site:israelhayom: HTTP 503 (1103B)
-  ⚠ GN site:haaretz: HTTP 503 (1103B)
-  ⚠ GN site:i24news: HTTP 503 (1103B)
-  ⚠ GN site:reuters: HTTP 503 (1103B)
-  ⚠ GN site:apnews: HTTP 503 (1103B)
-  ⚠ GN site:ft.com: HTTP 503 (1103B)
-  ⚠ GN site:nytimes: HTTP 503 (1103B)
-  ⚠ GN site:washingtonpost: HTTP 503 (1103B)
-  ⚠ GN site:cnn: HTTP 503 (1103B)
-  ⚠ GN site:politico: HTTP 503 (1103B)
-  ⚠ GN site:bloomberg: HTTP 503 (1103B)
-  ⚠ GN site:nbcnews: HTTP 503 (1103B)
-  ⚠ GN site:independent: HTTP 503 (1103B)
-  ⚠ GN site:euronews: HTTP 503 (1103B)
+   ⏱ 8.27 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 779
+تعداد کل آیتم خوانده‌شده از فیدها: 2579
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
