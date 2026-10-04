@@ -70,6 +70,8 @@ FEEDS = [
     {"name": "Middle East Eye", "lang": "en", "url": "https://www.middleeasteye.net/rss"},
     {"name": "Axios", "lang": "en", "url": "https://api.axios.com/feed/"},
     {"name": "Defense One", "lang": "en", "url": "https://www.defenseone.com/rss/all/"},
+    {"name": "NPR World", "lang": "en", "url": "https://feeds.npr.org/1004/rss.xml"},
+    {"name": "The Hill", "lang": "en", "url": "https://thehill.com/feed/"},
     # ---- بین‌المللی ----
     {"name": "BBC Persian", "lang": "fa", "url": "https://feeds.bbci.co.uk/persian/rss.xml"},
     {"name": "BBC World", "lang": "en", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
@@ -108,9 +110,13 @@ FA_PARTY = re.compile(
 
 # وقتی فقط «ایران» اومده، باید کنارش اصطلاح درگیری هم باشه
 CONFLICT = re.compile(
-    r"\bwar\b|strike|airstrike|attack|missile|drone|airstrike|cease-?fire|"
+    r"\bwar\b|strike|airstrike|attack|missile|drone|cease-?fire|"
     r"\bnuclear\b|sanction|hostage|invasion|bombing|escalat|"
-    r"جنگ|حمله|موشک|پهپاد|بمب|آتش\s*بس|تحریم|هسته\s*ای|گروگان|شبیخون", re.I)
+    r"crackdown|weapons?|troops?|militia|plot|unrest|threat|withdraw|"
+    r"seiz|raid|border|proxy|enrich|\biaea\b|strait|tanker|embargo|"
+    r"killed|wounded|explosion|casualt|intercept|clash|"
+    r"جنگ|حمله|موشک|پهپاد|بمب|آتش\s*بس|تحریم|هسته\s*ای|گروگان|شبیخون|"
+    r"کشته|زخمی|درگیری|تشدید|بازداشت|سلاح", re.I)
 
 GENERIC_IR = re.compile(r"ایران|iran", re.I)
 
