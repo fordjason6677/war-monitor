@@ -1,21 +1,21 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 18:13:49
-  بازار آزاد (بانبست): فروش 267,500 | خرید 267,600  ← October 04, 2026 00:01
-  = 0 تومان نسبت به آخرین نوبت (0.00%)
+زمان تهران: 2026-10-04 18:18:19
+  بازار آزاد (بانبست): فروش 268,000 | خرید 268,100  ← October 04, 2026 00:01
+  ▲ +500 تومان نسبت به آخرین نوبت (+0.19%)
   تتر/تومان زنده (والکس): 267,837  (خرید 267,668 / فروش 267,837)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 14:43 UTC
+زمان گزارش: 2026-10-04 14:48 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 169 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+🎯 وضعیت (بر اساس 170 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+1) (مقایسه با قرائت 6.0 ساعت پیش: 12 → 13)
 ⚔️ تشدیدآمیز در ۶ ساعت: 13 | در ۲۴ ساعت: 51
 🎖 عنوان نظامی در ۲۴ ساعت: 36 | خبر جدیدِ این نوبت: 2
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 10
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 73 · ⚔️ نظامی 62 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 25 · ☢️ هسته‌ای 5 · ⛔️ تحریم 4
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 74 · ⚔️ نظامی 62 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 25 · ☢️ هسته‌ای 5 · ⛔️ تحریم 4
 📡 منابع ۲۴ ساعت: Middle East Eye (32)، Jerusalem Post (31)، Al Jazeera (18)، Israel National News (14)، GN site:timesofisrael (10)، JNS (9)، Bing News (8)، Al-Monitor (7)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
@@ -27,35 +27,35 @@
 ⚔️🤝 Houthis claim attacks on Aramco sites in Saudi Arabia
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-aramco-sites-saudi-arabia
-   ⏱ 0.79 ساعت پیش
+   ⏱ 0.86 ساعت پیش
 ⚔️ West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones
    📌 منبع: France24
    🗞 «Palestinians and activists report an increased use of drones in the occupied West Bank, particularly by the army and settlers, to whom the government supplies the drones directly. The drones are used to intimidate, monitor, demolish and mak»
    🔗 https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones
-   ⏱ 2.71 ساعت پیش
+   ⏱ 2.78 ساعت پیش
 ⚔️ Iran: 'We'll extend our missile range'
    📌 منبع: Israel National News
    🗞 «Iranian military spokesman Mohammad Akramnia announces that Tehran has begun working to increase the range of its missiles following the war with the US.»
    🔗 https://www.israelnationalnews.com/news/434073
-   ⏱ 3.12 ساعت پیش
+   ⏱ 3.2 ساعت پیش
 ⚔️☢️ A nuclear bomb is launched from Iran: Israeli musical faces the apocalypse
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMXpWc3dnYVpfQ1RYLTVoTy1YZWZTVEt6dkhBUXk1MkxzWlB1QThFaVNuZ2dPSjFQTEhjbWl5RjJVUTFxNnpOUFpYRmlQZjJoeTBKdFNhSDdzcmhWelUyZFhqdl9kQ2RJNnRoaHM3Q2ZGczRZWTdydE5Pc0xWWDFnVE1KUnhNck5BOUU1NzRBYy1yNUNIV0NTNk1BblUtNjQ0Q1lnMzdlSXpsY2c3a0JFbVVfdHR0NTNKRFJlNFo5R09oN2ZKQTdzWmVMbmdocHBQRDNhRmpvSEpWQkdiVFhiTVlQWEt6eGtwVElheHBoMjhOQTB1MV9pQTBSdkxwRjJsMjNoV1piUEM3Y28?oc=5
-   ⏱ 3.26 ساعت پیش
+   ⏱ 3.34 ساعت پیش
 ⚔️🤝 Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks
    📌 منبع: Fox News (latest)
    🗞 «Two suspected plots near RAF Fairford and aboard a FlyDubai flight raise questions about Iran's covert attacks against the United States and Israel.»
    🔗 https://www.foxnews.com/politics/iran-move-shadow-war-dangerous-direction-experts-warn-back-two-possible-terror-attacks
-   ⏱ 3.73 ساعت پیش
+   ⏱ 3.8 ساعت پیش
 ⚔️ Houthis Claim Attack on Aramco as Yemen Conflict Escalates
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOdC1jenhXS0RLMXFaaTNaUTVsTVJrcDNLdDZKLVR6SWVYOEdRNWdqRjktRktWSEFRTG1DbEhYd3ZvSGpGd1ZtTEVNNDdMd09SQ3pXdHJMMXlodWVQRjlySVBpNXVlTlRZUDVDdlpjTk12TEw4WVhUaU9rODlnV3RRVUR1OE1UVlJVUjlKa0NNV2MzN2dQUldvUzFn?oc=5
-   ⏱ 3.97 ساعت پیش
+   ⏱ 4.04 ساعت پیش
 ⚔️ Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
    📌 منبع: Al Jazeera
    🗞 «The Saudi-led coalition spokesman says the Yemeni armed group is 'attempting to divert attention' from its losses.»
    🔗 https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss
-   ⏱ 7.08 ساعت پیش
+   ⏱ 7.15 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
