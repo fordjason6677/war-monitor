@@ -1,18 +1,23 @@
-💰 نرخ ارز در دسترس نبود: ReadTimeout
+💰 نرخ لحظه‌ای ارز (تومان)
+زمان تهران: 2026-10-04 14:17:44
+  بازار آزاد (بانبست): فروش 267,300 | خرید 267,400  ← October 04, 2026 00:01
+  ▼ -1,400 تومان نسبت به آخرین نوبت (-0.52%)
+  تتر/تومان زنده (والکس): 267,401  (خرید 267,402 / فروش 267,502)
+  نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 10:43 UTC
+زمان گزارش: 2026-10-04 10:47 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 130 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +8 تیتر تشدیدآمیز (مقایسه با قرائت 4.1 ساعت پیش: 6 → 14)
-⚔️ تشدیدآمیز در ۶ ساعت: 14 | در ۲۴ ساعت: 59
-🎖 عنوان نظامی در ۲۴ ساعت: 59 | خبر جدیدِ این نوبت: 0
+🎯 وضعیت (بر اساس 131 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +8 تیتر تشدیدآمیز (مقایسه با قرائت 4.2 ساعت پیش: 6 → 14)
+⚔️ تشدیدآمیز در ۶ ساعت: 14 | در ۲۴ ساعت: 58
+🎖 عنوان نظامی در ۲۴ ساعت: 58 | خبر جدیدِ این نوبت: 3
 
-🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 59 · 📰 عمومی 50 · 🤝 دیپلماسی 17 · 🛢️ انرژی/دریا 17 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
-📡 منابع ۲۴ ساعت: Middle East Eye (22)، Jerusalem Post (19)، Al Jazeera (15)، Al-Monitor (11)، Israel National News (9)، GN site:timesofisrael (9)، JNS (8)، GN site:haaretz (6)
+🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 58 · 📰 عمومی 52 · 🤝 دیپلماسی 17 · 🛢️ انرژی/دریا 17 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
+📡 منابع ۲۴ ساعت: Middle East Eye (22)، Jerusalem Post (20)، Al Jazeera (15)، Al-Monitor (10)، Israel National News (9)، GN site:timesofisrael (9)، JNS (8)، GN site:haaretz (6)
 
-📰 خبرهای تازه (از جدیدترین):
+📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🤝 Woman arrested in northern Israel over alleged false terror report, husband arrested over threats
    📌 منبع: Jerusalem Post
    🗞 «Police said extensive checks ruled out any security-related intent on the husband’s part and raised a “clear suspicion” that the woman’s warning about an impending attack was entirely false.»
@@ -21,36 +26,36 @@
 ⚔️ More on death of Palestinian man at Tulkarm checkpoint
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/more-death-palestinian-man-tulkarm-checkpoint
-   ⏱ 0.17 ساعت پیش
+   ⏱ 0.25 ساعت پیش
 🤝 Palestinian Arab State: Western policy making vs. Middle East reality
    📌 منبع: Israel National News
    🗞 «Western policy makers’ infatuation with the proposed Palestinian Arab state has been driven by Western preoccupation with the moderate Palestinian Arab talk, which is aimed at Western target audiences. Middle East Arab rulers are not impres»
    🔗 https://www.israelnationalnews.com/news/434056
-   ⏱ 0.78 ساعت پیش
+   ⏱ 0.86 ساعت پیش
 ⚔️ Israel marks 1,318 slain security personnel since Oct. 7
    📌 منبع: JNS
    🗞 «Terror attacks have also claimed 1,029 civilian lives alongside tens of thousands wounded over three years, the National Insurance Institute reported.»
    🔗 https://www.jns.org/news/israel-news/israel-marks-1-318-slain-security-personnel-since-oct-7
-   ⏱ 1.47 ساعت پیش
+   ⏱ 1.55 ساعت پیش
 ⚔️ Ireland–Israel nations League clash overshadowed by political tensions
    📌 منبع: France24
    🗞 «Ireland and Israel are set to face off in the second leg of their Nations League matchup, with political tensions overshadowing the football. During last week’s first game in Bulgaria, Irish players wore black armbands in support of Gaza an»
    🔗 https://www.france24.com/en/video/20261004-ireland%E2%80%93israel-nations-league-clash-overshadowed-by-political-tensions
-   ⏱ 2.26 ساعت پیش
+   ⏱ 2.34 ساعت پیش
 ⚔️ Gaza’s Christians mourn mother and daughter killed in Israeli attack
    📌 منبع: Al Jazeera
    🗞 «Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.»
    🔗 https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss
-   ⏱ 2.67 ساعت پیش
+   ⏱ 2.75 ساعت پیش
 ⚔️ Haunted by grief, Gaza's displaced still wait overseas for return
    📌 منبع: Al-Monitor
    🗞 «By Nidal al-MughrabiCAIRO, Oct 4 (Reuters) - Omar al-Hassayna fled Gaza for Cairo after an Israeli airstrike wiped out much of his large family. Three years on, he remains there waiting for enough stability, security and reconstruction in h»
    🔗 https://www.al-monitor.com/originals/2026/10/haunted-grief-gazas-displaced-still-wait-overseas-return
-   ⏱ 2.94 ساعت پیش
+   ⏱ 3.02 ساعت پیش
 ⚔️ After flydubai attack, Israel admits it doesn't independently vet foreign pilots
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPNkphYjJ0djQtaFQyWWticF9NYmFoUXhzc0hIN0U4SlJIakl5WkZHb2NEUDJjdm1KWmllckZXYURqQVVxZXUyaGJtNXIyVkVZOEFMVXRYS0FkSUhaLVJ6R1dyaWI4UTZiczd0MW1pOGhMUTRLUW9yMEp1YWUzdmttcFlXQTY1TWI0dlRzdlcwY0FzZEZVMl81NEc3Ui1ObERuLUVGa3ZNS0lHVkpJTUJCTWNPVnQ5TGlNNjdWeUJncnZYXzMwNnFuMkJSeDQ1UWx1U245NnR5LUk3amZUd01sa3ZaTS1MQTJBaERNaTBVdElNQTV2M3A4Qm5tZVd4LVB3UjZYTVAyVV93WnYtZWdkcUVnRVcxR0ZGWklYNUZLLTUtSFdm?oc=5
-   ⏱ 3.48 ساعت پیش
+   ⏱ 3.56 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2579
