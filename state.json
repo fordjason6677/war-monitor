@@ -367,10 +367,13 @@
   "nopornnodoomscrollingnoprocessedfoodsmeetisraelsspermmaxxers": 1791103040.0398438,
   "untilrecentlytheoccupationwaslessfeltherenowisraelischangingthat": 1791103307.5520344,
   "insidethekillboxtheyemeniswhostayedbehindinhouthi": 1791103307.7686274,
-  "iransforeignministryspokesmanstraitofhormuzmainconcernofleadership": 1791103843.900461
+  "iransforeignministryspokesmanstraitofhormuzmainconcernofleadership": 1791103843.900461,
+  "usiranwarliveupdatesukmtoreportsvesselhitbyunknownprojectileinhormuz": 1791104110.0210598,
+  "asnetanyahuweighshisnextcoalitionoferwinteremergesasakeyrightwingspoiler": 1791104110.0437825,
+  "gazafriendlythefrenchlabelturningconsumerchoicesintopalestinesolidarity": 1791104110.2462714
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T08:50:45.180074+00:00",
+ "last_run": "2026-10-04T08:55:11.704954+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -494,6 +497,10 @@
   },
   {
    "ts": "2026-10-04T08:50:44+00:00",
+   "esc6": 12
+  },
+  {
+   "ts": "2026-10-04T08:55:10+00:00",
    "esc6": 12
   }
  ]
