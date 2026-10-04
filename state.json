@@ -402,7 +402,7 @@
   "uaehadshareddetailsaboutflydubaiflightwithisraelincludingpilotsnamesandnationalities": 1791110863.1036127
  },
  "last_cutoff": null,
- "last_run": "2026-10-04T10:47:44.488570+00:00",
+ "last_run": "2026-10-04T10:52:15.831825+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -630,6 +630,10 @@
   },
   {
    "ts": "2026-10-04T10:47:43+00:00",
+   "esc6": 14
+  },
+  {
+   "ts": "2026-10-04T10:52:14+00:00",
    "esc6": 14
   }
  ]
