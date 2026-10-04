@@ -1,23 +1,23 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-04 11:17:56
-  بازار آزاد (بانبست): فروش 270,000 | خرید 270,100  ← October 04, 2026 00:01
-  = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 269,505  (خرید 269,502 / فروش 269,505)
+زمان تهران: 2026-10-04 11:22:23
+  بازار آزاد (بانبست): فروش 269,000 | خرید 269,100  ← October 04, 2026 00:01
+  ▼ -1,000 تومان نسبت به آخرین نوبت (-0.37%)
+  تتر/تومان زنده (والکس): 269,005  (خرید 269,006 / فروش 269,156)
   نرخ رسمی: 133,350 تومان (1,333,496 ریال)  ← Sun, 04 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-04 07:47 UTC
+زمان گزارش: 2026-10-04 07:52 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 105 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +5 تیتر تشدیدآمیز (مقایسه با قرائت 1.2 ساعت پیش: 6 → 11)
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +5 تیتر تشدیدآمیز (مقایسه با قرائت 1.3 ساعت پیش: 6 → 11)
 ⚔️ تشدیدآمیز در ۶ ساعت: 11 | در ۲۴ ساعت: 49
-🎖 عنوان نظامی در ۲۴ ساعت: 48 | خبر جدیدِ این نوبت: 3
+🎖 عنوان نظامی در ۲۴ ساعت: 48 | خبر جدیدِ این نوبت: 0
 
 🗂 دسته‌بندی ۲۴ ساعت: ⚔️ نظامی 48 · 📰 عمومی 45 · 🤝 دیپلماسی 10 · 🛢️ انرژی/دریا 10 · ☢️ هسته‌ای 2 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Jerusalem Post (14)، Middle East Eye (14)، Al-Monitor (11)، Al Jazeera (10)، GN site:timesofisrael (9)، GN site:haaretz (7)، JNS (6)، Israel National News (6)
 
-📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+📰 خبرهای تازه (از جدیدترین):
 🤝 Halevi: Netanyahu rejected firing reservists who stopped reporting amid judicial reform - report
    📌 منبع: Jerusalem Post
    🗞 «According to N12, after the Knesset approved the law eliminating the reasonableness standard, Halevi met with the prime minister and warned him that Israel was entering a dangerous situation.»
@@ -27,36 +27,33 @@
    📌 منبع: Al-Monitor
    🗞 «By Nidal al-MughrabiCAIRO, Oct 4 (Reuters) - Omar al-Hassayna fled Gaza for Cairo after an Israeli airstrike wiped out much of his large family. Three years on, he remains there waiting for enough stability, security and reconstruction in h»
    🔗 https://www.al-monitor.com/originals/2026/10/haunted-grief-gazas-displaced-still-wait-overseas-return
-   ⏱ 0.02 ساعت پیش
+   ⏱ 0.1 ساعت پیش
 ⚔️ IDF says it targeted senior Hamas official Ali al-Amoudi in Gaza City strike that killed 5 people
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPal8wM3NOY0VhSkhlYXN2VF9rWUFQVzNpaEhJOC1nRmdUbkFfZXQtam15SWhLR2gyWjVVSTV4ZDAyX2hJdkh2WkhJV3dXbUJ0YUR3eG9NNF84U09JY2ZKeXEzS0V1YlhxaDVZRVZOVDlFMDdnTWNDS3BraXZMc2xHTmVraFNwZGlLVUtIN1hCSmI3eHpXRFY2Qk9PSXFIY3VSeEpvbmFnTzgzelFSQ2F3b1M4bnB6LUpBZ19YcVctWHg3UDFIX0tRWGczMXBPRVFnVHpEclF4dHV0dzQ?oc=5
-   ⏱ 0.67 ساعت پیش
+   ⏱ 0.75 ساعت پیش
 ⚔️🛢️ Netanyahu invites flydubai pilot to Independence Day ceremony
    📌 منبع: JNS
    🗞 «The Israeli premier praised Smit Machchhar during a call after the wounded aviator helped passengers and crew foil a violent midair hijacking.»
    🔗 https://www.jns.org/news/israel-news/netanyahu-invites-flydubai-pilot-to-independence-day-ceremony
-   ⏱ 1.02 ساعت پیش
+   ⏱ 1.1 ساعت پیش
 ⚔️ Israeli embassies in UK, US promote copycat NAZA weeks after original's Venice triumph
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/israeli-embassies-uk-us-promote-copycat-naza-weeks-after-originals-venice-triumph
-   ⏱ 1.46 ساعت پیش
+   ⏱ 1.53 ساعت پیش
 ⚔️ Two soldiers seriously and moderately wounded in operational accident in southern Lebanon
    📌 منبع: Israel National News
    🔗 https://www.israelnationalnews.com/news/434050
-   ⏱ 3.41 ساعت پیش
+   ⏱ 3.48 ساعت پیش
 ⚔️ Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
    📌 منبع: Al Jazeera
    🔗 https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss
-   ⏱ 3.65 ساعت پیش
+   ⏱ 3.72 ساعت پیش
 ⚔️ نیروهای دولت یمن به مواضع حوثی‌ها حمله کردند؛ هزاران نفر از مناطق درگیری گریختند
    📌 منبع: Iran International
    🔗 https://www.iranintl.com/202610036891
-   ⏱ 7.97 ساعت پیش
-
-— خطای پوشش (نباید به‌عنوان «خبر نیست» تفسیر شود) —
-  ⚠ The Hill: HTTP 503 (0B)
+   ⏱ 8.04 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 2478
+تعداد کل آیتم خوانده‌شده از فیدها: 2578
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
