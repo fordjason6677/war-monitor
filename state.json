@@ -736,10 +736,12 @@
   "imheretosavelivesinsidetheunlikelybidentrumppartnershiptosecureagazaceasefire": 1791196772.966495,
   "yemeniforcesreclaimdhubabkeypositionsnearbabal": 1791196773.1075306,
   "israelilecturerindictedforplanningmassterrorattackagainstpalestiniansarabisraelis": 1791197040.0082247,
-  "threeyearsafterisraelibombingpalestinianmanrecoverswifesremains": 1791197040.216125
+  "threeyearsafterisraelibombingpalestinianmanrecoverswifesremains": 1791197040.216125,
+  "whytheflydubaiattemptedhijackingcouldendupstrengtheningisraeluaeties": 1791197308.3894775,
+  "netanyahuavoidsaddressingresponsibilityatoctober7stateceremony": 1791197308.4176297
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T10:44:01.545281+00:00",
+ "last_run": "2026-10-05T10:48:29.968667+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2239,6 +2241,10 @@
   },
   {
    "ts": "2026-10-05T10:44:00+00:00",
+   "esc6": 28
+  },
+  {
+   "ts": "2026-10-05T10:48:28+00:00",
    "esc6": 28
   }
  ]
