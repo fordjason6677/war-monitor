@@ -1,24 +1,24 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 04:14:06
+زمان تهران: 2026-10-05 04:18:33
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 00:44 UTC
+زمان گزارش: 2026-10-05 00:48 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 229 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +11 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 11 → 22)
-⚔️ تشدیدآمیز در ۶ ساعت: 22 | در ۲۴ ساعت: 61
-🎖 عنوان نظامی در ۲۴ ساعت: 49 | خبر جدیدِ این نوبت: 1
+🎯 وضعیت (بر اساس 228 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +10 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 11 → 21)
+⚔️ تشدیدآمیز در ۶ ساعت: 21 | در ۲۴ ساعت: 60
+🎖 عنوان نظامی در ۲۴ ساعت: 49 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 119 · ⚔️ نظامی 79 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 24 · ☢️ هسته‌ای 6 · ⛔️ تحریم 2
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 118 · ⚔️ نظامی 79 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 24 · ☢️ هسته‌ای 6 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Middle East Eye (41)، Jerusalem Post (39)، Al Jazeera (20)، Israel National News (18)، GN site:timesofisrael (17)، GN site:israelhayom (10)، France24 (8)، Al-Monitor (7)
 
-📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+📰 خبرهای تازه (از جدیدترین):
 ⚔️ IDF shoots suspect attempting to break into military post in southern Syria
    📌 منبع: Jerusalem Post
    🗞 «On Sunday evening, troops from the 2nd "Carmeli" Brigade, who were manning outposts in the Syrian buffer zone, spotted a suspect approaching the post between the villages of Hader and Kuneitra.»
@@ -28,35 +28,35 @@
    📌 منبع: Fox News (latest)
    🗞 «The Pentagon says its bomber force remains ready for global strikes after aircraft deployed to RAF Fairford returned to the United States.»
    🔗 https://www.foxnews.com/us/us-pulls-all-bombers-key-uk-base-after-suspected-iran-linked-terror-plot
-   ⏱ 0.2 ساعت پیش
+   ⏱ 0.27 ساعت پیش
 ⚔️ Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
    📌 منبع: Al Jazeera
    🗞 «Yemeni government announces major offensive against Houthis as Iran says it is ready to defend itself if the US attacks.»
    🔗 https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss
-   ⏱ 0.73 ساعت پیش
+   ⏱ 0.81 ساعت پیش
 ⚔️ US withdraws bombers from UK base amid suspected Iran-backed terror plot
    📌 منبع: Israel National News
    🗞 «The US has withdrawn all bombers from RAF Fairford in England after commanders received new threats about a suspected Iran-backed plot targeting the base.»
    🔗 https://www.israelnationalnews.com/news/434108
-   ⏱ 0.76 ساعت پیش
+   ⏱ 0.84 ساعت پیش
 ⚔️ Israeli troops kill man in southern Syria
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria
-   ⏱ 1.01 ساعت پیش
+   ⏱ 1.08 ساعت پیش
 ⚔️🛢️ Video: Houthis Claim Attack on Saudi Oil Site as Yemen Conflict Grows
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUVlMG9WRll2UEktWEpZWG16enBSa0xacFV6eHlOTk91cXgwV0VGbDZzUjVvc2pJWDJfWVFXSGtHdXBMQ0xzWHNNcUhnSklCMTlhOFBmSEpSbWUwc2V0WjZQaDBIV1hxQjBTVmcyTDFTOERrMTVmWnR4N1hSWXlJTWQ3bTIwVi1QZ3E2ZVhhUXlNazdtUUh6OHJOcmVYZjQyazUtRFBaVHlHNUptZXMxSnJ6UjV5eWZBUDZDcg?oc=5
-   ⏱ 1.67 ساعت پیش
+   ⏱ 1.74 ساعت پیش
 ⚔️ Pentagon pulls B-1 bombers from UK base following alleged terror threat
    📌 منبع: The Hill
    🗞 «The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in England. “While operational security precluded»
    🔗 https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/
-   ⏱ 1.89 ساعت پیش
+   ⏱ 1.97 ساعت پیش
 ⚔️ U.S. B-1 bombers evacuated from UK base after attack threats from Iran
    📌 منبع: Axios
    🗞 «The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. Why it matters: A U.S. official said the base was under threat of attack by Iran. Driving the news: British securit»
    🔗 https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran
-   ⏱ 2.12 ساعت پیش
+   ⏱ 2.19 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2578
