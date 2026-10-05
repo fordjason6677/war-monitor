@@ -1,16 +1,16 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 04:36:32
+زمان تهران: 2026-10-05 04:41:00
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,872  (خرید 268,856 / فروش 268,872)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 01:06 UTC
+زمان گزارش: 2026-10-05 01:10 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 229 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +13 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 10 → 23)
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +12 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 11 → 23)
 ⚔️ تشدیدآمیز در ۶ ساعت: 23 | در ۲۴ ساعت: 61
 🎖 عنوان نظامی در ۲۴ ساعت: 50 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
@@ -27,34 +27,34 @@
 ⚔️ Israel orders security review of incoming flights after co-pilot attack
    📌 منبع: GN site:washingtonpost
    🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmtQUzlJN0hxTEFLUjRyT2VnOEdoUlhuYTFJVGdCZm1FZzdUa1U1Y1lvSmxocWd4STRFV2ZOMTNVajN1bGNXWENkYUwzM0lGWXExdVN4YUYzWHEwYVBhSk9RemNUelQ5NmhMWU83bkQ4ZmxqeU1Scm5ib2gzdjlLeUR1SUcxQUlRNFRtdml3QUlLMWhwWjdqdy0zSlc2bjV0SnBYcEVndFdtNmE5TTFTenBPRkljS0kz?oc=5
-   ⏱ 0.34 ساعت پیش
+   ⏱ 0.42 ساعت پیش
 ⚔️ US pulls all bombers from key UK base after suspected Iran-linked terror plot
    📌 منبع: Fox News (latest)
    🗞 «The Pentagon says its bomber force remains ready for global strikes after aircraft deployed to RAF Fairford returned to the United States.»
    🔗 https://www.foxnews.com/us/us-pulls-all-bombers-key-uk-base-after-suspected-iran-linked-terror-plot
-   ⏱ 0.57 ساعت پیش
+   ⏱ 0.65 ساعت پیش
 ⚔️ Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
    📌 منبع: Al Jazeera
    🗞 «Yemeni government announces major offensive against Houthis as Iran says it is ready to defend itself if the US attacks.»
    🔗 https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss
-   ⏱ 1.11 ساعت پیش
+   ⏱ 1.18 ساعت پیش
 ⚔️ US withdraws bombers from UK base amid suspected Iran-backed terror plot
    📌 منبع: Israel National News
    🗞 «The US has withdrawn all bombers from RAF Fairford in England after commanders received new threats about a suspected Iran-backed plot targeting the base.»
    🔗 https://www.israelnationalnews.com/news/434108
-   ⏱ 1.14 ساعت پیش
+   ⏱ 1.21 ساعت پیش
 ⚔️ Israeli troops kill man in southern Syria
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria
-   ⏱ 1.38 ساعت پیش
+   ⏱ 1.45 ساعت پیش
 ⚔️ All US B-1 bombers leave UK base after alleged Iran-linked plot
    📌 منبع: GN site:ynetnews
    🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PeXRoNWxPX0JrSWtxc2o0RlRWQ0I4U0llQlRFekdNMjVPUTJOUVgwcVJKdjg3WVJ3WlpLcW15Mm9EMC1IbUtQbjYzUHZteWpTazBhdVR3?oc=5
-   ⏱ 1.79 ساعت پیش
+   ⏱ 1.86 ساعت پیش
 ⚔️🛢️ Video: Houthis Claim Attack on Saudi Oil Site as Yemen Conflict Grows
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUVlMG9WRll2UEktWEpZWG16enBSa0xacFV6eHlOTk91cXgwV0VGbDZzUjVvc2pJWDJfWVFXSGtHdXBMQ0xzWHNNcUhnSklCMTlhOFBmSEpSbWUwc2V0WjZQaDBIV1hxQjBTVmcyTDFTOERrMTVmWnR4N1hSWXlJTWQ3bTIwVi1QZ3E2ZVhhUXlNazdtUUh6OHJOcmVYZjQyazUtRFBaVHlHNUptZXMxSnJ6UjV5eWZBUDZDcg?oc=5
-   ⏱ 2.04 ساعت پیش
+   ⏱ 2.12 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2578
