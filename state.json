@@ -888,10 +888,12 @@
   "yemenigovernmentforcesdrivehouthisfrombabelmandebstrait": 1791219394.4114175,
   "karolineleavittformerwhitehousepresssecretaryjoinsfoxnewsascontributor": 1791219394.507224,
   "trumpsaysriseofpetrolpricesnolongerduetostraitofhormuz": 1791219394.5416555,
-  "pentagonstopsusinganthropicaitoolsafterblacklistingcompanybbctold": 1791219394.6114998
+  "pentagonstopsusinganthropicaitoolsafterblacklistingcompanybbctold": 1791219394.6114998,
+  "oneveofoct7anniversaryucberkeleytohostprofessorwhosaidhewaswithhamas": 1791219664.256992,
+  "idfgeneralstaffforumholdsmomentofsilenceatzikimbase": 1791219664.2692666
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T16:56:35.919860+00:00",
+ "last_run": "2026-10-05T17:01:06.213261+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2720,6 +2722,10 @@
   {
    "ts": "2026-10-05T16:56:34+00:00",
    "esc6": 23
+  },
+  {
+   "ts": "2026-10-05T17:01:04+00:00",
+   "esc6": 22
   }
  ]
 }
