@@ -1,61 +1,61 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 09:47:02
+زمان تهران: 2026-10-05 09:51:31
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 269,449  (خرید 269,445 / فروش 269,449)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 06:17 UTC
+زمان گزارش: 2026-10-05 06:21 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 251 عنوان در ۲۴ ساعت اخیر): 🟠 تنش بالا
-📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -14 (مقایسه با قرائت 6.0 ساعت پیش: 21 → 7)
-⚔️ تشدیدآمیز در ۶ ساعت: 7 | در ۲۴ ساعت: 60
-🎖 عنوان نظامی در ۲۴ ساعت: 47 | خبر جدیدِ این نوبت: 1
+🎯 وضعیت (بر اساس 251 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -12 (مقایسه با قرائت 6.0 ساعت پیش: 21 → 9)
+⚔️ تشدیدآمیز در ۶ ساعت: 9 | در ۲۴ ساعت: 62
+🎖 عنوان نظامی در ۲۴ ساعت: 49 | خبر جدیدِ این نوبت: 3
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 137 · ⚔️ نظامی 78 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 27 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
-📡 منابع ۲۴ ساعت: Jerusalem Post (42)، Middle East Eye (37)، Al Jazeera (21)، GN site:timesofisrael (21)، Israel National News (19)، JNS (14)، GN site:haaretz (12)، GN site:israelhayom (8)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 136 · ⚔️ نظامی 79 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 27 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
+📡 منابع ۲۴ ساعت: Jerusalem Post (41)، Middle East Eye (36)، Al Jazeera (21)، GN site:timesofisrael (21)، Israel National News (20)، JNS (15)، GN site:haaretz (12)، GN site:israelhayom (8)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
-🤝 Is Britain fueling the war in Yemen?
+⚔️ Yemeni government forces claim over 1,120 attacks against Houthi positions
    📌 منبع: Middle East Eye
-   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/britain-fueling-war-yemen
-   ⏱ 0.04 ساعت پیش
+   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-over-1120-attacks-against-houthi
+   ⏱ 0.01 ساعت پیش
+⚔️ Israeli FM to JNS: Abraham Accords won't be harmed by flydubai attack
+   📌 منبع: JNS
+   🗞 «Speaking on "Tov LaYehudim," JNS's Hebrew-language podcast, Sa'ar said he had twice spoken by phone with the UAE foreign minister since the incident.»
+   🔗 https://www.jns.org/news/israel-news/israeli-fm-to-jns-abraham-accords-wont-be-harmed-by-flydubai-attack
+   ⏱ 0.1 ساعت پیش
 ⚔️ Israel Iran Strike Timeline and US Midterms
    📌 منبع: GN site:israelhayom
    🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUVTbF9ySk80OUJzclBGYjNUTkpaQkxVOTZWeDB2dVhmLTQ1UW5BckF4TFctQWNDLVpzN1drZmdQamoyQ3BCdXJRYWlUU0dvcHdKNTZDMm1iYjFaVFJnMmVCbTR6NF8wNmkwNzd6SW11bGFUR0pHdTBsd21McjZabkdtdzZtc2dZZU5WSGxLZHdQY0dhMThZ?oc=5
-   ⏱ 0.25 ساعت پیش
+   ⏱ 0.32 ساعت پیش
 ⚔️🛢️ Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
    📌 منبع: DW
    🗞 «Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.»
    🔗 https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf
-   ⏱ 0.7 ساعت پیش
-⚔️🤝 Netanyahu promises naval superiority in visit to Ashdod base
-   📌 منبع: JNS
-   🗞 «Israel "will not allow" its enemies to threaten its maritime space, said the prime minister.»
-   🔗 https://www.jns.org/news/israel-news/netanyahu-promises-naval-superiority-in-visit-to-ashdod-base
-   ⏱ 0.81 ساعت پیش
+   ⏱ 0.78 ساعت پیش
 ⛔️ U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNeW0tbGd3clJ4Q3dNMEEwLXAwR0V2X1ZZZDA1bG9Db3lKTm95U1FUeExwY1owWUdLSlQwcEM5dFN6TWhGNHcxaGJSR2lwUlFJVkVhLUppaTV1QUhaaTlRaGFwMWVHZktBZ1J5Tm5PckhJNTA0aEJKaUNvVXBobmRHRU9RWVMyMURoam8tWFE2RFI1dTk2b0pSWA?oc=5
-   ⏱ 2.27 ساعت پیش
+   ⏱ 2.34 ساعت پیش
 ⚔️ IDF shoots suspect attempting to break into military post in southern Syria
    📌 منبع: Jerusalem Post
    🗞 «On Sunday evening, troops from the 2nd "Carmeli" Brigade, who were manning outposts in the Syrian buffer zone, spotted a suspect approaching the post between the villages of Hader and Kuneitra.»
    🔗 https://www.jpost.com/israel-news/defense-news/article-910595
-   ⏱ 3.81 ساعت پیش
+   ⏱ 3.89 ساعت پیش
 ⚔️ Israel orders security review of incoming flights after co-pilot attack
    📌 منبع: GN site:washingtonpost
    🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmtQUzlJN0hxTEFLUjRyT2VnOEdoUlhuYTFJVGdCZm1FZzdUa1U1Y1lvSmxocWd4STRFV2ZOMTNVajN1bGNXWENkYUwzM0lGWXExdVN4YUYzWHEwYVBhSk9RemNUelQ5NmhMWU83bkQ4ZmxqeU1Scm5ib2gzdjlLeUR1SUcxQUlRNFRtdml3QUlLMWhwWjdqdy0zSlc2bjV0SnBYcEVndFdtNmE5TTFTenBPRkljS0kz?oc=5
-   ⏱ 5.52 ساعت پیش
+   ⏱ 5.59 ساعت پیش
 ⚔️ US pulls all bombers from key UK base after suspected Iran-linked terror plot
    📌 منبع: Fox News (latest)
    🗞 «The Pentagon says its bomber force remains ready for global strikes after aircraft deployed to RAF Fairford returned to the United States.»
    🔗 https://www.foxnews.com/us/us-pulls-all-bombers-key-uk-base-after-suspected-iran-linked-terror-plot
-   ⏱ 5.75 ساعت پیش
+   ⏱ 5.82 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 2577
+تعداد کل آیتم خوانده‌شده از فیدها: 2576
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0

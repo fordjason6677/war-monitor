@@ -638,10 +638,13 @@
   "fromnorthtosouthisraelbowsitsheadinremembranceofoctober7massacre": 1791180753.0345294,
   "londonpoliceurgestudentstorescheduleoctober7pro": 1791180753.0353234,
   "israeliranstriketimelineandusmidterms": 1791180753.071521,
-  "isbritainfuelingthewarinyemen": 1791181021.6629498
+  "isbritainfuelingthewarinyemen": 1791181021.6629498,
+  "israelsballotboxandtheenemyatthegate": 1791181289.8079271,
+  "israelifmtojnsabrahamaccordswontbeharmedbyflydubaiattack": 1791181289.816615,
+  "yemenigovernmentforcesclaimover1120attacksagainsthouthipositions": 1791181290.0183394
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T06:17:02.975952+00:00",
+ "last_run": "2026-10-05T06:21:31.828965+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1906,6 +1909,10 @@
   {
    "ts": "2026-10-05T06:17:01+00:00",
    "esc6": 7
+  },
+  {
+   "ts": "2026-10-05T06:21:30+00:00",
+   "esc6": 9
   }
  ]
 }
