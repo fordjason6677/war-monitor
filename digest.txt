@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 15:48:50
-  بازار آزاد (بانبست): فروش 269,600 | خرید 269,700  ← October 05, 2026 00:01
-  = 0 تومان نسبت به آخرین نوبت (0.00%)
+زمان تهران: 2026-10-05 15:53:22
+  بازار آزاد (بانبست): فروش 269,700 | خرید 269,800  ← October 05, 2026 00:01
+  ▲ +100 تومان نسبت به آخرین نوبت (+0.04%)
   تتر/تومان زنده (والکس): 268,201  (خرید 268,202 / فروش 268,288)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 12:18 UTC
+زمان گزارش: 2026-10-05 12:23 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 318 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +27 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 7 → 34)
-⚔️ تشدیدآمیز در ۶ ساعت: 34 | در ۲۴ ساعت: 86
-🎖 عنوان نظامی در ۲۴ ساعت: 75 | خبر جدیدِ این نوبت: 1
+🎯 وضعیت (بر اساس 320 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +25 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 9 → 34)
+⚔️ تشدیدآمیز در ۶ ساعت: 34 | در ۲۴ ساعت: 87
+🎖 عنوان نظامی در ۲۴ ساعت: 75 | خبر جدیدِ این نوبت: 2
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 23
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 169 · ⚔️ نظامی 116 · 🤝 دیپلماسی 29 · 🛢️ انرژی/دریا 28 · ☢️ هسته‌ای 2 · ⛔️ تحریم 1
-📡 منابع ۲۴ ساعت: Jerusalem Post (66)، Middle East Eye (32)، Al Jazeera (26)، Israel National News (23)، GN site:timesofisrael (22)، JNS (21)، GN site:haaretz (15)، Al-Monitor (12)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 170 · ⚔️ نظامی 116 · 🤝 دیپلماسی 29 · 🛢️ انرژی/دریا 29 · ☢️ هسته‌ای 2 · ⛔️ تحریم 1
+📡 منابع ۲۴ ساعت: Jerusalem Post (66)، Middle East Eye (32)، Al Jazeera (26)، Israel National News (23)، GN site:timesofisrael (22)، JNS (21)، GN site:haaretz (15)، GN site:reuters (13)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️ Saudi-led coalition, Yemeni government forces launch massive three-pronged assault on Houthis
@@ -27,35 +27,34 @@
 🤝 Yemen’s child soldiers: How poverty and war are pushing minors to the frontlines
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/yemens-child-soldiers-how-poverty-and-war-are-pushing-minors-frontlines
-   ⏱ 0.29 ساعت پیش
+   ⏱ 0.37 ساعت پیش
 ⚔️ Feiglin says he reported threats from lecturer accused of plotting attacks on Israeli Arabs
    📌 منبع: JNS
    🗞 «The former MK called for "the full severity of the law" to be imposed in the case.»
    🔗 https://www.jns.org/news/israel-news/hold-feiglin-says-he-reported-threats-from-lecturer-accused-of-plotting-attacks-on-israeli-arabs
-   ⏱ 0.34 ساعت پیش
+   ⏱ 0.42 ساعت پیش
+🛢️ Yemeni government forces advance on Bab el-Mandeb Strait
+   📌 منبع: GN site:reuters
+   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
+   ⏱ 1.0 ساعت پیش
 ⚔️ Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike
    📌 منبع: GN site:apnews
    🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5
-   ⏱ 1.3 ساعت پیش
+   ⏱ 1.37 ساعت پیش
 🛢️ Yemeni government forces seize district by Bab el-Mandeb, military sources say
    📌 منبع: Al-Monitor
    🗞 «By Timour Azhari and Mohammed GhobariRIYADH, Oct 5 (Reuters) - Saudi-backed Yemeni government forces seized key positions on the Bab el-Mandeb Strait on Monday, military and government sources said, as they fought to reverse last month's ad»
    🔗 https://www.al-monitor.com/originals/2026/10/yemeni-government-forces-seize-district-bab-el-mandeb-military-sources-say
-   ⏱ 2.54 ساعت پیش
+   ⏱ 2.61 ساعت پیش
 🛢️ Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis
    📌 منبع: Al Jazeera
    🗞 «Army of internationally recognised gov't claims key gains near strait before Saudi, Pakistani, Turkish officials meet.»
    🔗 https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss
-   ⏱ 2.64 ساعت پیش
+   ⏱ 2.71 ساعت پیش
 🤝 ‘I’m here to save lives’: Inside the unlikely Biden-Trump partnership to secure a Gaza ceasefire
    📌 منبع: GN site:cnn
    🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFBhNXlWSlg3UWZ5ZXRPWTR0UTFuLVhBeWxXZlRfNG1ZeG9QUVoxbUd1aUJwNTlhZ0E2TEVaRkw5SjFWTzBaSjZwT2RBY0p5czdxbEgzQW5xbk5ROE9UTFRrU1pRMFNSVnp4ekZKTXBxMXdHZDlnWndTUXNR?oc=5
-   ⏱ 3.3 ساعت پیش
-⚔️ Israel's mental health crisis in the wake of Oct. 7 attacks
-   📌 منبع: DW
-   🗞 «More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects.»
-   🔗 https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf
-   ⏱ 3.45 ساعت پیش
+   ⏱ 3.38 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2582
