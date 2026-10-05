@@ -711,10 +711,13 @@
   "watchzamirvowsidfwillimplementlessonsofoctober7massacrethreeyearson": 1791194617.7166777,
   "netanyahuwhileoct7issearedintousthreeyearsonisraelstrongerthanever": 1791194884.527263,
   "lulathepatronsaintofantisemitisminbrazil": 1791194884.5421703,
-  "yemenwarwhatsthelatestasgovernmentforcesclaimadvances": 1791194884.79161
+  "yemenwarwhatsthelatestasgovernmentforcesclaimadvances": 1791194884.79161,
+  "iranmilitarychiefwarnsnewwarsfirewillengulfeveryone": 1791195423.3148515,
+  "idfchiefvowstoinvestigateimplementlessonsfromoctober7inmilitaryceremony": 1791195423.3392677,
+  "middleeastoilexportstopprewarlevelsinseptemberbuttankerattacksincrease": 1791195423.417823
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T10:12:34.600656+00:00",
+ "last_run": "2026-10-05T10:17:05.104733+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2186,6 +2189,10 @@
   },
   {
    "ts": "2026-10-05T10:12:33+00:00",
+   "esc6": 25
+  },
+  {
+   "ts": "2026-10-05T10:17:03+00:00",
    "esc6": 25
   }
  ]
