@@ -603,10 +603,12 @@
   "idfchiefmarksoctober7anniversarytheidffailedinitsmostimportantmission": 1791172072.5672143,
   "israelischoolsoct7memorialplansincludeoutdatedreferencestohostages": 1791172072.6182785,
   "ukgreenpartyvotesagainstisraelasjewishstatezionismisracism": 1791172072.618827,
-  "israelioppositionpartyleadercallsjordanianisraelicontroloverwestbank": 1791172072.6191266
+  "israelioppositionpartyleadercallsjordanianisraelicontroloverwestbank": 1791172072.6191266,
+  "iranwarcouldoutlasttrumpaswhitehousekeepsmilitaryoptionalive": 1791172344.459882,
+  "flagsloweredtohalfmastasisraelremembersoctober7massacrethreeyearson": 1791172344.48461
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T03:47:54.417640+00:00",
+ "last_run": "2026-10-05T03:52:26.027908+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1738,6 +1740,10 @@
   },
   {
    "ts": "2026-10-05T03:47:52+00:00",
+   "esc6": 15
+  },
+  {
+   "ts": "2026-10-05T03:52:24+00:00",
    "esc6": 15
   }
  ]
