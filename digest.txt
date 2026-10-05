@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 16:43:25
+زمان تهران: 2026-10-05 16:47:57
   بازار آزاد (بانبست): فروش 270,500 | خرید 270,600  ← October 05, 2026 00:01
-  ▲ +300 تومان نسبت به آخرین نوبت (+0.11%)
-  تتر/تومان زنده (والکس): 267,494  (خرید 267,472 / فروش 267,494)
+  = 0 تومان نسبت به آخرین نوبت (0.00%)
+  تتر/تومان زنده (والکس): 267,367  (خرید 267,368 / فروش 267,393)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 13:13 UTC
+زمان گزارش: 2026-10-05 13:17 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 315 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +23 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 10 → 33)
-⚔️ تشدیدآمیز در ۶ ساعت: 33 | در ۲۴ ساعت: 90
-🎖 عنوان نظامی در ۲۴ ساعت: 76 | خبر جدیدِ این نوبت: 2
-⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 23
+🎯 وضعیت (بر اساس 316 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +23 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 11 → 34)
+⚔️ تشدیدآمیز در ۶ ساعت: 34 | در ۲۴ ساعت: 90
+🎖 عنوان نظامی در ۲۴ ساعت: 76 | خبر جدیدِ این نوبت: 3
+⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 24
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 163 · ⚔️ نظامی 116 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 30 · ☢️ هسته‌ای 2 · ⛔️ تحریم 1
-📡 منابع ۲۴ ساعت: Jerusalem Post (65)، Middle East Eye (34)، Al Jazeera (25)، GN site:timesofisrael (23)، JNS (22)، Israel National News (20)، GN site:haaretz (14)، GN site:reuters (12)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 162 · ⚔️ نظامی 117 · 🛢️ انرژی/دریا 32 · 🤝 دیپلماسی 29 · ☢️ هسته‌ای 2 · ⛔️ تحریم 1
+📡 منابع ۲۴ ساعت: Jerusalem Post (65)، Middle East Eye (34)، Al Jazeera (26)، GN site:timesofisrael (23)، JNS (22)، Israel National News (20)، GN site:haaretz (14)، GN site:reuters (13)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🤝 Israel is world's second-most targeted country by cyberattacks, Microsoft finds
@@ -28,33 +28,32 @@
    📌 منبع: BBC Persian
    🗞 «ایالات متحده تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرد؛ این پایگاه نظامی در مرکز حادثه‌ای امنیتی قرار دارد که پلیس مبارزه با تروریسم در حال بررسی آن است. یک مقام پنتاگون روز یکشنبه، ۴ اکتبر، در بیانیه‌ای»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 0.81 ساعت پیش
+   ⏱ 0.89 ساعت پیش
 🤝 Yemen’s child soldiers: How poverty and war are pushing minors to the frontlines
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/yemens-child-soldiers-how-poverty-and-war-are-pushing-minors-frontlines
-   ⏱ 1.2 ساعت پیش
+   ⏱ 1.28 ساعت پیش
 ⚔️ Feiglin says he reported threats from lecturer accused of plotting attacks on Israeli Arabs
    📌 منبع: JNS
    🗞 «The former MK called for "the full severity of the law" to be imposed in the case.»
    🔗 https://www.jns.org/news/israel-news/hold-feiglin-says-he-reported-threats-from-lecturer-accused-of-plotting-attacks-on-israeli-arabs
-   ⏱ 1.25 ساعت پیش
+   ⏱ 1.33 ساعت پیش
 🛢️ Yemeni government forces advance on Bab el-Mandeb Strait
    📌 منبع: GN site:reuters
    🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
-   ⏱ 1.84 ساعت پیش
+   ⏱ 1.91 ساعت پیش
 ⚔️ Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike
    📌 منبع: GN site:apnews
    🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5
-   ⏱ 2.21 ساعت پیش
+   ⏱ 2.28 ساعت پیش
+⚔️ Netanyahu at Oct. 7 ceremony: We will settle scores with everyone involved in attacks
+   📌 منبع: GN site:timesofisrael
+   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3J0WVA4UWZtSDQ1V1RXWXFXT1libHBRS29pdktsX0syZmJIRDhGYmJDNFN5eW52bzhjVGx1NFBtTVl6YUktUXFFYkNrU0NkSUJzSUFRVTM1YzBTV3NmaGcxYkVSdDNvMG5udk04VjdKREtPMDEyNnJVNF9zQmt4VnFzNVB6Vm1QbVhkZFNrUWI3TThSQzR3RDI2S3BCQ2tjMk1McFNqNHVNcGN3azdwRlFTQkJ6OE5Qd1E4eUwzQU9mMFpFVVVDQg?oc=5
+   ⏱ 3.16 ساعت پیش
 🛢️ Gulf crude exports return to pre-war levels, excluding Iran
    📌 منبع: GN site:euronews
    🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPNFpmS3psU0RCN2dyT0MxYlBmeWc4WGxBaDFsTFc5a1pZNC12X0lZdzBFOUE5bHpfV0lRRnV0S1dqMkVJRzQ3RWpWM09Ha3FNNFVhX3J0TUVaNUdQSXhrcm41RG5LdVRZR2pxWWZhTHk1ODJlUllENG5ybERBcGYxSUhKamxiYVBjMkF2ZWs3Vmk0YWhBZWtQRmc1Nl93TWNY?oc=5
-   ⏱ 3.33 ساعت پیش
-🛢️ Yemeni government forces seize district by Bab el-Mandeb, military sources say
-   📌 منبع: Al-Monitor
-   🗞 «By Timour Azhari and Mohammed GhobariRIYADH, Oct 5 (Reuters) - Saudi-backed Yemeni government forces seized key positions on the Bab el-Mandeb Strait on Monday, military and government sources said, as they fought to reverse last month's ad»
-   🔗 https://www.al-monitor.com/originals/2026/10/yemeni-government-forces-seize-district-bab-el-mandeb-military-sources-say
-   ⏱ 3.45 ساعت پیش
+   ⏱ 3.41 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2581
