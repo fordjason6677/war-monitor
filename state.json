@@ -792,10 +792,12 @@
   "usexecutionsurvivorcriticallyillonventilatorlawyersays": 1791205177.5396497,
   "gulfcrudeexportsreturntoprewarlevelsexcludingiran": 1791205177.6959708,
   "usiranwarliveupdateshouthiswarnsaudiairspacewillnotbesafeamidaggression": 1791205461.5809515,
-  "labourmpemilythornberryurgesbritaintodefyisraeliordertoclosejerusalemconsulate": 1791205732.3829248
+  "labourmpemilythornberryurgesbritaintodefyisraeliordertoclosejerusalemconsulate": 1791205732.3829248,
+  "israeliwestbankresidentscrashvehicleintoterroristafterarsonattemptedstabbingattack": 1791206004.315145,
+  "whatdoweknowaboutthesuspectediranianplottoattackuksfairfordairbase": 1791206004.3154714
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T13:08:56.245986+00:00",
+ "last_run": "2026-10-05T13:13:25.914680+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2424,6 +2426,10 @@
   {
    "ts": "2026-10-05T13:08:52+00:00",
    "esc6": 31
+  },
+  {
+   "ts": "2026-10-05T13:13:24+00:00",
+   "esc6": 33
   }
  ]
 }
