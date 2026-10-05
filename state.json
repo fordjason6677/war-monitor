@@ -651,10 +651,13 @@
   "choosinglifethreeyearsafterbeingtakenhostageformergazahostagessavoreachmoment": 1791183487.6551604,
   "rightthingforisraelidemocracyeisenkotchallengesnetanyahutoteleviseddebate": 1791183487.655447,
   "policearresttouristwhostatedintenttocommitterrorattackatidfskiryacomplex": 1791183487.6557581,
-  "irgccommandersaysusforceshavefled1000kmfromiransborders": 1791183487.8560355
+  "irgccommandersaysusforceshavefled1000kmfromiransborders": 1791183487.8560355,
+  "indianpolicedetainisraeliforstayingwithoutvalidtraveldocumentsfollowingdrugcharges": 1791183756.4490209,
+  "syriaidfeliminatesindividualtryingtoinfiltratemilitarypost": 1791183756.4593225,
+  "idfkillsoct7nukhbaterroristtiedtoturkishaidgroup": 1791183756.4594886
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T06:58:09.328009+00:00",
+ "last_run": "2026-10-05T07:02:39.973473+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1954,6 +1957,10 @@
   },
   {
    "ts": "2026-10-05T06:58:07+00:00",
+   "esc6": 10
+  },
+  {
+   "ts": "2026-10-05T07:02:36+00:00",
    "esc6": 10
   }
  ]
