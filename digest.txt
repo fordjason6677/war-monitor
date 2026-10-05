@@ -1,12 +1,12 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 18:28:03
+زمان تهران: 2026-10-05 18:32:39
   بازار آزاد (بانبست): فروش 269,500 | خرید 269,600  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,267  (خرید 268,267 / فروش 268,269)
+  تتر/تومان زنده (والکس): 268,565  (خرید 268,567 / فروش 268,741)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 14:58 UTC
+زمان گزارش: 2026-10-05 15:02 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 318 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
@@ -19,43 +19,43 @@
 📡 منابع ۲۴ ساعت: Jerusalem Post (66)، Middle East Eye (34)، Al Jazeera (26)، JNS (24)، GN site:timesofisrael (21)، Israel National News (20)، GN site:reuters (14)، GN site:haaretz (14)
 
 📰 خبرهای تازه (از جدیدترین):
-⚔️ What do we know about the suspected Iranian plot to attack UK's Fairford airbase? - explainer
+⚔️ Man who planned attack on Israeli embassy in London jailed for at least 20 years
    📌 منبع: Jerusalem Post
-   🗞 «US President Donald Trump said those involved in the plot had planned "big damage," while US Secretary of State Marco Rubio also pointed to the "hands of a foreign actor."»
-   🔗 https://www.jpost.com/international/article-910662
+   🗞 «Abdullah Albadri, 34, attempted to breach the embassy's perimeter in west London in April 2025 before being stopped by armed police officers guarding the site.»
+   🔗 https://www.jpost.com/diaspora/antisemitism/article-910677
    ⏱ 0.0 ساعت پیش
 ⚔️ Saudi Arabia has right to defend itself from Houthi attacks, says Rubio
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-has-right-defend-itself-houthi-attacks-says-rubio
-   ⏱ 0.39 ساعت پیش
+   ⏱ 0.47 ساعت پیش
 ⚔️ US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?
    📌 منبع: Al Jazeera
    🗞 «The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.»
    🔗 https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss
-   ⏱ 0.64 ساعت پیش
+   ⏱ 0.71 ساعت پیش
 ⚔️ نتانیاهو: جمهوری اسلامی برای بقای خود می‌جنگد و سرانجام از میان خواهد رفت
    📌 منبع: Iran International
    🗞 «بنیامین نتانیاهو در مراسم سومین سالگرد حمله هفتم اکتبر گفت جمهوری اسلامی در ضعیف‌ترین وضعیت از زمان تاسیس خود است و سرانجام از میان خواهد رفت. او همچنین از ادامه مقابله اسرائیل با حماس و حزب‌الله سخن گفت.»
    🔗 https://www.iranintl.com/202610052081
-   ⏱ 0.97 ساعت پیش
+   ⏱ 1.04 ساعت پیش
 🛢️ Yemeni government forces advance to Bab el-Mandeb Strait
    📌 منبع: GN site:reuters
    🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
-   ⏱ 2.04 ساعت پیش
+   ⏱ 2.11 ساعت پیش
 ⚔️ آمریکا تمام بمب‌افکن‌های خود را از پایگاه فرفورد بریتانیا منتقل کرد
    📌 منبع: BBC Persian
    🗞 «ایالات متحده تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرد؛ این پایگاه نظامی در مرکز حادثه‌ای امنیتی قرار دارد که پلیس مبارزه با تروریسم در حال بررسی آن است. یک مقام پنتاگون روز یکشنبه، ۴ اکتبر، در بیانیه‌ای»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 2.55 ساعت پیش
+   ⏱ 2.63 ساعت پیش
 ⚔️ Feiglin says he reported threats from lecturer accused of plotting attacks on Israeli Arabs
    📌 منبع: JNS
    🗞 «The former MK called for "the full severity of the law" to be imposed in the case.»
    🔗 https://www.jns.org/news/israel-news/hold-feiglin-says-he-reported-threats-from-lecturer-accused-of-plotting-attacks-on-israeli-arabs
-   ⏱ 3.0 ساعت پیش
+   ⏱ 3.07 ساعت پیش
 ⚔️ Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike
    📌 منبع: GN site:apnews
    🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5
-   ⏱ 3.95 ساعت پیش
+   ⏱ 4.03 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2583
