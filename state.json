@@ -880,10 +880,11 @@
   "rubiosaysusmonitoringreportsofplagueinfectionatrussianlab": 1791218022.3667655,
   "britainthreatenstoexpel27israelidiplomatsoverjerusalemconsulateclosure": 1791218299.9158792,
   "theiranwarishittingamericasschoolbusesandkidsarepayingtheprice": 1791218300.1360378,
-  "yemenigovernmentforcesdrivehouthisfrombabel": 1791218845.131155
+  "yemenigovernmentforcesdrivehouthisfrombabel": 1791218845.131155,
+  "trumpsaysriseofgasolinepricesnolongerduetostraitofhormuz": 1791219121.9243088
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T16:47:27.022986+00:00",
+ "last_run": "2026-10-05T16:52:03.506363+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2704,6 +2705,10 @@
   {
    "ts": "2026-10-05T16:47:25+00:00",
    "esc6": 24
+  },
+  {
+   "ts": "2026-10-05T16:52:02+00:00",
+   "esc6": 23
   }
  ]
 }
