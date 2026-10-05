@@ -945,10 +945,16 @@
   "newmuralintelavivshowsbartsimpsonasahamasterroristnetanyahueisenkotchasinghim": 1791227397.3548636,
   "bradpittonscreenretiredidfcombatdogsintheseats": 1791227397.3551993,
   "iransnewweaponfemalesoldiers": 1791227397.3570867,
-  "trumpblamesdemocratsandukraineforsoaringusfuelpricesnotiranwar": 1791227697.411219
+  "trumpblamesdemocratsandukraineforsoaringusfuelpricesnotiranwar": 1791227697.411219,
+  "usiranwarliveupdatestankerhitbyprojectileinstraitofhormuzengine": 1791228012.5304701,
+  "frombinladentohamas": 1791228012.5636258,
+  "houthiswarnsaudiairspacewontbesafeaslongasriyadhsaggressioncontinues": 1791228012.5762959,
+  "flydubaicopilotplannedattackbeforejoiningairlineisraeliofficialssay": 1791228012.6090572,
+  "allegedflydubaihijackerlikelywantedtotargetisraelsbengurionairportsourcessay": 1791228012.6882627,
+  "yemenmilitaryannouncesretakingmokhafromhouthisamidredseaoffensive": 1791228012.854651
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T19:14:58.944060+00:00",
+ "last_run": "2026-10-05T19:20:14.166206+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2897,6 +2903,10 @@
   {
    "ts": "2026-10-05T19:14:57+00:00",
    "esc6": 24
+  },
+  {
+   "ts": "2026-10-05T19:20:12+00:00",
+   "esc6": 25
   }
  ]
 }
