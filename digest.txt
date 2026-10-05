@@ -1,61 +1,61 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 23:15:11
+زمان تهران: 2026-10-05 23:19:53
   بازار آزاد (بانبست): فروش 269,500 | خرید 269,600  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,786  (خرید 268,685 / فروش 268,786)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 19:45 UTC
-📥 آخرین اجرا 0.2 ساعت پیش
+زمان گزارش: 2026-10-05 19:49 UTC
+📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 391 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -10 (مقایسه با قرائت 6.0 ساعت پیش: 35 → 25)
-⚔️ تشدیدآمیز در ۶ ساعت: 25 | در ۲۴ ساعت: 116
-🎖 عنوان نظامی در ۲۴ ساعت: 95 | خبر جدیدِ این نوبت: 5
+⚔️ تشدیدآمیز در ۶ ساعت: 25 | در ۲۴ ساعت: 115
+🎖 عنوان نظامی در ۲۴ ساعت: 94 | خبر جدیدِ این نوبت: 1
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 26
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 185 · ⚔️ نظامی 142 · 🛢️ انرژی/دریا 50 · 🤝 دیپلماسی 39 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
-📡 منابع ۲۴ ساعت: Jerusalem Post (75)، Middle East Eye (38)، JNS (28)، Al Jazeera (27)، Israel National News (23)، GN site:timesofisrael (23)، Al-Monitor (20)، GN site:haaretz (17)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 185 · ⚔️ نظامی 141 · 🛢️ انرژی/دریا 50 · 🤝 دیپلماسی 39 · ⛔️ تحریم 3 · ☢️ هسته‌ای 3
+📡 منابع ۲۴ ساعت: Jerusalem Post (75)، Middle East Eye (37)، JNS (28)، Al Jazeera (27)، Israel National News (23)، GN site:timesofisrael (23)، Al-Monitor (20)، GN site:haaretz (17)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+🛢️ Saudi-backed forces recapture key areas around strait from Houthis in Yemen
+   📌 منبع: Guardian World
+   🗞 «Government push comes as part of major offensive launched under air cover by Saudi military coalition, aiming to retake all territory held by HouthisForces of the Saudi-led coalition fighting in Yemen have recaptured several key areas aroun»
+   🔗 https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen
+   ⏱ 0.1 ساعت پیش
 ⚔️ Trump says Saudi, Yemeni attacks against Houthis will work out 'very well'
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-saudi-yemeni-attacks-against-houthis-work-out-very-well
-   ⏱ 0.13 ساعت پیش
+   ⏱ 0.21 ساعت پیش
 ⚔️🛢️ Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war
    📌 منبع: Al Jazeera
    🗞 «Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.»
    🔗 https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss
-   ⏱ 0.73 ساعت پیش
+   ⏱ 0.81 ساعت پیش
 ⚔️ معاون ترامپ درباره خروج بمب‌افکن‌های آمریکا از بریتانیا: از روی «احتیاط بیشتر» انجام شد
    📌 منبع: BBC Persian
    🗞 «جی‌دی ونس، معاون رئیس جمهور ایالات متحده گفته است اینکه تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرده از روی «احتیاط بیشتر» انجام شده است.»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 1.0 ساعت پیش
+   ⏱ 1.08 ساعت پیش
 ⚔️ Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2RibF95eEl3dHVrdlVwc2pZMkRjaldLRzUwWkN6U3c0SVQ3QjVzVjBtYTk5a3FoUzZBS0E2cm11VkIzT1Iya1JtUmhiU1duZGtDeHRleWlNUW51Zkt0SFBDRGp5N0xUUGFzSmNSdzloUUpVSldSeXRIS3ZxQ1dWRThCR3ZVLUJReGVfM194a0JVS1VPVGxJQy04T0d0Z2Nuc21MUEdwZw?oc=5
-   ⏱ 1.47 ساعت پیش
+   ⏱ 1.55 ساعت پیش
 🛢️ Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say
    📌 منبع: GN site:apnews
    🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ?oc=5
-   ⏱ 1.74 ساعت پیش
+   ⏱ 1.81 ساعت پیش
 ⚔️ Why the Recent Airplane Attack Against Israel Is Also an Inspiration
    📌 منبع: Algemeiner
    🗞 «Unless you’re completely avoiding the news, you already know that Israeli passengers defeated a hijacking attempt on board flydubai flight FZ1073. The mood...»
    🔗 https://www.algemeiner.com/2026/10/05/why-recent-airplane-attack-against-israel-inspiration/
-   ⏱ 1.81 ساعت پیش
+   ⏱ 1.89 ساعت پیش
 🛢️ Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway
    📌 منبع: BBC World
    🗞 «Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.»
    🔗 https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss
-   ⏱ 1.92 ساعت پیش
-⚔️ Life sentence for terrorist who attempted attack on Israeli Embassy in Britain
-   📌 منبع: Israel National News
-   🗞 «A British court sentenced a man of Kuwaiti origin to life in prison after he attempted to break into the Israeli Embassy in London last year and carry out a stabbing attack.»
-   🔗 https://www.israelnationalnews.com/news/434151
-   ⏱ 1.94 ساعت پیش
+   ⏱ 2.0 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2581
