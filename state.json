@@ -782,10 +782,12 @@
   "yemenlaunchespushtoretaketerritorycapturedbyhouthis": 1791202457.6132195,
   "feiglinsayshereportedthreatsfromuniversitylectureraccusedofplottingattacksonisraeliarabs": 1791202728.571875,
   "yemenigovernmentforcesadvanceonbabelmandebstrait": 1791203000.6467469,
-  "videoiranwareuropenotbeingatthetableisafailuremichelsays": 1791203000.7185454
+  "videoiranwareuropenotbeingatthetableisafailuremichelsays": 1791203000.7185454,
+  "نیروهایدولتییمنمیگویندحملهاستراتژیکبرایپسگرفتنصنعاراآغازکردهاند": 1791203271.161217,
+  "آمریکاتمامبمبافکنهایخودراازپایگاهفرفوردبریتانیامنتقلکرد": 1791203271.1614873
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T12:23:22.307562+00:00",
+ "last_run": "2026-10-05T12:27:52.478432+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2374,6 +2376,10 @@
   {
    "ts": "2026-10-05T12:23:20+00:00",
    "esc6": 34
+  },
+  {
+   "ts": "2026-10-05T12:27:51+00:00",
+   "esc6": 35
   }
  ]
 }
