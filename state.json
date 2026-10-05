@@ -586,10 +586,11 @@
   "allusb1bombersleaveukbaseafterallegediranlinkedplot": 1791161580.5678413,
   "israelorderssecurityreviewofincomingflightsaftercopilotattack": 1791161580.6586642,
   "twoiranianschargedwithterrorplottargetingukjews": 1791163459.8442972,
-  "israelfacespittingallegationasirelandbossdelightedaftertiesover": 1791163999.3642833
+  "israelfacespittingallegationasirelandbossdelightedaftertiesover": 1791163999.3642833,
+  "idfhonorsunit8200officerwhowarnedbeforeoct7": 1791164810.888544
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T01:42:22.815718+00:00",
+ "last_run": "2026-10-05T01:46:52.691141+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1610,6 +1611,10 @@
   {
    "ts": "2026-10-05T01:42:21+00:00",
    "esc6": 22
+  },
+  {
+   "ts": "2026-10-05T01:46:51+00:00",
+   "esc6": 20
   }
  ]
 }
