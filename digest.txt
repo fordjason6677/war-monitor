@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 13:11:08
+زمان تهران: 2026-10-05 13:15:37
   بازار آزاد (بانبست): فروش 268,700 | خرید 268,800  ← October 05, 2026 00:01
-  ▼ -500 تومان نسبت به آخرین نوبت (-0.19%)
-  تتر/تومان زنده (والکس): 268,550  (خرید 268,504 / فروش 268,550)
+  = 0 تومان نسبت به آخرین نوبت (0.00%)
+  تتر/تومان زنده (والکس): 268,470  (خرید 268,417 / فروش 268,470)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 09:41 UTC
+زمان گزارش: 2026-10-05 09:45 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 276 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +6 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 16 → 22)
-⚔️ تشدیدآمیز در ۶ ساعت: 22 | در ۲۴ ساعت: 78
-🎖 عنوان نظامی در ۲۴ ساعت: 65 | خبر جدیدِ این نوبت: 3
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +7 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 15 → 22)
+⚔️ تشدیدآمیز در ۶ ساعت: 22 | در ۲۴ ساعت: 77
+🎖 عنوان نظامی در ۲۴ ساعت: 65 | خبر جدیدِ این نوبت: 1
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 17
 
 🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 144 · ⚔️ نظامی 99 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 2
-📡 منابع ۲۴ ساعت: Jerusalem Post (48)، Middle East Eye (33)، Israel National News (22)، GN site:timesofisrael (22)، Al Jazeera (20)، JNS (18)، GN site:haaretz (13)، GN site:reuters (10)
+📡 منابع ۲۴ ساعت: Jerusalem Post (48)، Middle East Eye (33)، Israel National News (22)، GN site:timesofisrael (22)، Al Jazeera (20)، JNS (19)، GN site:haaretz (13)، GN site:reuters (10)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️ Yemeni government forces attack Houthi positions near Bab el-Mandeb
@@ -28,35 +28,35 @@
    📌 منبع: DW
    🗞 «More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects.»
    🔗 https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf
-   ⏱ 0.82 ساعت پیش
+   ⏱ 0.89 ساعت پیش
 ⚔️ Iraq's Iranian-backed militias say it'll cease attacks once U.S. military withdraws
    📌 منبع: NPR World
    🗞 «Iraq's main Iranian-backed militias say they will stop attacks after the U.S. military's withdrawal from the country.»
    🔗 https://www.npr.org/2026/10/05/nx-s1-5989380/iraqs-iranian-backed-militias-say-itll-cease-attacks-once-u-s-military-withdraws
-   ⏱ 0.93 ساعت پیش
+   ⏱ 1.01 ساعت پیش
 ⚔️ Flydubai attack, UK terror plot put Israel on high alert
    📌 منبع: JNS
    🔗 https://www.jns.org/jns-tv/jlminute/flydubai-attack-uk-terror-plot-put-israel-on-high-alert
-   ⏱ 0.96 ساعت پیش
+   ⏱ 1.04 ساعت پیش
 ⚔️ Yemen military announces broad strikes against Houthis
    📌 منبع: Al-Monitor
    🗞 «The Yemeni military announced a broad set of strikes against Houthi targets on Monday, after the government declared a new campaign to retake all territory even as the Iran-backed group made fresh gains on the ground. The declared offensive»
    🔗 https://www.al-monitor.com/originals/2026/10/yemen-military-announces-broad-strikes-against-houthis
-   ⏱ 1.18 ساعت پیش
+   ⏱ 1.25 ساعت پیش
 ⚔️ Yemen military announces broad range of strikes against Houthis in bid to retake lost territory
    📌 منبع: France24
    🗞 «The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatant»
    🔗 https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory
-   ⏱ 1.47 ساعت پیش
+   ⏱ 1.55 ساعت پیش
 ⚔️ Israel, UAE Agree to Resume Dubai Flights After Flydubai Attack Suspension
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQZlNCMkhuZDd2RjgtYUlnYldhRGYyanBNbG9JUnU3T1BLclBiWUxqckRuZ0pReDFBcG5hUDVieUtCS2ZsVnVmM19RRWVFUVp4OGI0ZlpWamJSeGdXTjNGYzRoeTdnUDBBUG11eWl4SEhRaHR1M2k0YUxvd3Vla2FzNDlPVzBfNmtGSG41bkNkbmNQVWlBQ2ZZbVJTV1BtWmFzWWNRUWk0TnJMMDBkUlpJZG8wMW8yeXg3LWt4V1c4NHJXNDNfVVR4SU5oaHU2bVVQTkNjUWR5Q2JoYXdFNmZDMEN4R2pCR0NtSDJ6R0xFS3hJN1BaZnV2T05SeUtQT3F2ZFhQajVVRGI5MDktTEtEaEZnaWhyWWtsOHc?oc=5
-   ⏱ 2.57 ساعت پیش
+   ⏱ 2.64 ساعت پیش
 ⚔️ British Jews more likely to identify as Zionist since 7 October attacks, research finds
    📌 منبع: Guardian World
    🗞 «Percentage who feel ‘very emotionally attached to Israel’ rose to 51% in June 2025, up 13 points from before Gaza warBritish Jews have become more likely to identify as Zionist, consider emigrating to Israel, and feel a close attachment to »
    🔗 https://www.theguardian.com/news/2026/oct/05/british-jews-more-likely-to-identify-as-zionist-since-7-october-attacks-research-finds
-   ⏱ 2.67 ساعت پیش
+   ⏱ 2.75 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2578
