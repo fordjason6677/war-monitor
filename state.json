@@ -705,10 +705,13 @@
   "yemenigovernmentforcesseizedistrictbybabel": 1791193804.2114637,
   "atoctober7stateceremonynetanyahuvowstherewillbenohamasruleingaza": 1791194077.6796362,
   "idfkilledtwothirdsofterroristswhoinvadedisraelonoctober7intelchieftellscabinet": 1791194347.1883793,
-  "yemenssaudibackedforcesclaimkeygainsaroundbabal": 1791194347.3876002
+  "yemenssaudibackedforcesclaimkeygainsaroundbabal": 1791194347.3876002,
+  "فیلیپینانصرافداد؛فلسطینحریفایراندرتورنمنتبصرهشد": 1791194617.6969953,
+  "israeliprofessorindictedforplanningmassterrorattackagainstpalestiniansarabisraelis": 1791194617.7163308,
+  "watchzamirvowsidfwillimplementlessonsofoctober7massacrethreeyearson": 1791194617.7166777
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T09:59:08.967742+00:00",
+ "last_run": "2026-10-05T10:03:39.204529+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2169,6 +2172,10 @@
   {
    "ts": "2026-10-05T09:59:07+00:00",
    "esc6": 23
+  },
+  {
+   "ts": "2026-10-05T10:03:38+00:00",
+   "esc6": 24
   }
  ]
 }

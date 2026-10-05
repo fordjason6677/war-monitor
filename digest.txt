@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 13:29:08
+زمان تهران: 2026-10-05 13:33:39
   بازار آزاد (بانبست): فروش 268,500 | خرید 268,600  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,547  (خرید 268,547 / فروش 268,548)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 09:59 UTC
+زمان گزارش: 2026-10-05 10:03 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 281 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +8 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 15 → 23)
-⚔️ تشدیدآمیز در ۶ ساعت: 23 | در ۲۴ ساعت: 78
-🎖 عنوان نظامی در ۲۴ ساعت: 65 | خبر جدیدِ این نوبت: 2
+🎯 وضعیت (بر اساس 284 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +9 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 15 → 24)
+⚔️ تشدیدآمیز در ۶ ساعت: 24 | در ۲۴ ساعت: 79
+🎖 عنوان نظامی در ۲۴ ساعت: 66 | خبر جدیدِ این نوبت: 3
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 19
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 146 · ⚔️ نظامی 102 · 🤝 دیپلماسی 29 · 🛢️ انرژی/دریا 28 · ☢️ هسته‌ای 4 · ⛔️ تحریم 2
-📡 منابع ۲۴ ساعت: Jerusalem Post (50)، Middle East Eye (35)، GN site:timesofisrael (22)، Al Jazeera (21)، Israel National News (20)، JNS (19)، GN site:haaretz (14)، GN site:reuters (10)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 148 · ⚔️ نظامی 103 · 🤝 دیپلماسی 29 · 🛢️ انرژی/دریا 28 · ☢️ هسته‌ای 4 · ⛔️ تحریم 2
+📡 منابع ۲۴ ساعت: Jerusalem Post (52)، Middle East Eye (35)، GN site:timesofisrael (22)، Al Jazeera (21)، Israel National News (20)، JNS (19)، GN site:haaretz (14)، GN site:reuters (10)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️ Yemeni government forces attack Houthi positions near Bab el-Mandeb
@@ -27,36 +27,36 @@
 🛢️ Yemen's Saudi-backed forces claim key gains around Bab al-Mandab strait
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/yemens-saudi-backed-forces-claim-key-gains-around-bab-al-mandab-strait
-   ⏱ 0.03 ساعت پیش
+   ⏱ 0.11 ساعت پیش
 🛢️ Yemeni government forces seize district by Bab el-Mandeb, military sources say
    📌 منبع: Al-Monitor
    🗞 «By Timour Azhari and Mohammed GhobariRIYADH, Oct 5 (Reuters) - Saudi-backed Yemeni government forces seized key positions on the Bab el-Mandeb Strait on Monday, military and government sources said, as they fought to reverse last month's ad»
    🔗 https://www.al-monitor.com/originals/2026/10/yemeni-government-forces-seize-district-bab-el-mandeb-military-sources-say
-   ⏱ 0.21 ساعت پیش
+   ⏱ 0.29 ساعت پیش
 ⚔️ Israel's mental health crisis in the wake of Oct. 7 attacks
    📌 منبع: DW
    🗞 «More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects.»
    🔗 https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf
-   ⏱ 1.12 ساعت پیش
+   ⏱ 1.19 ساعت پیش
 ⚔️ Iraq's Iranian-backed militias say it'll cease attacks once U.S. military withdraws
    📌 منبع: NPR World
    🗞 «Iraq's main Iranian-backed militias say they will stop attacks after the U.S. military's withdrawal from the country.»
    🔗 https://www.npr.org/2026/10/05/nx-s1-5989380/iraqs-iranian-backed-militias-say-itll-cease-attacks-once-u-s-military-withdraws
-   ⏱ 1.23 ساعت پیش
+   ⏱ 1.31 ساعت پیش
 ⚔️ Flydubai attack, UK terror plot put Israel on high alert
    📌 منبع: JNS
    🔗 https://www.jns.org/jns-tv/jlminute/flydubai-attack-uk-terror-plot-put-israel-on-high-alert
-   ⏱ 1.26 ساعت پیش
+   ⏱ 1.34 ساعت پیش
 ⚔️ Yemen military announces broad range of strikes against Houthis in bid to retake lost territory
    📌 منبع: France24
    🗞 «The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatant»
    🔗 https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory
-   ⏱ 1.77 ساعت پیش
+   ⏱ 1.85 ساعت پیش
 ⚔️ Israel, UAE Agree to Resume Dubai Flights After Flydubai Attack Suspension
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQZlNCMkhuZDd2RjgtYUlnYldhRGYyanBNbG9JUnU3T1BLclBiWUxqckRuZ0pReDFBcG5hUDVieUtCS2ZsVnVmM19RRWVFUVp4OGI0ZlpWamJSeGdXTjNGYzRoeTdnUDBBUG11eWl4SEhRaHR1M2k0YUxvd3Vla2FzNDlPVzBfNmtGSG41bkNkbmNQVWlBQ2ZZbVJTV1BtWmFzWWNRUWk0TnJMMDBkUlpJZG8wMW8yeXg3LWt4V1c4NHJXNDNfVVR4SU5oaHU2bVVQTkNjUWR5Q2JoYXdFNmZDMEN4R2pCR0NtSDJ6R0xFS3hJN1BaZnV2T05SeUtQT3F2ZFhQajVVRGI5MDktTEtEaEZnaWhyWWtsOHc?oc=5
-   ⏱ 2.87 ساعت پیش
+   ⏱ 2.94 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 2578
+تعداد کل آیتم خوانده‌شده از فیدها: 2579
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
