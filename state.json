@@ -863,10 +863,12 @@
   "irelandandisraelplayersclashduringbehindcloseddoorsdraw": 1791215294.5289059,
   "uksecurityadviservisitedisraelinbidtokeepjerusalemconsulateopensourcessay": 1791215294.6646276,
   "barilanuniversitymathprofessorchargedwithplottingtomurderhundredsofarabs": 1791215566.9034998,
-  "southafricanfuelpricestojumpthisweekoniranwarimpact": 1791215566.931862
+  "southafricanfuelpricestojumpthisweekoniranwarimpact": 1791215566.931862,
+  "knifewieldingpalestiniansetsfiretocarbelongingtoillegalfarmoutpostthreatenslocalsettlerswhoramhimwithcarpolice": 1791215837.927211,
+  "uswantstosellisrael2binmilitaryvehiclesdoesisraelstillwantthem": 1791215837.957676
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T15:52:48.541028+00:00",
+ "last_run": "2026-10-05T15:57:19.471404+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2639,6 +2641,10 @@
   {
    "ts": "2026-10-05T15:52:47+00:00",
    "esc6": 29
+  },
+  {
+   "ts": "2026-10-05T15:57:18+00:00",
+   "esc6": 28
   }
  ]
 }
