@@ -828,7 +828,7 @@
   "thousandstransferredfromsyriatoiraqfacepossibleexecutionoverallegedislinkshrwsays": 1791211190.693527
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T14:39:52.077446+00:00",
+ "last_run": "2026-10-05T14:44:22.567730+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2537,6 +2537,10 @@
   {
    "ts": "2026-10-05T14:39:50+00:00",
    "esc6": 33
+  },
+  {
+   "ts": "2026-10-05T14:44:21+00:00",
+   "esc6": 32
   }
  ]
 }

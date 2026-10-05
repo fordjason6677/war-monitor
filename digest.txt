@@ -1,24 +1,24 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 18:09:52
-  بازار آزاد (بانبست): فروش 269,500 | خرید 269,600  ← October 05, 2026 00:01
-  ▼ -300 تومان نسبت به آخرین نوبت (-0.11%)
+زمان تهران: 2026-10-05 18:14:22
+  بازار آزاد (بانبست): فروش 269,700 | خرید 269,800  ← October 05, 2026 00:01
+  ▲ +200 تومان نسبت به آخرین نوبت (+0.07%)
   تتر/تومان زنده (والکس): 267,671  (خرید 267,684 / فروش 268,000)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 14:39 UTC
+زمان گزارش: 2026-10-05 14:44 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 318 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +18 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 15 → 33)
-⚔️ تشدیدآمیز در ۶ ساعت: 33 | در ۲۴ ساعت: 97
-🎖 عنوان نظامی در ۲۴ ساعت: 81 | خبر جدیدِ این نوبت: 1
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +16 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 16 → 32)
+⚔️ تشدیدآمیز در ۶ ساعت: 32 | در ۲۴ ساعت: 97
+🎖 عنوان نظامی در ۲۴ ساعت: 81 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 24
 
 🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 155 · ⚔️ نظامی 126 · 🛢️ انرژی/دریا 34 · 🤝 دیپلماسی 28 · ☢️ هسته‌ای 2 · ⛔️ تحریم 1
 📡 منابع ۲۴ ساعت: Jerusalem Post (66)، Middle East Eye (34)، Al Jazeera (26)، JNS (23)، Israel National News (21)، GN site:timesofisrael (21)، GN site:reuters (14)، GN site:haaretz (14)
 
-📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+📰 خبرهای تازه (از جدیدترین):
 ⚔️ Israeli West Bank residents crash vehicle into terrorist after arson, attempted stabbing attack
    📌 منبع: Jerusalem Post
    🗞 «The IDF announced later on Monday that Israeli soldiers are pursuing an additional terrorist involved in the attack.»
@@ -27,56 +27,36 @@
 ⚔️ Saudi Arabia has right to defend itself from Houthi attacks, says Rubio
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-has-right-defend-itself-houthi-attacks-says-rubio
-   ⏱ 0.09 ساعت پیش
+   ⏱ 0.16 ساعت پیش
 ⚔️ US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?
    📌 منبع: Al Jazeera
    🗞 «The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.»
    🔗 https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss
-   ⏱ 0.34 ساعت پیش
+   ⏱ 0.41 ساعت پیش
 ⚔️ نتانیاهو: جمهوری اسلامی برای بقای خود می‌جنگد و سرانجام از میان خواهد رفت
    📌 منبع: Iran International
    🗞 «بنیامین نتانیاهو در مراسم سومین سالگرد حمله هفتم اکتبر گفت جمهوری اسلامی در ضعیف‌ترین وضعیت از زمان تاسیس خود است و سرانجام از میان خواهد رفت. او همچنین از ادامه مقابله اسرائیل با حماس و حزب‌الله سخن گفت.»
    🔗 https://www.iranintl.com/202610052081
-   ⏱ 0.66 ساعت پیش
+   ⏱ 0.74 ساعت پیش
 🛢️ Yemeni government forces advance to Bab el-Mandeb Strait
    📌 منبع: GN site:reuters
    🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
-   ⏱ 1.73 ساعت پیش
+   ⏱ 1.81 ساعت پیش
 ⚔️ آمریکا تمام بمب‌افکن‌های خود را از پایگاه فرفورد بریتانیا منتقل کرد
    📌 منبع: BBC Persian
    🗞 «ایالات متحده تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرد؛ این پایگاه نظامی در مرکز حادثه‌ای امنیتی قرار دارد که پلیس مبارزه با تروریسم در حال بررسی آن است. یک مقام پنتاگون روز یکشنبه، ۴ اکتبر، در بیانیه‌ای»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 2.25 ساعت پیش
+   ⏱ 2.33 ساعت پیش
 ⚔️ Feiglin says he reported threats from lecturer accused of plotting attacks on Israeli Arabs
    📌 منبع: JNS
    🗞 «The former MK called for "the full severity of the law" to be imposed in the case.»
    🔗 https://www.jns.org/news/israel-news/hold-feiglin-says-he-reported-threats-from-lecturer-accused-of-plotting-attacks-on-israeli-arabs
-   ⏱ 2.69 ساعت پیش
+   ⏱ 2.77 ساعت پیش
 ⚔️ Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike
    📌 منبع: GN site:apnews
    🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5
-   ⏱ 3.65 ساعت پیش
-
-— خطای پوشش (نباید به‌عنوان «خبر نیست» تفسیر شود) —
-  ⚠ Google News (EN): HTTP 503 (1103B)
-  ⚠ Google News (US-Iran): HTTP 503 (1103B)
-  ⚠ GN site:timesofisrael: HTTP 503 (1103B)
-  ⚠ GN site:ynetnews: HTTP 503 (1103B)
-  ⚠ GN site:israelhayom: HTTP 503 (1103B)
-  ⚠ GN site:haaretz: HTTP 503 (1103B)
-  ⚠ GN site:i24news: HTTP 503 (1103B)
-  ⚠ GN site:reuters: HTTP 503 (1103B)
-  ⚠ GN site:apnews: HTTP 503 (1103B)
-  ⚠ GN site:ft.com: HTTP 503 (1103B)
-  ⚠ GN site:nytimes: HTTP 503 (1103B)
-  ⚠ GN site:washingtonpost: HTTP 503 (1103B)
-  ⚠ GN site:cnn: HTTP 503 (1103B)
-  ⚠ GN site:politico: HTTP 503 (1103B)
-  ⚠ GN site:bloomberg: HTTP 503 (1103B)
-  ⚠ GN site:nbcnews: HTTP 503 (1103B)
-  ⚠ GN site:independent: HTTP 503 (1103B)
-  ⚠ GN site:euronews: HTTP 503 (1103B)
+   ⏱ 3.72 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 783
+تعداد کل آیتم خوانده‌شده از فیدها: 2583
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
