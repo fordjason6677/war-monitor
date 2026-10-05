@@ -955,10 +955,15 @@
   "saudibackedyemeniforcesexpelthehouthisfromseveralareasaroundkeystraitofficialssay": 1791228602.5451522,
   "saudiandyemeniforcesattackhouthistoretakecontrolofredseacoast": 1791228602.5706668,
   "yemenmilitaryannouncesretakingofmokhafromhouthisamidredseaoffensive": 1791228602.76433,
-  "demsenatorwhodemandedsaudiaccountabilityoverkhashoggimeetswithcrownprincepushespalestinianstate": 1791228922.8193722
+  "demsenatorwhodemandedsaudiaccountabilityoverkhashoggimeetswithcrownprincepushespalestinianstate": 1791228922.8193722,
+  "newdetailsonirandronestrike": 1791229509.5797822,
+  "twistedtorahisraelileaderscriticizerabbilandoanti": 1791229509.6033883,
+  "jointlistcallsforjewisharabsupporttooustnetanyahubringpeacebetweenisraelpalestine": 1791229509.6040301,
+  "rubiospokewithisraelsnetanyahuonmondaystatedepartmentofficialsays": 1791229509.604573,
+  "trumpsayssaudiyemeniattacksagainsthouthiswillworkoutverywell": 1791229509.8085747
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T19:35:24.538552+00:00",
+ "last_run": "2026-10-05T19:45:11.751679+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2919,6 +2924,10 @@
   {
    "ts": "2026-10-05T19:35:23+00:00",
    "esc6": 24
+  },
+  {
+   "ts": "2026-10-05T19:45:09+00:00",
+   "esc6": 25
   }
  ]
 }
