@@ -806,10 +806,16 @@
   "oilslipsonriseinmiddleeastcrudeexportsandg7stocksrelease": 1791208177.5247521,
   "yemenigovernmentforcesadvancetobabel": 1791208177.7575626,
   "avisionforisraelsfutureontheanniversaryofoct7": 1791208445.2488394,
-  "yemenigovernmentforcesadvancetobabelmandebstrait": 1791208445.3168852
+  "yemenigovernmentforcesadvancetobabelmandebstrait": 1791208445.3168852,
+  "seniortrumpadministrationofficialsmettodiscussiranwaratcampdavid": 1791208717.4397974,
+  "usiranwarliveupdateshouthiswarnsaudiairspacewillnotbesafeifaggressioncontinues": 1791208717.461063,
+  "karolineleavittjoinsfoxnewsascontributorafterleavingwhitehousepresssecretaryrole": 1791208717.4718819,
+  "bloodofmysononhishandsnetanyahusoctober7speechinterruptedbybereavedfather": 1791208717.4844034,
+  "idfcarmelibrigadelocatesdestroysassad": 1791208717.4846652,
+  "aniranianthreat3vansandaphonecallbehindthemysteryataukairbase": 1791208717.5939257
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T13:54:06.876194+00:00",
+ "last_run": "2026-10-05T13:58:39.457818+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2477,6 +2483,10 @@
   },
   {
    "ts": "2026-10-05T13:54:05+00:00",
+   "esc6": 35
+  },
+  {
+   "ts": "2026-10-05T13:58:37+00:00",
    "esc6": 35
   }
  ]
