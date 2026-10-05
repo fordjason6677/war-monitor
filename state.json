@@ -824,10 +824,11 @@
   "manwhoplannedattackonisraeliembassyinlondonjailedforatleast20years": 1791210343.2466493,
   "saudiarabiahasrighttodefenditselffromhouthiattackssaysrubio": 1791210903.0107515,
   "uspullsbombersfromukbaseisiranmanoeuvringtrumpswarplans": 1791210903.082325,
-  "atoct7memorialnetanyahusayswillbenohamasruleingaza": 1791210903.1136756
+  "atoct7memorialnetanyahusayswillbenohamasruleingaza": 1791210903.1136756,
+  "thousandstransferredfromsyriatoiraqfacepossibleexecutionoverallegedislinkshrwsays": 1791211190.693527
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T14:35:04.872004+00:00",
+ "last_run": "2026-10-05T14:39:52.077446+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2531,6 +2532,10 @@
   },
   {
    "ts": "2026-10-05T14:35:03+00:00",
+   "esc6": 33
+  },
+  {
+   "ts": "2026-10-05T14:39:50+00:00",
    "esc6": 33
   }
  ]
