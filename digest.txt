@@ -1,63 +1,63 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 12:52:57
+زمان تهران: 2026-10-05 12:57:28
   بازار آزاد (بانبست): فروش 269,000 | خرید 269,100  ← October 05, 2026 00:01
-  ▲ +200 تومان نسبت به آخرین نوبت (+0.07%)
-  تتر/تومان زنده (والکس): 268,873  (خرید 268,874 / فروش 268,899)
+  = 0 تومان نسبت به آخرین نوبت (0.00%)
+  تتر/تومان زنده (والکس): 268,930  (خرید 268,903 / فروش 268,915)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 09:22 UTC
+زمان گزارش: 2026-10-05 09:27 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 273 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+🎯 وضعیت (بر اساس 272 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🟠 تنش داره بالا می‌ره — +3 (مقایسه با قرائت 6.0 ساعت پیش: 16 → 19)
 ⚔️ تشدیدآمیز در ۶ ساعت: 19 | در ۲۴ ساعت: 75
-🎖 عنوان نظامی در ۲۴ ساعت: 61 | خبر جدیدِ این نوبت: 2
+🎖 عنوان نظامی در ۲۴ ساعت: 61 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 16
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 145 · ⚔️ نظامی 94 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 2
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 145 · ⚔️ نظامی 93 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Jerusalem Post (46)، Middle East Eye (33)، Israel National News (23)، GN site:timesofisrael (22)، Al Jazeera (20)، JNS (18)، GN site:haaretz (13)، GN site:reuters (9)
 
-📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
-⚔️🤝 Police arrest tourist who stated intent to commit terror attack at IDF's Kirya complex - report
+📰 خبرهای تازه (از جدیدترین):
+⚔️ Yemeni government forces attack Houthi positions near Bab el-Mandeb
    📌 منبع: Jerusalem Post
-   🗞 «Israel Police confirmed the arrest in its own Monday statement, though it did not name the security site, nationality, or the reason for the tourist's arrest beyond their "suspicious" behavior.»
-   🔗 https://www.jpost.com/israel-news/crime-in-israel/article-910610
+   🗞 «The pro-government's Giants Brigades said its first contingents had arrived in the Bab el-Mandeb area.»
+   🔗 https://www.jpost.com/international/article-910620
    ⏱ 0.0 ساعت پیش
 ⚔️ Iraq's Iranian-backed militias say it'll cease attacks once U.S. military withdraws
    📌 منبع: NPR World
    🗞 «Iraq's main Iranian-backed militias say they will stop attacks after the U.S. military's withdrawal from the country.»
    🔗 https://www.npr.org/2026/10/05/nx-s1-5989380/iraqs-iranian-backed-militias-say-itll-cease-attacks-once-u-s-military-withdraws
-   ⏱ 0.63 ساعت پیش
+   ⏱ 0.71 ساعت پیش
 ⚔️ Flydubai attack, UK terror plot put Israel on high alert
    📌 منبع: JNS
    🔗 https://www.jns.org/jns-tv/jlminute/flydubai-attack-uk-terror-plot-put-israel-on-high-alert
-   ⏱ 0.66 ساعت پیش
+   ⏱ 0.74 ساعت پیش
 ⚔️ Yemen military announces broad strikes against Houthis
    📌 منبع: Al-Monitor
    🗞 «The Yemeni military announced a broad set of strikes against Houthi targets on Monday, after the government declared a new campaign to retake all territory even as the Iran-backed group made fresh gains on the ground. The declared offensive»
    🔗 https://www.al-monitor.com/originals/2026/10/yemen-military-announces-broad-strikes-against-houthis
-   ⏱ 0.88 ساعت پیش
+   ⏱ 0.95 ساعت پیش
 ⚔️ Yemen military announces broad range of strikes against Houthis in bid to retake lost territory
    📌 منبع: France24
    🗞 «The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatant»
    🔗 https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory
-   ⏱ 1.17 ساعت پیش
+   ⏱ 1.24 ساعت پیش
 ⚔️ Israel, UAE Agree to Resume Dubai Flights After Flydubai Attack Suspension
    📌 منبع: GN site:haaretz
    🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQZlNCMkhuZDd2RjgtYUlnYldhRGYyanBNbG9JUnU3T1BLclBiWUxqckRuZ0pReDFBcG5hUDVieUtCS2ZsVnVmM19RRWVFUVp4OGI0ZlpWamJSeGdXTjNGYzRoeTdnUDBBUG11eWl4SEhRaHR1M2k0YUxvd3Vla2FzNDlPVzBfNmtGSG41bkNkbmNQVWlBQ2ZZbVJTV1BtWmFzWWNRUWk0TnJMMDBkUlpJZG8wMW8yeXg3LWt4V1c4NHJXNDNfVVR4SU5oaHU2bVVQTkNjUWR5Q2JoYXdFNmZDMEN4R2pCR0NtSDJ6R0xFS3hJN1BaZnV2T05SeUtQT3F2ZFhQajVVRGI5MDktTEtEaEZnaWhyWWtsOHc?oc=5
-   ⏱ 2.27 ساعت پیش
+   ⏱ 2.34 ساعت پیش
 ⚔️ British Jews more likely to identify as Zionist since 7 October attacks, research finds
    📌 منبع: Guardian World
    🗞 «Percentage who feel ‘very emotionally attached to Israel’ rose to 51% in June 2025, up 13 points from before Gaza warBritish Jews have become more likely to identify as Zionist, consider emigrating to Israel, and feel a close attachment to »
    🔗 https://www.theguardian.com/news/2026/oct/05/british-jews-more-likely-to-identify-as-zionist-since-7-october-attacks-research-finds
-   ⏱ 2.37 ساعت پیش
+   ⏱ 2.44 ساعت پیش
 ⚔️ چرا کانادا خود را برای سناریوی حمله آمریکا آماده می‌کند؟
    📌 منبع: BBC Persian
    🗞 «مارک کارنی، نخست‌وزیر کانادا، هفته گذشته اذعان کرد که خود را برای سناریویی آماده کرده است که تا همین اواخر تصورش هم دشوار بود: حمله آمریکا به کانادا.»
    🔗 https://www.bbc.com/persian/articles/cm9dzyex0e51o?at_medium=RSS&at_campaign=rss
-   ⏱ 2.59 ساعت پیش
+   ⏱ 2.66 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 2577
+تعداد کل آیتم خوانده‌شده از فیدها: 2578
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
