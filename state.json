@@ -940,10 +940,11 @@
   "vanceihaventseenanythingconclusivetyingflydubaiattacktoiran": 1791226775.0310056,
   "ukthreatenstoexpel27israelidiplomatsoverjerusalemconsulate": 1791226775.285097,
   "turkeypakistantodeployforcestosaudiarabiaamidhouthiattacks": 1791226775.3207211,
-  "politicoreportedlybarredfromtravelingwithtrumpamidadministrationscrackdownonwhitehousecoverage": 1791226775.329449
+  "politicoreportedlybarredfromtravelingwithtrumpamidadministrationscrackdownonwhitehousecoverage": 1791226775.329449,
+  "barilanuniversitymathematicianchargedwithplottingtomurderhundredsofarabs": 1791227054.5307562
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T18:59:36.554168+00:00",
+ "last_run": "2026-10-05T19:04:16.635255+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2879,6 +2880,10 @@
   },
   {
    "ts": "2026-10-05T18:59:35+00:00",
+   "esc6": 23
+  },
+  {
+   "ts": "2026-10-05T19:04:14+00:00",
    "esc6": 23
   }
  ]
