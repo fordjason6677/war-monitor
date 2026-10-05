@@ -670,10 +670,11 @@
   "saudiarabiaturnstopakistanturkeyasusrefusestointerveneagainsthouthithreat": 1791186775.7565038,
   "yemenigovernmentforcesattackhouthipositionsnearbabel": 1791186775.7567008,
   "anuaddsthreenewartworkstooctober7exhibitasisraelmarksthirdanniversaryofmassacre": 1791186775.7572584,
-  "usremovesbombersfromukbaseatcentreofsuspectediranianplot": 1791187314.8199666
+  "usremovesbombersfromukbaseatcentreofsuspectediranianplot": 1791187314.8199666,
+  "eisenkotbennettdemandregevsousteroversecurityfailuresexposedbyflydubaiattack": 1791187851.7726805
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T08:06:24.234958+00:00",
+ "last_run": "2026-10-05T08:10:55.268609+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2033,6 +2034,10 @@
   },
   {
    "ts": "2026-10-05T08:06:22+00:00",
+   "esc6": 13
+  },
+  {
+   "ts": "2026-10-05T08:10:51+00:00",
    "esc6": 13
   }
  ]
