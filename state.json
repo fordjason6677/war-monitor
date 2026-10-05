@@ -935,10 +935,15 @@
   "pakistanandturkeytoprovidemilitarysupporttosaudiarabiaamidwarwithhouthis": 1791225954.5807111,
   "معاونترامپدربارهخروجبمبافکنهایآمریکاازبریتانیاازرویاحتیاطبیشترانجامشد": 1791225954.6479783,
   "idfpushesbackonclaimittargetsjournalistsingazasays170werepartofterrorgroupsincludinghamas": 1791226224.2097108,
-  "pentagonfbipersonnel": 1791226496.705451
+  "pentagonfbipersonnel": 1791226496.705451,
+  "96ofpeoplewepolledbelievetheiranwarwillcostdonaldtrumpthemidterms": 1791226774.9826887,
+  "vanceihaventseenanythingconclusivetyingflydubaiattacktoiran": 1791226775.0310056,
+  "ukthreatenstoexpel27israelidiplomatsoverjerusalemconsulate": 1791226775.285097,
+  "turkeypakistantodeployforcestosaudiarabiaamidhouthiattacks": 1791226775.3207211,
+  "politicoreportedlybarredfromtravelingwithtrumpamidadministrationscrackdownonwhitehousecoverage": 1791226775.329449
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T18:54:58.433952+00:00",
+ "last_run": "2026-10-05T18:59:36.554168+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2871,6 +2876,10 @@
   {
    "ts": "2026-10-05T18:54:56+00:00",
    "esc6": 21
+  },
+  {
+   "ts": "2026-10-05T18:59:35+00:00",
+   "esc6": 23
   }
  ]
 }
