@@ -1,62 +1,62 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 11:58:59
-  بازار آزاد (بانبست): فروش 271,200 | خرید 271,300  ← October 05, 2026 00:01
-  ▼ -100 تومان نسبت به آخرین نوبت (-0.04%)
+زمان تهران: 2026-10-05 12:03:31
+  بازار آزاد (بانبست): فروش 270,700 | خرید 270,800  ← October 05, 2026 00:01
+  ▼ -500 تومان نسبت به آخرین نوبت (-0.18%)
   تتر/تومان زنده (والکس): 269,701  (خرید 269,703 / فروش 269,704)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 08:28 UTC
+زمان گزارش: 2026-10-05 08:33 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 268 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -5 (مقایسه با قرائت 6.0 ساعت پیش: 20 → 15)
-⚔️ تشدیدآمیز در ۶ ساعت: 15 | در ۲۴ ساعت: 68
-🎖 عنوان نظامی در ۲۴ ساعت: 55 | خبر جدیدِ این نوبت: 0
+⚔️ تشدیدآمیز در ۶ ساعت: 15 | در ۲۴ ساعت: 69
+🎖 عنوان نظامی در ۲۴ ساعت: 56 | خبر جدیدِ این نوبت: 2
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 16
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 144 · ⚔️ نظامی 86 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 27 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
-📡 منابع ۲۴ ساعت: Jerusalem Post (45)، Middle East Eye (38)، GN site:timesofisrael (23)، Israel National News (21)، Al Jazeera (19)، JNS (16)، GN site:haaretz (13)، France24 (8)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 143 · ⚔️ نظامی 87 · 🤝 دیپلماسی 31 · 🛢️ انرژی/دریا 27 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
+📡 منابع ۲۴ ساعت: Jerusalem Post (44)، Middle East Eye (38)، GN site:timesofisrael (23)، Israel National News (21)، Al Jazeera (18)، JNS (17)، GN site:haaretz (13)، Al-Monitor (8)
 
-📰 خبرهای تازه (از جدیدترین):
+📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🤝 Police arrest tourist who stated intent to commit terror attack at IDF's Kirya complex - report
    📌 منبع: Jerusalem Post
    🗞 «Israel Police confirmed the arrest in its own Monday statement, though it did not name the security site, nationality, or the reason for the tourist's arrest beyond their "suspicious" behavior.»
    🔗 https://www.jpost.com/israel-news/crime-in-israel/article-910610
    ⏱ 0.0 ساعت پیش
+⚔️ Yemen military announces broad strikes against Houthis
+   📌 منبع: Al-Monitor
+   🗞 «The Yemeni military announced a broad set of strikes against Houthi targets on Monday, after the government declared a new campaign to retake all territory even as the Iran-backed group made fresh gains on the ground. The declared offensive»
+   🔗 https://www.al-monitor.com/originals/2026/10/yemen-military-announces-broad-strikes-against-houthis
+   ⏱ 0.05 ساعت پیش
 ⚔️ Yemen military announces broad range of strikes against Houthis in bid to retake lost territory
    📌 منبع: France24
    🗞 «The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatant»
    🔗 https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory
-   ⏱ 0.27 ساعت پیش
+   ⏱ 0.34 ساعت پیش
 ⚔️ British Jews more likely to identify as Zionist since 7 October attacks, research finds
    📌 منبع: Guardian World
    🗞 «Percentage who feel ‘very emotionally attached to Israel’ rose to 51% in June 2025, up 13 points from before Gaza warBritish Jews have become more likely to identify as Zionist, consider emigrating to Israel, and feel a close attachment to »
    🔗 https://www.theguardian.com/news/2026/oct/05/british-jews-more-likely-to-identify-as-zionist-since-7-october-attacks-research-finds
-   ⏱ 1.47 ساعت پیش
+   ⏱ 1.54 ساعت پیش
 ⚔️ چرا کانادا خود را برای سناریوی حمله آمریکا آماده می‌کند؟
    📌 منبع: BBC Persian
    🗞 «مارک کارنی، نخست‌وزیر کانادا، هفته گذشته اذعان کرد که خود را برای سناریویی آماده کرده است که تا همین اواخر تصورش هم دشوار بود: حمله آمریکا به کانادا.»
    🔗 https://www.bbc.com/persian/articles/cm9dzyex0e51o?at_medium=RSS&at_campaign=rss
-   ⏱ 1.69 ساعت پیش
-⚔️ Co-pilot planned flydubai attack before hired by airline, two Israeli officials say
-   📌 منبع: Al-Monitor
-   🗞 «By Alexander Cornwell and Maayan LubellJERUSALEM, Oct 5 (Reuters) - The flydubai co-pilot who stabbed his captain in an alleged attempt to crash the plane last week told UAE interrogators he planned the attack before being hired by the airl»
-   🔗 https://www.al-monitor.com/originals/2026/10/co-pilot-planned-flydubai-attack-hired-airline-two-israeli-officials-say
-   ⏱ 1.71 ساعت پیش
+   ⏱ 1.76 ساعت پیش
 ⚔️ Yemeni government forces claim over 1,120 attacks against Houthi positions
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-over-1120-attacks-against-houthi
-   ⏱ 2.14 ساعت پیش
+   ⏱ 2.21 ساعت پیش
 ⚔️ Israeli FM to JNS: Abraham Accords won't be harmed by flydubai attack
    📌 منبع: JNS
    🗞 «Speaking on "Tov LaYehudim," JNS's Hebrew-language podcast, Sa'ar said he had twice spoken by phone with the UAE foreign minister since the incident.»
    🔗 https://www.jns.org/news/israel-news/israeli-fm-to-jns-abraham-accords-wont-be-harmed-by-flydubai-attack
-   ⏱ 2.22 ساعت پیش
+   ⏱ 2.3 ساعت پیش
 ⚔️ Israel Iran Strike Timeline and US Midterms
    📌 منبع: GN site:israelhayom
    🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUVTbF9ySk80OUJzclBGYjNUTkpaQkxVOTZWeDB2dVhmLTQ1UW5BckF4TFctQWNDLVpzN1drZmdQamoyQ3BCdXJRYWlUU0dvcHdKNTZDMm1iYjFaVFJnMmVCbTR6NF8wNmkwNzd6SW11bGFUR0pHdTBsd21McjZabkdtdzZtc2dZZU5WSGxLZHdQY0dhMThZ?oc=5
-   ⏱ 2.45 ساعت پیش
+   ⏱ 2.52 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2577
