@@ -802,10 +802,12 @@
   "pentagonofficialsheateddebatesforeshadowedproblemsiniran": 1791207362.9300277,
   "bereavedfatherdisruptsnetanyahuoct7speechyoufailedtoprotectmyson": 1791207904.7000017,
   "dontlethubrisgetinthewayofendingtheiranwar": 1791207904.766124,
-  "iceofferstankerderivativesforrouteoutsidestraitofhormuz": 1791207904.7668133
+  "iceofferstankerderivativesforrouteoutsidestraitofhormuz": 1791207904.7668133,
+  "oilslipsonriseinmiddleeastcrudeexportsandg7stocksrelease": 1791208177.5247521,
+  "yemenigovernmentforcesadvancetobabel": 1791208177.7575626
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T13:45:06.263988+00:00",
+ "last_run": "2026-10-05T13:49:39.376425+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2465,6 +2467,10 @@
   },
   {
    "ts": "2026-10-05T13:45:04+00:00",
+   "esc6": 35
+  },
+  {
+   "ts": "2026-10-05T13:49:37+00:00",
    "esc6": 35
   }
  ]
