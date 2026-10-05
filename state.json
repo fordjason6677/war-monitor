@@ -684,10 +684,12 @@
   "iraqsiranianbackedmilitiassayitllceaseattacksonceusmilitarywithdraws": 1791190287.406206,
   "iranwarliveyemeniarmymakesgainstehransaysreadyforusattacks": 1791190554.5872855,
   "israelobservesoctober7anniversarywithnationalmemorialday": 1791190554.5977604,
-  "wewillshineagainherzogwarnsisraelagainstignoringsignsofdangeratoct7ceremony": 1791190820.9606285
+  "wewillshineagainherzogwarnsisraelagainstignoringsignsofdangeratoct7ceremony": 1791190820.9606285,
+  "thebattleforhaifapalestinianstargetasymbolofindia": 1791191089.899342,
+  "apentagondisputeintrumpsfirstwarforeshadowedchallengesiniran": 1791191089.9733655
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T09:00:22.480691+00:00",
+ "last_run": "2026-10-05T09:04:51.482685+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2095,6 +2097,10 @@
   },
   {
    "ts": "2026-10-05T09:00:21+00:00",
+   "esc6": 18
+  },
+  {
+   "ts": "2026-10-05T09:04:50+00:00",
    "esc6": 18
   }
  ]
