@@ -621,10 +621,11 @@
   "israelfacespittingallegationasirelandbossdelightedgamesareover": 1791176702.9942265,
   "mirroringopponentisraelteamtowearoct7blackarmbandsforirelandmatch": 1791176971.2785337,
   "saudibackedyemenforcesbeginbidtoretakehouthiareas": 1791176971.384437,
-  "iranianoilministerquitsreplacedbyoilexecutive": 1791177239.7350032
+  "iranianoilministerquitsreplacedbyoilexecutive": 1791177239.7350032,
+  "israeldenouncesbritishgreenpartyszionismisracismmotion": 1791177509.3675878
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T05:14:01.225893+00:00",
+ "last_run": "2026-10-05T05:18:31.433375+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1832,6 +1833,10 @@
   },
   {
    "ts": "2026-10-05T05:14:00+00:00",
+   "esc6": 9
+  },
+  {
+   "ts": "2026-10-05T05:18:29+00:00",
    "esc6": 9
   }
  ]
