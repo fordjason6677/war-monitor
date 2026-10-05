@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 17:42:14
+زمان تهران: 2026-10-05 17:46:42
   بازار آزاد (بانبست): فروش 269,900 | خرید 270,000  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,699  (خرید 268,705 / فروش 268,729)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 14:12 UTC
+زمان گزارش: 2026-10-05 14:16 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 314 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +22 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 13 → 35)
-⚔️ تشدیدآمیز در ۶ ساعت: 35 | در ۲۴ ساعت: 92
-🎖 عنوان نظامی در ۲۴ ساعت: 75 | خبر جدیدِ این نوبت: 1
+🎯 وضعیت (بر اساس 315 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +19 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 13 → 32)
+⚔️ تشدیدآمیز در ۶ ساعت: 32 | در ۲۴ ساعت: 92
+🎖 عنوان نظامی در ۲۴ ساعت: 77 | خبر جدیدِ این نوبت: 3
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 24
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 158 · ⚔️ نظامی 118 · 🛢️ انرژی/دریا 34 · 🤝 دیپلماسی 27 · ☢️ هسته‌ای 2 · ⛔️ تحریم 1
-📡 منابع ۲۴ ساعت: Jerusalem Post (66)، Middle East Eye (31)، Al Jazeera (25)، JNS (23)، GN site:timesofisrael (21)، Israel National News (20)، GN site:reuters (15)، GN site:haaretz (14)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 157 · ⚔️ نظامی 121 · 🛢️ انرژی/دریا 34 · 🤝 دیپلماسی 28 · ☢️ هسته‌ای 2 · ⛔️ تحریم 1
+📡 منابع ۲۴ ساعت: Jerusalem Post (65)، Middle East Eye (32)، Al Jazeera (25)، JNS (23)، Israel National News (21)، GN site:timesofisrael (21)، GN site:reuters (15)، GN site:haaretz (14)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️ Israeli West Bank residents crash vehicle into terrorist after arson, attempted stabbing attack
@@ -24,36 +24,36 @@
    🗞 «The IDF announced later on Monday that Israeli soldiers are pursuing an additional terrorist involved in the attack.»
    🔗 https://www.jpost.com/israel-news/article-910661
    ⏱ 0.0 ساعت پیش
+⚔️🛢️ Yemen's Saudi-backed forces begin 'strategic offensive' in Sanaa
+   📌 منبع: Middle East Eye
+   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/yemens-saudi-backed-forces-begin-strategic-offensive-sanaa
+   ⏱ 0.05 ساعت پیش
 🛢️ Yemeni government forces advance to Bab el-Mandeb Strait
    📌 منبع: GN site:reuters
    🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
-   ⏱ 1.27 ساعت پیش
+   ⏱ 1.35 ساعت پیش
 ⚔️ آمریکا تمام بمب‌افکن‌های خود را از پایگاه فرفورد بریتانیا منتقل کرد
    📌 منبع: BBC Persian
    🗞 «ایالات متحده تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرد؛ این پایگاه نظامی در مرکز حادثه‌ای امنیتی قرار دارد که پلیس مبارزه با تروریسم در حال بررسی آن است. یک مقام پنتاگون روز یکشنبه، ۴ اکتبر، در بیانیه‌ای»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 1.79 ساعت پیش
-🤝 Yemen’s child soldiers: How poverty and war are pushing minors to the frontlines
-   📌 منبع: Middle East Eye
-   🔗 https://www.middleeasteye.net/news/yemens-child-soldiers-how-poverty-and-war-are-pushing-minors-frontlines
-   ⏱ 2.18 ساعت پیش
+   ⏱ 1.87 ساعت پیش
 ⚔️ Feiglin says he reported threats from lecturer accused of plotting attacks on Israeli Arabs
    📌 منبع: JNS
    🗞 «The former MK called for "the full severity of the law" to be imposed in the case.»
    🔗 https://www.jns.org/news/israel-news/hold-feiglin-says-he-reported-threats-from-lecturer-accused-of-plotting-attacks-on-israeli-arabs
-   ⏱ 2.23 ساعت پیش
+   ⏱ 2.31 ساعت پیش
 ⚔️ Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike
    📌 منبع: GN site:apnews
    🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5
-   ⏱ 3.19 ساعت پیش
+   ⏱ 3.26 ساعت پیش
 ⚔️ Netanyahu at Oct. 7 ceremony: We will settle scores with everyone involved in attacks
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3J0WVA4UWZtSDQ1V1RXWXFXT1libHBRS29pdktsX0syZmJIRDhGYmJDNFN5eW52bzhjVGx1NFBtTVl6YUktUXFFYkNrU0NkSUJzSUFRVTM1YzBTV3NmaGcxYkVSdDNvMG5udk04VjdKREtPMDEyNnJVNF9zQmt4VnFzNVB6Vm1QbVhkZFNrUWI3TThSQzR3RDI2S3BCQ2tjMk1McFNqNHVNcGN3azdwRlFTQkJ6OE5Qd1E4eUwzQU9mMFpFVVVDQg?oc=5
-   ⏱ 4.06 ساعت پیش
+   ⏱ 4.14 ساعت پیش
 🛢️ Gulf crude exports return to pre-war levels, excluding Iran
    📌 منبع: GN site:euronews
    🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPNFpmS3psU0RCN2dyT0MxYlBmeWc4WGxBaDFsTFc5a1pZNC12X0lZdzBFOUE5bHpfV0lRRnV0S1dqMkVJRzQ3RWpWM09Ha3FNNFVhX3J0TUVaNUdQSXhrcm41RG5LdVRZR2pxWWZhTHk1ODJlUllENG5ybERBcGYxSUhKamxiYVBjMkF2ZWs3Vmk0YWhBZWtQRmc1Nl93TWNY?oc=5
-   ⏱ 4.31 ساعت پیش
+   ⏱ 4.39 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2583

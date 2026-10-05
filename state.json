@@ -814,10 +814,13 @@
   "idfcarmelibrigadelocatesdestroysassad": 1791208717.4846652,
   "aniranianthreat3vansandaphonecallbehindthemysteryataukairbase": 1791208717.5939257,
   "aliveandkickingalqaedastillholdsswayinarabianpeninsulaisraeliexperttellspost": 1791209261.37769,
-  "theworldisrewritingtherulesofgenocideisraelisthetarget": 1791209532.7167113
+  "theworldisrewritingtherulesofgenocideisraelisthetarget": 1791209532.7167113,
+  "netanyahupredictsiransfalltopgeneralwarnsofnewwar": 1791209800.4132643,
+  "youdidntprotectmysonmemorialceremonyeruptsasbereavedfatherhecklesnetanyahu": 1791209800.4394455,
+  "yemenssaudibackedforcesbeginstrategicoffensiveinsanaa": 1791209800.6468408
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T14:12:14.201960+00:00",
+ "last_run": "2026-10-05T14:16:42.086661+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2502,6 +2505,10 @@
   {
    "ts": "2026-10-05T14:12:12+00:00",
    "esc6": 35
+  },
+  {
+   "ts": "2026-10-05T14:16:40+00:00",
+   "esc6": 32
   }
  ]
 }
