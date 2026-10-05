@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 15:17:09
+زمان تهران: 2026-10-05 15:21:39
   بازار آزاد (بانبست): فروش 270,000 | خرید 270,100  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,896  (خرید 268,895 / فروش 268,896)
+  تتر/تومان زنده (والکس): 268,554  (خرید 268,554 / فروش 268,631)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 11:47 UTC
+زمان گزارش: 2026-10-05 11:51 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 312 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+🎯 وضعیت (بر اساس 314 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +28 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 7 → 35)
 ⚔️ تشدیدآمیز در ۶ ساعت: 35 | در ۲۴ ساعت: 83
-🎖 عنوان نظامی در ۲۴ ساعت: 73 | خبر جدیدِ این نوبت: 2
-⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 20
+🎖 عنوان نظامی در ۲۴ ساعت: 73 | خبر جدیدِ این نوبت: 3
+⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 23
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 167 · ⚔️ نظامی 112 · 🤝 دیپلماسی 29 · 🛢️ انرژی/دریا 28 · ⛔️ تحریم 2 · ☢️ هسته‌ای 2
-📡 منابع ۲۴ ساعت: Jerusalem Post (66)، Middle East Eye (33)، Al Jazeera (25)، Israel National News (23)، GN site:timesofisrael (22)، JNS (19)، GN site:haaretz (14)، Al-Monitor (12)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 167 · ⚔️ نظامی 115 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 27 · ⛔️ تحریم 2 · ☢️ هسته‌ای 2
+📡 منابع ۲۴ ساعت: Jerusalem Post (66)، Middle East Eye (33)، Al Jazeera (25)، Israel National News (23)، GN site:timesofisrael (22)، JNS (19)، GN site:haaretz (15)، Al-Monitor (12)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️ IDF has killed two-thirds of terrorists who infiltrated Israel on Oct. 7, military intel. says
@@ -27,35 +27,35 @@
 ⚔️ Can Baghdad gain control over paramilitary groups amid US war on Iran?
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/iraq-paramilitaries-baghdad-push-greater-state-control
-   ⏱ 0.27 ساعت پیش
+   ⏱ 0.34 ساعت پیش
 ⚔️ Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike
    📌 منبع: GN site:apnews
    🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5
-   ⏱ 0.77 ساعت پیش
+   ⏱ 0.84 ساعت پیش
 ⚔️ IDF troops fire at car that rammed army vehicle in Judea
    📌 منبع: JNS
    🗞 «No Israeli security personnel were hurt.»
    🔗 https://www.jns.org/news/israel-news/idf-troops-fire-at-car-that-rammed-army-vehicle-in-judea
-   ⏱ 1.23 ساعت پیش
+   ⏱ 1.31 ساعت پیش
 🛢️ Yemeni government forces seize district by Bab el-Mandeb, military sources say
    📌 منبع: Al-Monitor
    🗞 «By Timour Azhari and Mohammed GhobariRIYADH, Oct 5 (Reuters) - Saudi-backed Yemeni government forces seized key positions on the Bab el-Mandeb Strait on Monday, military and government sources said, as they fought to reverse last month's ad»
    🔗 https://www.al-monitor.com/originals/2026/10/yemeni-government-forces-seize-district-bab-el-mandeb-military-sources-say
-   ⏱ 2.01 ساعت پیش
+   ⏱ 2.09 ساعت پیش
 🛢️ Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis
    📌 منبع: Al Jazeera
    🗞 «Army of internationally recognised gov't claims key gains near strait before Saudi, Pakistani, Turkish officials meet.»
    🔗 https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss
-   ⏱ 2.11 ساعت پیش
+   ⏱ 2.18 ساعت پیش
 🤝 ‘I’m here to save lives’: Inside the unlikely Biden-Trump partnership to secure a Gaza ceasefire
    📌 منبع: GN site:cnn
    🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFBhNXlWSlg3UWZ5ZXRPWTR0UTFuLVhBeWxXZlRfNG1ZeG9QUVoxbUd1aUJwNTlhZ0E2TEVaRkw5SjFWTzBaSjZwT2RBY0p5czdxbEgzQW5xbk5ROE9UTFRrU1pRMFNSVnp4ekZKTXBxMXdHZDlnWndTUXNR?oc=5
-   ⏱ 2.77 ساعت پیش
+   ⏱ 2.85 ساعت پیش
 ⚔️ Israel's mental health crisis in the wake of Oct. 7 attacks
    📌 منبع: DW
    🗞 «More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects.»
    🔗 https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf
-   ⏱ 2.92 ساعت پیش
+   ⏱ 2.99 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
