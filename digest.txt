@@ -1,61 +1,61 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 10:23:37
+زمان تهران: 2026-10-05 10:28:09
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 269,927  (خرید 269,928 / فروش 269,950)
+  تتر/تومان زنده (والکس): 270,700  (خرید 270,699 / فروش 270,700)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 06:53 UTC
+زمان گزارش: 2026-10-05 06:58 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 253 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -14 (مقایسه با قرائت 6.0 ساعت پیش: 23 → 9)
-⚔️ تشدیدآمیز در ۶ ساعت: 9 | در ۲۴ ساعت: 65
-🎖 عنوان نظامی در ۲۴ ساعت: 52 | خبر جدیدِ این نوبت: 2
+🎯 وضعیت (بر اساس 257 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -13 (مقایسه با قرائت 6.0 ساعت پیش: 23 → 10)
+⚔️ تشدیدآمیز در ۶ ساعت: 10 | در ۲۴ ساعت: 66
+🎖 عنوان نظامی در ۲۴ ساعت: 53 | خبر جدیدِ این نوبت: 4
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 138 · ⚔️ نظامی 79 · 🤝 دیپلماسی 28 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
-📡 منابع ۲۴ ساعت: Jerusalem Post (41)، Middle East Eye (36)، Al Jazeera (21)، GN site:timesofisrael (21)، Israel National News (20)، GN site:haaretz (13)، JNS (12)، GN site:israelhayom (8)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 141 · ⚔️ نظامی 80 · 🤝 دیپلماسی 29 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
+📡 منابع ۲۴ ساعت: Jerusalem Post (44)، Middle East Eye (37)، Al Jazeera (21)، GN site:timesofisrael (21)، Israel National News (20)، GN site:haaretz (13)، JNS (12)، GN site:israelhayom (8)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+⚔️🤝 Police arrest tourist who stated intent to commit terror attack at IDF's Kirya complex - report
+   📌 منبع: Jerusalem Post
+   🗞 «Israel Police confirmed the arrest in its own Monday statement, though it did not name the security site, nationality, or the reason for the tourist's arrest beyond their "suspicious" behavior.»
+   🔗 https://www.jpost.com/israel-news/crime-in-israel/article-910610
+   ⏱ 0.0 ساعت پیش
 ⚔️ چرا کانادا خود را برای سناریوی حمله آمریکا آماده می‌کند؟
    📌 منبع: BBC Persian
    🗞 «مارک کارنی، نخست‌وزیر کانادا، هفته گذشته اذعان کرد که خود را برای سناریویی آماده کرده است که تا همین اواخر تصورش هم دشوار بود: حمله آمریکا به کانادا.»
    🔗 https://www.bbc.com/persian/articles/cm9dzyex0e51o?at_medium=RSS&at_campaign=rss
-   ⏱ 0.1 ساعت پیش
+   ⏱ 0.17 ساعت پیش
 ⚔️ Co-pilot planned flydubai attack before hired by airline, two Israeli officials say
    📌 منبع: Al-Monitor
    🗞 «By Alexander Cornwell and Maayan LubellJERUSALEM, Oct 5 (Reuters) - The flydubai co-pilot who stabbed his captain in an alleged attempt to crash the plane last week told UAE interrogators he planned the attack before being hired by the airl»
    🔗 https://www.al-monitor.com/originals/2026/10/co-pilot-planned-flydubai-attack-hired-airline-two-israeli-officials-say
-   ⏱ 0.12 ساعت پیش
+   ⏱ 0.19 ساعت پیش
 ⚔️ Yemeni government forces claim over 1,120 attacks against Houthi positions
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-over-1120-attacks-against-houthi
-   ⏱ 0.55 ساعت پیش
+   ⏱ 0.62 ساعت پیش
 ⚔️ Israeli FM to JNS: Abraham Accords won't be harmed by flydubai attack
    📌 منبع: JNS
    🗞 «Speaking on "Tov LaYehudim," JNS's Hebrew-language podcast, Sa'ar said he had twice spoken by phone with the UAE foreign minister since the incident.»
    🔗 https://www.jns.org/news/israel-news/israeli-fm-to-jns-abraham-accords-wont-be-harmed-by-flydubai-attack
-   ⏱ 0.63 ساعت پیش
+   ⏱ 0.71 ساعت پیش
 ⚔️ Israel Iran Strike Timeline and US Midterms
    📌 منبع: GN site:israelhayom
    🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUVTbF9ySk80OUJzclBGYjNUTkpaQkxVOTZWeDB2dVhmLTQ1UW5BckF4TFctQWNDLVpzN1drZmdQamoyQ3BCdXJRYWlUU0dvcHdKNTZDMm1iYjFaVFJnMmVCbTR6NF8wNmkwNzd6SW11bGFUR0pHdTBsd21McjZabkdtdzZtc2dZZU5WSGxLZHdQY0dhMThZ?oc=5
-   ⏱ 0.86 ساعت پیش
+   ⏱ 0.93 ساعت پیش
 ⚔️🛢️ Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
    📌 منبع: DW
    🗞 «Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.»
    🔗 https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf
-   ⏱ 1.31 ساعت پیش
+   ⏱ 1.39 ساعت پیش
 ⛔️ U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNeW0tbGd3clJ4Q3dNMEEwLXAwR0V2X1ZZZDA1bG9Db3lKTm95U1FUeExwY1owWUdLSlQwcEM5dFN6TWhGNHcxaGJSR2lwUlFJVkVhLUppaTV1QUhaaTlRaGFwMWVHZktBZ1J5Tm5PckhJNTA0aEJKaUNvVXBobmRHRU9RWVMyMURoam8tWFE2RFI1dTk2b0pSWA?oc=5
-   ⏱ 2.87 ساعت پیش
-⚔️ IDF shoots suspect attempting to break into military post in southern Syria
-   📌 منبع: Jerusalem Post
-   🗞 «On Sunday evening, troops from the 2nd "Carmeli" Brigade, who were manning outposts in the Syrian buffer zone, spotted a suspect approaching the post between the villages of Hader and Kuneitra.»
-   🔗 https://www.jpost.com/israel-news/defense-news/article-910595
-   ⏱ 4.42 ساعت پیش
+   ⏱ 2.95 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2578
