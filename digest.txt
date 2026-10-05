@@ -1,21 +1,21 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 19:50:10
-  بازار آزاد (بانبست): فروش 269,300 | خرید 269,400  ← October 05, 2026 00:01
-  = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,940  (خرید 268,939 / فروش 268,940)
+زمان تهران: 2026-10-05 19:54:40
+  بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 05, 2026 00:01
+  ▼ -100 تومان نسبت به آخرین نوبت (-0.04%)
+  تتر/تومان زنده (والکس): 269,001  (خرید 269,001 / فروش 269,100)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 16:20 UTC
+زمان گزارش: 2026-10-05 16:24 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 340 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (+0) (مقایسه با قرائت 6.0 ساعت پیش: 25 → 25)
+🎯 وضعیت (بر اساس 341 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟡 تقریباً ثابت — تغییر محسوسی نیست (-1) (مقایسه با قرائت 6.0 ساعت پیش: 26 → 25)
 ⚔️ تشدیدآمیز در ۶ ساعت: 25 | در ۲۴ ساعت: 100
 🎖 عنوان نظامی در ۲۴ ساعت: 83 | خبر جدیدِ این نوبت: 1
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 26
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 164 · ⚔️ نظامی 129 · 🛢️ انرژی/دریا 40 · 🤝 دیپلماسی 29 · ⛔️ تحریم 2 · ☢️ هسته‌ای 2
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 165 · ⚔️ نظامی 129 · 🛢️ انرژی/دریا 40 · 🤝 دیپلماسی 29 · ⛔️ تحریم 2 · ☢️ هسته‌ای 2
 📡 منابع ۲۴ ساعت: Jerusalem Post (67)، Middle East Eye (39)، JNS (26)، Al Jazeera (24)، GN site:timesofisrael (19)، Israel National News (19)، GN site:haaretz (16)، Al-Monitor (15)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
@@ -28,36 +28,36 @@
    📌 منبع: Al Jazeera
    🗞 «Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.»
    🔗 https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss
-   ⏱ 0.85 ساعت پیش
+   ⏱ 0.93 ساعت پیش
 🛢️ Yemeni government forces say they have 'secured' Bab al-Mandab Strait
    📌 منبع: BBC World
    🗞 «Houthi-run media deny the government has made advances in the Dhubab area, which overlooks the strategic Red Sea waterway.»
    🔗 https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss
-   ⏱ 1.71 ساعت پیش
+   ⏱ 1.79 ساعت پیش
 ⚔️ Saudi Arabia has right to defend itself from Houthi attacks, says Rubio
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-has-right-defend-itself-houthi-attacks-says-rubio
-   ⏱ 1.76 ساعت پیش
+   ⏱ 1.83 ساعت پیش
 ⚔️ نتانیاهو: جمهوری اسلامی برای بقای خود می‌جنگد و سرانجام از میان خواهد رفت
    📌 منبع: Iran International
    🗞 «بنیامین نتانیاهو در مراسم سومین سالگرد حمله هفتم اکتبر گفت جمهوری اسلامی در ضعیف‌ترین وضعیت از زمان تاسیس خود است و سرانجام از میان خواهد رفت. او همچنین از ادامه مقابله اسرائیل با حماس و حزب‌الله سخن گفت.»
    🔗 https://www.iranintl.com/202610052081
-   ⏱ 2.34 ساعت پیش
+   ⏱ 2.41 ساعت پیش
 🛢️ Yemeni government forces advance to Bab el-Mandeb Strait
    📌 منبع: GN site:reuters
    🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
-   ⏱ 3.41 ساعت پیش
+   ⏱ 3.48 ساعت پیش
 ⚔️ آمریکا تمام بمب‌افکن‌های خود را از پایگاه فرفورد بریتانیا منتقل کرد
    📌 منبع: BBC Persian
    🗞 «ایالات متحده تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرد؛ این پایگاه نظامی در مرکز حادثه‌ای امنیتی قرار دارد که پلیس مبارزه با تروریسم در حال بررسی آن است. یک مقام پنتاگون روز یکشنبه، ۴ اکتبر، در بیانیه‌ای»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 3.92 ساعت پیش
+   ⏱ 4.0 ساعت پیش
 ⚔️ Feiglin says he reported threats from lecturer accused of plotting attacks on Israeli Arabs
    📌 منبع: JNS
    🗞 «The former MK called for "the full severity of the law" to be imposed in the case.»
    🔗 https://www.jns.org/news/israel-news/hold-feiglin-says-he-reported-threats-from-lecturer-accused-of-plotting-attacks-on-israeli-arabs
-   ⏱ 4.37 ساعت پیش
+   ⏱ 4.44 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 2582
+تعداد کل آیتم خوانده‌شده از فیدها: 2580
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
