@@ -1,61 +1,61 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 21:03:12
+زمان تهران: 2026-10-05 21:07:43
   بازار آزاد (بانبست): فروش 269,500 | خرید 269,600  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 268,923  (خرید 268,922 / فروش 268,923)
+  تتر/تومان زنده (والکس): 268,787  (خرید 268,583 / فروش 268,787)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 17:33 UTC
+زمان گزارش: 2026-10-05 17:37 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
 🎯 وضعیت (بر اساس 350 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -14 (مقایسه با قرائت 6.0 ساعت پیش: 35 → 21)
+📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -13 (مقایسه با قرائت 6.0 ساعت پیش: 34 → 21)
 ⚔️ تشدیدآمیز در ۶ ساعت: 21 | در ۲۴ ساعت: 102
-🎖 عنوان نظامی در ۲۴ ساعت: 86 | خبر جدیدِ این نوبت: 2
+🎖 عنوان نظامی در ۲۴ ساعت: 86 | خبر جدیدِ این نوبت: 0
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 26
 
 🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 165 · ⚔️ نظامی 133 · 🛢️ انرژی/دریا 45 · 🤝 دیپلماسی 31 · ☢️ هسته‌ای 3 · ⛔️ تحریم 2
 📡 منابع ۲۴ ساعت: Jerusalem Post (65)، Middle East Eye (39)، JNS (27)، Al Jazeera (25)، GN site:timesofisrael (24)، Israel National News (21)، Al-Monitor (17)، GN site:haaretz (16)
 
-📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
+📰 خبرهای تازه (از جدیدترین):
 ⚔️ آمریکا خروج بمب افکن‌هایش از پایگاهی در بریتانیا را بی‌ارتباط به حوادث امنیتی اخیر توصیف کرد
    📌 منبع: BBC Persian
    🗞 «ایالات متحده گفته است اینکه تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرده به وقایع امنیتی اخیر درباره این پایگاه ارتباطی ندارد.»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 0.07 ساعت پیش
+   ⏱ 0.14 ساعت پیش
 ⚔️ Iran plans to expand missile range to reach ‘enemy located at greater distance’, spokesperson says
    📌 منبع: Jerusalem Post
    🗞 «The IRGC spokesperson shared that “during this war, we reached the conclusion that we definitely need to increase the range of our missiles, and we have now moved in this direction.”»
    🔗 https://www.jpost.com/middle-east/article-910679
-   ⏱ 0.16 ساعت پیش
+   ⏱ 0.24 ساعت پیش
 🛢️ Yemeni government forces drive Houthis from Bab el-Mandeb Strait
    📌 منبع: GN site:reuters
    🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
-   ⏱ 0.99 ساعت پیش
+   ⏱ 1.06 ساعت پیش
 🛢️ Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge
    📌 منبع: Al Jazeera
    🗞 «Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.»
    🔗 https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss
-   ⏱ 2.07 ساعت پیش
+   ⏱ 2.14 ساعت پیش
 ⚔️ Yemen’s armed forces say they have begun ‘strategic offensive’ in capital Sanaa
    📌 منبع: GN site:timesofisrael
    🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHhYY1c3ZDVfME85aU50eEhSMGVRZ1VYR3NtWi1PaXRuX0xqam1jdHJRSF9XVHFDTS12dmVlZ0ZHNmdkYXd6TkxEM21DR3NuOGVTTG1iSXEwWm5sck5iaUFwdHBqU3d1YnZ6aFRHTV9Iakl4aWRDUkJsTGtfenlvNjM5Y0FaUk8wc2ZEQkN0Q2NpTWNQOXA3Ri1vX0NLMHlncE9RbUFBRGpaS2xCS1BCWFJaV0pKS1gxUEhtdkd0SQ?oc=5
-   ⏱ 2.38 ساعت پیش
+   ⏱ 2.46 ساعت پیش
 🛢️ Yemeni government forces say they have 'secured' Bab al-Mandab Strait
    📌 منبع: BBC World
    🗞 «Houthi-run media deny the government has made advances in the Dhubab area, which overlooks the strategic Red Sea waterway.»
    🔗 https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss
-   ⏱ 2.93 ساعت پیش
+   ⏱ 3.01 ساعت پیش
 ⚔️ Saudi Arabia has right to defend itself from Houthi attacks, says Rubio
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-has-right-defend-itself-houthi-attacks-says-rubio
-   ⏱ 2.98 ساعت پیش
+   ⏱ 3.05 ساعت پیش
 ⚔️ نتانیاهو: جمهوری اسلامی برای بقای خود می‌جنگد و سرانجام از میان خواهد رفت
    📌 منبع: Iran International
    🗞 «بنیامین نتانیاهو در مراسم سومین سالگرد حمله هفتم اکتبر گفت جمهوری اسلامی در ضعیف‌ترین وضعیت از زمان تاسیس خود است و سرانجام از میان خواهد رفت. او همچنین از ادامه مقابله اسرائیل با حماس و حزب‌الله سخن گفت.»
    🔗 https://www.iranintl.com/202610052081
-   ⏱ 3.55 ساعت پیش
+   ⏱ 3.63 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
