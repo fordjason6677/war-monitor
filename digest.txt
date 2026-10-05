@@ -1,22 +1,22 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 14:36:36
+زمان تهران: 2026-10-05 14:41:04
   بازار آزاد (بانبست): فروش 269,700 | خرید 269,800  ← October 05, 2026 00:01
-  ▲ +200 تومان نسبت به آخرین نوبت (+0.07%)
-  تتر/تومان زنده (والکس): 268,961  (خرید 268,951 / فروش 268,952)
+  = 0 تومان نسبت به آخرین نوبت (0.00%)
+  تتر/تومان زنده (والکس): 268,980  (خرید 268,979 / فروش 268,980)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 11:06 UTC
+زمان گزارش: 2026-10-05 11:11 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 301 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +21 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 9 → 30)
-⚔️ تشدیدآمیز در ۶ ساعت: 30 | در ۲۴ ساعت: 82
-🎖 عنوان نظامی در ۲۴ ساعت: 72 | خبر جدیدِ این نوبت: 2
+🎯 وضعیت (بر اساس 302 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🔴 شدیداً به جنگ نزدیک‌تر شدیم — +22 تیتر تشدیدآمیز (مقایسه با قرائت 6.0 ساعت پیش: 9 → 31)
+⚔️ تشدیدآمیز در ۶ ساعت: 31 | در ۲۴ ساعت: 83
+🎖 عنوان نظامی در ۲۴ ساعت: 73 | خبر جدیدِ این نوبت: 2
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 19
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 161 · ⚔️ نظامی 108 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 2
-📡 منابع ۲۴ ساعت: Jerusalem Post (61)، Middle East Eye (36)، Al Jazeera (25)، GN site:timesofisrael (21)، JNS (20)، Israel National News (20)، GN site:haaretz (14)، GN site:reuters (12)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 161 · ⚔️ نظامی 109 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 2
+📡 منابع ۲۴ ساعت: Jerusalem Post (61)، Middle East Eye (35)، Al Jazeera (25)، GN site:timesofisrael (21)، JNS (20)، Israel National News (20)، GN site:haaretz (15)، GN site:reuters (12)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️ IDF has killed two-thirds of terrorists who infiltrated Israel on Oct. 7, military intel. says
@@ -24,38 +24,38 @@
    🗞 «There are 2,000 remaining, and we will get to every last one of them," Maj. Gen. Shlomi Binder, head of the IDF's Military Intelligence, said during a security cabinet meeting, sources told the Post.»
    🔗 https://www.jpost.com/israel-news/defense-news/article-910632
    ⏱ 0.0 ساعت پیش
-⚔️ A Saudi-led coalition says its fighter jets are bombing Yemen’s Iran-backed Houthi rebels
+⚔️ Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike
    📌 منبع: GN site:apnews
-   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ?oc=5
-   ⏱ 0.23 ساعت پیش
+   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5
+   ⏱ 0.17 ساعت پیش
 ⚔️ Three years after Israeli bombing, Palestinian man recovers wife's remains
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/news/three-years-after-israeli-bombing-palestinian-man-recovers-wifes-remains
-   ⏱ 0.38 ساعت پیش
+   ⏱ 0.46 ساعت پیش
 ⚔️ IDF troops fire at car that rammed army vehicle in Judea
    📌 منبع: JNS
    🗞 «No Israeli security personnel were hurt.»
    🔗 https://www.jns.org/news/israel-news/idf-troops-fire-at-car-that-rammed-army-vehicle-in-judea
-   ⏱ 0.56 ساعت پیش
+   ⏱ 0.63 ساعت پیش
 🛢️ Yemeni government forces seize district by Bab el-Mandeb, military sources say
    📌 منبع: Al-Monitor
    🗞 «By Timour Azhari and Mohammed GhobariRIYADH, Oct 5 (Reuters) - Saudi-backed Yemeni government forces seized key positions on the Bab el-Mandeb Strait on Monday, military and government sources said, as they fought to reverse last month's ad»
    🔗 https://www.al-monitor.com/originals/2026/10/yemeni-government-forces-seize-district-bab-el-mandeb-military-sources-say
-   ⏱ 1.33 ساعت پیش
+   ⏱ 1.41 ساعت پیش
 🛢️ Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis
    📌 منبع: Al Jazeera
    🗞 «Army of internationally recognised gov't claims key gains near strait before Saudi, Pakistani, Turkish officials meet.»
    🔗 https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss
-   ⏱ 1.43 ساعت پیش
+   ⏱ 1.51 ساعت پیش
 🤝 ‘I’m here to save lives’: Inside the unlikely Biden-Trump partnership to secure a Gaza ceasefire
    📌 منبع: GN site:cnn
    🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFBhNXlWSlg3UWZ5ZXRPWTR0UTFuLVhBeWxXZlRfNG1ZeG9QUVoxbUd1aUJwNTlhZ0E2TEVaRkw5SjFWTzBaSjZwT2RBY0p5czdxbEgzQW5xbk5ROE9UTFRrU1pRMFNSVnp4ekZKTXBxMXdHZDlnWndTUXNR?oc=5
-   ⏱ 2.1 ساعت پیش
+   ⏱ 2.17 ساعت پیش
 ⚔️ Israel's mental health crisis in the wake of Oct. 7 attacks
    📌 منبع: DW
    🗞 «More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects.»
    🔗 https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf
-   ⏱ 2.24 ساعت پیش
+   ⏱ 2.32 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2578
