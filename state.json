@@ -836,10 +836,13 @@
   "syriaterrorsuspectsunarmedattemptedtogatherintelligenceonidfpostsinsecurityzone": 1791213109.2243812,
   "whysaudiarabiaslastwarinyementurnedintoaquagmire": 1791213109.3373916,
   "howtheforeignofficeveiledisraelscrimesingazatokeepbritisharmsflowing": 1791213109.4328737,
-  "yemenigovernmentforcessaytheyhavesecuredbabal": 1791213109.5020874
+  "yemenigovernmentforcessaytheyhavesecuredbabal": 1791213109.5020874,
+  "israelimedicalworkerswhotreatedoct7woundedrelivedayterrorhithome": 1791213384.6922724,
+  "netanyahuvowsatmemorialnoforgivenessforoctober7killers": 1791213384.7069051,
+  "fatherofmankilledbyisraelifireduring7octobercallsnetanyahuatraitor": 1791213384.9096024
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T15:11:50.769514+00:00",
+ "last_run": "2026-10-05T15:16:26.264885+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2575,6 +2578,10 @@
   },
   {
    "ts": "2026-10-05T15:11:49+00:00",
+   "esc6": 30
+  },
+  {
+   "ts": "2026-10-05T15:16:25+00:00",
    "esc6": 30
   }
  ]
