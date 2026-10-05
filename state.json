@@ -662,10 +662,11 @@
   "toiletseatstoysandhairclipsthestrangestitemsisraelstillbarredfromgaza": 1791185409.2001505,
   "doeslogicsupportthestorybehindegyptwarningisraelbeforeoct7": 1791185692.7891204,
   "netanyahucampaignfirmdenieslinktovideosbackinghimfilmedatitsstudios": 1791185962.9911022,
-  "planetoisraelnarrowlyavertsdisasterafterpilotstabbing": 1791185963.0480058
+  "planetoisraelnarrowlyavertsdisasterafterpilotstabbing": 1791185963.0480058,
+  "usremovesallbombersfrombritishairbasetargetedbyasuspectedterrorattack": 1791186233.7799854
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T07:39:24.429736+00:00",
+ "last_run": "2026-10-05T07:43:55.773913+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -2001,6 +2002,10 @@
   },
   {
    "ts": "2026-10-05T07:39:23+00:00",
+   "esc6": 11
+  },
+  {
+   "ts": "2026-10-05T07:43:54+00:00",
    "esc6": 11
   }
  ]
