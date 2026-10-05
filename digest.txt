@@ -1,62 +1,61 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 22:11:23
+زمان تهران: 2026-10-05 22:15:56
   بازار آزاد (بانبست): فروش 269,500 | خرید 269,600  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
   تتر/تومان زنده (والکس): 268,786  (خرید 268,685 / فروش 268,786)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 18:41 UTC
+زمان گزارش: 2026-10-05 18:45 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 371 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
-📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -16 (مقایسه با قرائت 6.0 ساعت پیش: 35 → 19)
-⚔️ تشدیدآمیز در ۶ ساعت: 19 | در ۲۴ ساعت: 108
-🎖 عنوان نظامی در ۲۴ ساعت: 89 | خبر جدیدِ این نوبت: 2
+🎯 وضعیت (بر اساس 373 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -14 (مقایسه با قرائت 6.0 ساعت پیش: 35 → 21)
+⚔️ تشدیدآمیز در ۶ ساعت: 21 | در ۲۴ ساعت: 110
+🎖 عنوان نظامی در ۲۴ ساعت: 90 | خبر جدیدِ این نوبت: 4
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 26
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 177 · ⚔️ نظامی 137 · 🛢️ انرژی/دریا 46 · 🤝 دیپلماسی 35 · ☢️ هسته‌ای 3 · ⛔️ تحریم 2
-📡 منابع ۲۴ ساعت: Jerusalem Post (72)، Middle East Eye (39)، JNS (27)، Al Jazeera (26)، GN site:timesofisrael (22)، Israel National News (21)، Al-Monitor (17)، GN site:haaretz (17)
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 177 · ⚔️ نظامی 138 · 🛢️ انرژی/دریا 46 · 🤝 دیپلماسی 36 · ☢️ هسته‌ای 3 · ⛔️ تحریم 2
+📡 منابع ۲۴ ساعت: Jerusalem Post (72)، Middle East Eye (40)، JNS (27)، Al Jazeera (26)، Israel National News (22)، GN site:timesofisrael (22)، Al-Monitor (17)، GN site:haaretz (16)
 
 📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
-⚔️ معاون ترامپ درباره خروج بمب افکن‌های آمریکا از پایگاهی در بریتانیا: از روی «احتیاط بیشتر» انجام شد
+⚔️ معاون ترامپ درباره خروج بمب‌افکن‌های آمریکا از بریتانیا: از روی «احتیاط بیشتر» انجام شد
    📌 منبع: BBC Persian
    🗞 «جی‌دی ونس، معاون رئیس جمهور ایالات متحده گفته است اینکه تمام بمب‌افکن‌های خود را از پایگاه نیروی هوایی سلطنتی فرفورد بریتانیا خارج کرده از روی «احتیاط بیشتر» انجام شده است.»
    🔗 https://www.bbc.com/persian/articles/c9vgrlj522veo?at_medium=RSS&at_campaign=rss
-   ⏱ 0.1 ساعت پیش
+   ⏱ 0.01 ساعت پیش
+🤝 Pakistan and Turkey to provide military support to Saudi Arabia amid war with Houthis
+   📌 منبع: Middle East Eye
+   🔗 https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-and-turkey-provide-military-support-saudi-arabia-amid-war
+   ⏱ 0.03 ساعت پیش
 ⚔️ Why the Recent Airplane Attack Against Israel Is Also an Inspiration
    📌 منبع: Algemeiner
    🗞 «Unless you’re completely avoiding the news, you already know that Israeli passengers defeated a hijacking attempt on board flydubai flight FZ1073. The mood...»
    🔗 https://www.algemeiner.com/2026/10/05/why-recent-airplane-attack-against-israel-inspiration/
-   ⏱ 0.75 ساعت پیش
+   ⏱ 0.83 ساعت پیش
 🛢️ Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway
    📌 منبع: BBC World
    🗞 «Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.»
    🔗 https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss
-   ⏱ 0.86 ساعت پیش
+   ⏱ 0.93 ساعت پیش
 ⚔️ Life sentence for terrorist who attempted attack on Israeli Embassy in Britain
    📌 منبع: Israel National News
    🗞 «A British court sentenced a man of Kuwaiti origin to life in prison after he attempted to break into the Israeli Embassy in London last year and carry out a stabbing attack.»
    🔗 https://www.israelnationalnews.com/news/434151
-   ⏱ 0.88 ساعت پیش
+   ⏱ 0.96 ساعت پیش
 ⚔️ Iran plans to expand missile range to reach ‘enemy located at greater distance’, spokesperson says
    📌 منبع: Jerusalem Post
    🗞 «The IRGC spokesperson shared that “during this war, we reached the conclusion that we definitely need to increase the range of our missiles, and we have now moved in this direction.”»
    🔗 https://www.jpost.com/middle-east/article-910679
-   ⏱ 1.3 ساعت پیش
+   ⏱ 1.37 ساعت پیش
 ⚔️ Saudi and Yemeni Forces Attack to Retake Control of Red Sea Coast
    📌 منبع: GN site:nytimes
    🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2RibF95eEl3dHVrdlVwc2pZMkRjaldLRzUwWkN6U3c0SVQ3QjVzVjBtYTk5a3FoUzZBS0E2cm11VkIzT1Iya1JtUmhiU1duZGtDeHRleWlNUW51Zkt0SFBDRGp5N0xUUGFzSmNSdzloUUpVSldSeXRIS3ZxQ1dWRThCR3ZVLUJReGVfM194a0JVS1VPVGxJQy04T0d0Z2Nuc21MUEdwZw?oc=5
-   ⏱ 1.32 ساعت پیش
+   ⏱ 1.39 ساعت پیش
 🛢️ Yemeni government forces drive Houthis from Bab el-Mandeb Strait
    📌 منبع: GN site:reuters
    🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5
-   ⏱ 2.13 ساعت پیش
-🛢️ Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge
-   📌 منبع: Al Jazeera
-   🗞 «Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.»
-   🔗 https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss
-   ⏱ 3.21 ساعت پیش
+   ⏱ 2.2 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
 تعداد کل آیتم خوانده‌شده از فیدها: 2580
