@@ -657,10 +657,11 @@
   "idfkillsoct7nukhbaterroristtiedtoturkishaidgroup": 1791183756.4594886,
   "anentirenationbowsitsheadandmournsisraelmarksmemorialdayforoct7": 1791184027.752337,
   "yemenlaunchesmajormilitaryoperationagainsthouthis": 1791184568.2743618,
-  "britishjewsmorelikelytoidentifyaszionistsince7octoberattacksresearchfinds": 1791184568.2891808
+  "britishjewsmorelikelytoidentifyaszionistsince7octoberattacksresearchfinds": 1791184568.2891808,
+  "oilfallsasmiddleeastcrudeexportsriseg7toreleasestocks": 1791185101.99009
  },
  "last_cutoff": null,
- "last_run": "2026-10-05T07:20:35.886708+00:00",
+ "last_run": "2026-10-05T07:25:05.268846+00:00",
  "trend": [
   {
    "ts": "2026-10-04T06:35:23+00:00",
@@ -1980,6 +1981,10 @@
   },
   {
    "ts": "2026-10-05T07:20:34+00:00",
+   "esc6": 11
+  },
+  {
+   "ts": "2026-10-05T07:25:02+00:00",
    "esc6": 11
   }
  ]

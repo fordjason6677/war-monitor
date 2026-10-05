@@ -1,24 +1,24 @@
 💰 نرخ لحظه‌ای ارز (تومان)
-زمان تهران: 2026-10-05 10:50:35
+زمان تهران: 2026-10-05 10:55:05
   بازار آزاد (بانبست): فروش 269,200 | خرید 269,300  ← October 05, 2026 00:01
   = 0 تومان نسبت به آخرین نوبت (0.00%)
-  تتر/تومان زنده (والکس): 270,235  (خرید 270,235 / فروش 270,250)
+  تتر/تومان زنده (والکس): 269,801  (خرید 269,800 / فروش 269,801)
   نرخ رسمی: 148,022 تومان (1,480,224 ریال)  ← Mon, 05 Oct 2026
 
 📊 گزارش مانیتور وضعیت جنگی ایران / اسرائیل / آمریکا
-زمان گزارش: 2026-10-05 07:20 UTC
+زمان گزارش: 2026-10-05 07:25 UTC
 📥 آخرین اجرا 0.1 ساعت پیش
 
-🎯 وضعیت (بر اساس 260 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
+🎯 وضعیت (بر اساس 261 عنوان در ۲۴ ساعت اخیر): 🔴 تشدید فعال
 📈 روند: 🟢 کاهش چشمگیر تنش — فاصله گرفتیم -11 (مقایسه با قرائت 6.0 ساعت پیش: 22 → 11)
 ⚔️ تشدیدآمیز در ۶ ساعت: 11 | در ۲۴ ساعت: 65
-🎖 عنوان نظامی در ۲۴ ساعت: 52 | خبر جدیدِ این نوبت: 0
+🎖 عنوان نظامی در ۲۴ ساعت: 52 | خبر جدیدِ این نوبت: 1
 ⚪️ از شاخص کنار رفت (خبر محلی/غیرمرتبط با جنگ ایران–اسرائیل–آمریکا): 14
 
-🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 144 · ⚔️ نظامی 80 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 26 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
+🗂 دسته‌بندی ۲۴ ساعت: 📰 عمومی 144 · ⚔️ نظامی 80 · 🤝 دیپلماسی 30 · 🛢️ انرژی/دریا 27 · ☢️ هسته‌ای 4 · ⛔️ تحریم 3
 📡 منابع ۲۴ ساعت: Jerusalem Post (45)، Middle East Eye (37)، Al Jazeera (21)، Israel National News (20)، GN site:timesofisrael (20)، JNS (15)، GN site:haaretz (12)، France24 (8)
 
-📰 خبرهای تازه (از جدیدترین):
+📰 خبرهای تازه (اول مرتبط‌ترین‌ها، از جدیدترین):
 ⚔️🤝 Police arrest tourist who stated intent to commit terror attack at IDF's Kirya complex - report
    📌 منبع: Jerusalem Post
    🗞 «Israel Police confirmed the arrest in its own Monday statement, though it did not name the security site, nationality, or the reason for the tourist's arrest beyond their "suspicious" behavior.»
@@ -28,36 +28,36 @@
    📌 منبع: Guardian World
    🗞 «Percentage who feel ‘very emotionally attached to Israel’ rose to 51% in June 2025, up 13 points from before Gaza warBritish Jews have become more likely to identify as Zionist, consider emigrating to Israel, and feel a close attachment to »
    🔗 https://www.theguardian.com/news/2026/oct/05/british-jews-more-likely-to-identify-as-zionist-since-7-october-attacks-research-finds
-   ⏱ 0.33 ساعت پیش
+   ⏱ 0.4 ساعت پیش
 ⚔️ چرا کانادا خود را برای سناریوی حمله آمریکا آماده می‌کند؟
    📌 منبع: BBC Persian
    🗞 «مارک کارنی، نخست‌وزیر کانادا، هفته گذشته اذعان کرد که خود را برای سناریویی آماده کرده است که تا همین اواخر تصورش هم دشوار بود: حمله آمریکا به کانادا.»
    🔗 https://www.bbc.com/persian/articles/cm9dzyex0e51o?at_medium=RSS&at_campaign=rss
-   ⏱ 0.55 ساعت پیش
+   ⏱ 0.62 ساعت پیش
 ⚔️ Co-pilot planned flydubai attack before hired by airline, two Israeli officials say
    📌 منبع: Al-Monitor
    🗞 «By Alexander Cornwell and Maayan LubellJERUSALEM, Oct 5 (Reuters) - The flydubai co-pilot who stabbed his captain in an alleged attempt to crash the plane last week told UAE interrogators he planned the attack before being hired by the airl»
    🔗 https://www.al-monitor.com/originals/2026/10/co-pilot-planned-flydubai-attack-hired-airline-two-israeli-officials-say
-   ⏱ 0.57 ساعت پیش
+   ⏱ 0.64 ساعت پیش
 ⚔️ Yemeni government forces claim over 1,120 attacks against Houthi positions
    📌 منبع: Middle East Eye
    🔗 https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-over-1120-attacks-against-houthi
-   ⏱ 1.0 ساعت پیش
+   ⏱ 1.07 ساعت پیش
 ⚔️ Israeli FM to JNS: Abraham Accords won't be harmed by flydubai attack
    📌 منبع: JNS
    🗞 «Speaking on "Tov LaYehudim," JNS's Hebrew-language podcast, Sa'ar said he had twice spoken by phone with the UAE foreign minister since the incident.»
    🔗 https://www.jns.org/news/israel-news/israeli-fm-to-jns-abraham-accords-wont-be-harmed-by-flydubai-attack
-   ⏱ 1.08 ساعت پیش
+   ⏱ 1.16 ساعت پیش
 ⚔️ Israel Iran Strike Timeline and US Midterms
    📌 منبع: GN site:israelhayom
    🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUVTbF9ySk80OUJzclBGYjNUTkpaQkxVOTZWeDB2dVhmLTQ1UW5BckF4TFctQWNDLVpzN1drZmdQamoyQ3BCdXJRYWlUU0dvcHdKNTZDMm1iYjFaVFJnMmVCbTR6NF8wNmkwNzd6SW11bGFUR0pHdTBsd21McjZabkdtdzZtc2dZZU5WSGxLZHdQY0dhMThZ?oc=5
-   ⏱ 1.31 ساعت پیش
+   ⏱ 1.38 ساعت پیش
 ⚔️🛢️ Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
    📌 منبع: DW
    🗞 «Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.»
    🔗 https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf
-   ⏱ 1.76 ساعت پیش
+   ⏱ 1.83 ساعت پیش
 
 ⚠️ این گزارش از روی عناوین RSS ساخته شده، ارزیابی میدانی مستقل نیست.
-تعداد کل آیتم خوانده‌شده از فیدها: 2578
+تعداد کل آیتم خوانده‌شده از فیدها: 2577
 خبرهای حذف‌شده از منابع وابسته (سپاه/حکومت): 0
